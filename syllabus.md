@@ -15,7 +15,7 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 ## Meeting Location and Time
 
 M 2:30-5:30pm</br>
-130 Moore
+444 Moore
 
 ## Goals
 
@@ -29,11 +29,12 @@ Undergraduate coursework in neuroscience or physiological psychology such as the
 
 ### Textbook
 
-Breedlove, S. M., Watson, N. V., & Rosenzweig, M. R. (2010). *Biological Psychology: An introduction to behavioral and cognitive neuroscience (6th ed.)*. Sunderland, MA: Sinauer.
+Breedlove, S. M. & Watson, N. V. (2013). *Biological Psychology: An introduction to behavioral and cognitive neuroscience (7th ed.)*. Sunderland, MA: Sinauer.
 
 ### Web links
 
 Course home page: <http://psu-psych.github.io/psy-511>
+Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm>
 
 ---
 
@@ -45,15 +46,15 @@ Course home page: <http://psu-psych.github.io/psy-511>
 
 #### Mon, August 24
 
-Why biological psychology? Read: BWR 1.
-Methods in neuroscience.
+Why biological psychology? Read: BW 1.
+Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
 
 ### Week 02, August 31 - September 4
 
 #### Mon
 
-Neuroanatomy. Read BWR 2:35-50.
-Neuroanatomy Lab. [Handout](handouts/neuroanatomy-lab-handout.md)
+Neuroanatomy. Read BW 2:34-49. [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md)
+**Neuroanatomy Lab**. [Handout](handouts/neuroanatomy-lab-handout.md). 
 
 ### Week 03, September 7 - 11
 
@@ -65,60 +66,62 @@ Neuroanatomy Lab. [Handout](handouts/neuroanatomy-lab-handout.md)
 
 #### Mon
 
-Quiz 1.
-Neurophysiology. Read BWR 3:57-73.
+**Quiz 1**.
+Cellular neuroanatomy. Read BW 2:23-33. [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md)
+Neurophysiology. Read BW 3:57-73.
 
 ### Week 05, September 21 - 25
 
 #### Mon
 
-Neural communication. Read BWR 3:73-81.
-Neurochemistry. Read BWR 4:87-94.
+Neural communication. Read BW 3:55-89. [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
+Neurochemistry. Read 4:91-107.
 
 ### Week 06, September 28 - October 2
 
 #### Mon
 
-Quiz 2.
-Neurochemistry, Hormones.
+**Quiz 2**.
+Neurochemistry. Read BW: 4:107-124.
+Hormones. 5:125-154.
 
 ### Week 07, October 5 - 9
 
 #### Mon
 
-Evolution and development.
+Evolution and development. Read BW 6 & 7.
 
 ### Week 08, October 12 - 16
 
 #### Mon
 
-Perception and Action.
+Perception and Action. Read BW 8:223-247, 11:327-347.
 
 ### Week 09, October 19 - 23
 
 #### Mon
 
-Quiz 3.
-Cognition.
+**Quiz 3**.
+Cognition. Read BW 17, 18, 19.
 
 ### Week 10, October 26 - 30
 
 #### Mon
 
-Emotion.
+Emotion. Read BW 15.
 
 ### Week 11, November 2 - 6
 
 #### Mon
 
-Disorder and Disease.
-Take home exam distributed.
+Disorder and Disease. Read BW 16.
+**Take home exam distributed**.
 
 ### Week 12, November 9 - 13
 
 #### Mon
 
-Cool classics and hot topics.
+[Cool classics](http://www.sfn.org/about/history-of-neuroscience/classic-papers) and hot topics.
 
 ### Week 13, November 16 - 20
 
@@ -134,14 +137,14 @@ Planning for student-led sessions.
 
 #### Mon
 
-Student-led session A.
+Student-led session A.</br>
 Student-led session B.
 
 ### Week 16, December 7 - 11
 
 #### Mon
 
-Student-led session C.
+Student-led session C.</br>
 Student-led session D.
 
 ### Week 17, December 14 - 18
