@@ -46,14 +46,15 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 #### Mon, August 24
 
-Why biological psychology? Read: BW 1.
-Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>
+Why biological psychology? Read: BW 1.</br>
+Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods></br>
 
 ### Week 02, August 31 - September 4
 
 #### Mon
 
-Neuroanatomy. Read BW 2:34-49. [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md)
+Neuroanatomy. Read BW 2:34-49.</br>
+[Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md)</br>
 **Neuroanatomy Lab**. [Handout](handouts/neuroanatomy-lab-handout.md). 
 
 ### Week 03, September 7 - 11
@@ -66,15 +67,16 @@ Neuroanatomy. Read BW 2:34-49. [Anatomy outline](https://github.com/psu-psycholo
 
 #### Mon
 
-**Quiz 1**.
-Cellular neuroanatomy. Read BW 2:23-33. [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md)
+**Quiz 1**.</br>
+Cellular neuroanatomy. Read BW 2:23-33. [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md)</br>
 Neurophysiology. Read BW 3:57-73.
 
 ### Week 05, September 21 - 25
 
 #### Mon
 
-Neural communication. Read BW 3:55-89. [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
+Neural communication. Read BW 3:55-89.</br>
+[Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).</br>
 Neurochemistry. Read 4:91-107.
 
 ### Week 06, September 28 - October 2
@@ -82,14 +84,15 @@ Neurochemistry. Read 4:91-107.
 #### Mon
 
 **Quiz 2**.
-Neurochemistry. Read BW: 4:107-124.
+Neurochemistry. Read BW: 4:107-124.</br>
 Hormones. 5:125-154.
 
 ### Week 07, October 5 - 9
 
 #### Mon
 
-Evolution and development. Read BW 6 & 7.
+Evolution and development. Read BW 6 & 7</br>
+Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015)>.
 
 ### Week 08, October 12 - 16
 
@@ -101,7 +104,7 @@ Perception and Action. Read BW 8:223-247, 11:327-347.
 
 #### Mon
 
-**Quiz 3**.
+**Quiz 3**.</br>
 Cognition. Read BW 17, 18, 19.
 
 ### Week 10, October 26 - 30
@@ -114,7 +117,7 @@ Emotion. Read BW 15.
 
 #### Mon
 
-Disorder and Disease. Read BW 16.
+Disorder and Disease. Read BW 16.</br>
 **Take home exam distributed**.
 
 ### Week 12, November 9 - 13
