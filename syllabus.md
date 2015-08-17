@@ -48,7 +48,7 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 Why biological psychology? Read: BW 1.</br>
 Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods></br>
-[Lecture Notes](http://psu-psychology/psy-511-scan-fdns/2014-08-24/).
+[Lecture Notes](http://psu-psychology.github.io/psy-511-scan-fdns/2014-08-24/).
 
 ### Week 02, August 31 - September 4
 
