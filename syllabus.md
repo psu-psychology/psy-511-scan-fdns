@@ -48,6 +48,7 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 Why biological psychology? Read: BW 1.</br>
 Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods></br>
+[Lecture Notes](http://psu-psychology/psy-511-scan-fdns/2014-08-24/).
 
 ### Week 02, August 31 - September 4
 
@@ -92,7 +93,7 @@ Hormones. 5:125-154.
 #### Mon
 
 Evolution and development. Read BW 6 & 7</br>
-Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015)>.
+Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Week 08, October 12 - 16
 
