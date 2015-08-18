@@ -448,7 +448,7 @@ h1, h2, h3 {
 
 /* line 280, ../scss/default.scss */
 h2 {
-  font-size: 50px;
+  font-size: 45px;
   line-height: 65px;
   letter-spacing: -2px;
   color: #515151;
@@ -456,7 +456,7 @@ h2 {
 
 /* line 287, ../scss/default.scss */
 h3 {
-  font-size: 40px;
+  font-size: 30px;
   letter-spacing: -1px;
   line-height: 2;
   font-weight: inherit;
@@ -474,15 +474,10 @@ ol {
   margin-left: 1.4em;
 }
 
-li {
-    font-size: 35;
-}
-
 /* line 300, ../scss/default.scss */
 ol li,
 ul li {
   margin-bottom: 0.5em;
-
 }
 /* line 303, ../scss/default.scss */
 ul li ul {
