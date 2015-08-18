@@ -1,5 +1,5 @@
 ---
-title: "511-2015-08-24-intro"
+title: "test"
 author: "rogilmore"
 date: "`r Sys.time()`"
 output:
@@ -15,88 +15,6 @@ output:
 path2figs = '../figs'
 knitr::opts_chunk$set(fig.path=path2figs, fig.width = 8.5)
 ```
-
-## PSY 511 {.flexbox .vcenter}
-
-### Foundations of Cognitive and Affective Neuroscience
-
-<div class="centered">
-<img src="../figs/fesi-source.jpg"/>
-
-#### Rick O. Gilmore, Ph.D.</br>
-Associate Professor of Psychology
-</div>
-
-## Why neuroscience is harder than physics {.flexbox .vcenter}
-
-<div class="centered">
-<img src="../figs/psych-harder-1.jpg" width=800px/>
-</div>
-
-## Why neuroscience is harder than physics {.flexbox .vcenter}
-
-<div class="centered">
-<img src="../figs/psych-harder-2.jpg" width=800px/>
-</div>
-
-## ￼What do we need to know to answer the question?
-
-### A. What is the wedge made of?
-### B. What happened to the mouse recently? 
-### C. The mouse’s sex or age?
-### D. The mouse’s state (hungry, horny, asleep)
-### E. Mouse’s genetic strain
-
-## This course is about...
-
-## Genes {.flexbox .vcenter}
-
-<div class="centered">
-<img src="http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg"/>
-
-<http://ecx.images-amazon.com/images/I/41OzMnt3lpL._SX319_BO1,204,203,200_.jpg>
-</div>
-
-## Neurotransmitters {.flexbox .vcenter}
-
-<div class="centered">
-<img src="http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg"/>
-<http://rlv.zcache.com/blame_my_neurotransmitters_if_not_paying_attention_mousepad-p144383961261005279trak_400.jpg>
-</div>
-
-## Neurons {.flexbox .vcenter}
-
-<div class="centered">
-<img src="http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg"/>
-<http://www.biolegend.com/NewsLegend/032515blog/neuron_cartoon.jpg>
-</div>
-
-## Networks
-
-<div class="centered">
-<img src="https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg"/>
-
-<https://s-media-cache-ak0.pinimg.com/236x/a9/94/3a/a9943ae81a965e483227b6f9f5e7ca5f.jpg>
-</div>
-
-## Brains {.flexbox .vcenter}
-<div class="centered">
-<img src="../figs/brain-wandering.jpg" width="500px"/>
-
-<http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg>
-</div>
-
-## Behavior {.flexbox .vcenter}
-
-<div class="centered">
-<img src="../figs/backup-brain.gif"/>
-<http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif>
-</div>
-
-##￼Goals
-
-- Master fundamentals of neuroscientific concepts and facts
-- Prepare to read primary source literature in behavioral, cognitive, affective, and clinical neuroscience
 
 ## Course structure
 
@@ -145,11 +63,7 @@ Associate Professor of Psychology
 ## Your turn
 
 - What are the main categories of behavior we want to understand?
-- [Papers you want to read](https://github.com/psu-psychology/psy-511-scan-fdns/blob/master/handouts/papers-we-want-2-understand.md)
-
-## Your turn, Part II
-- How do the behaviors you picked fit with the prior framework?
-- Describe the main
+- Pick one and describe the main
   + Inputs
   + Outputs
   + Computations
@@ -225,11 +139,8 @@ Associate Professor of Psychology
 
 ### Retrograde vs. anterograde tracers
 - What connects where
-
-<div class="centered">
 <img src="../figs/retrograde-anterograde-tracers.png"/>
 <http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png>
-</div>
 
 ## Mapping structures
 ￼- Computed axial tomography (CAT), CT
@@ -256,10 +167,8 @@ Associate Professor of Psychology
 
 ## MRI {.flexbox .vcenter}
 
-<div class="centered">
 <img src="../figs/mri-steps.jpg"/>
 <http://s.hswstatic.com/gif/mri-steps.jpg>
-</div>
 
 ## Structural MRI
 
@@ -287,7 +196,7 @@ Associate Professor of Psychology
 <http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
 </div>
 
-## Single/multi-unit recording
+## Single unit recording
 
 - What does neuron X respond to?
 - Great temporal (ms), spatial resolution (um)
@@ -336,7 +245,7 @@ Associate Professor of Psychology
 - What do we measure?
 - Combined activity of huge # of neurons
 
-## Collecting EEG {.flexbox .vcenter}
+## {.flexbox .vcenter}
 
 <div class="centered">
 <img src="../figs/baby-eeg.jpg"/>
@@ -377,10 +286,8 @@ Associate Professor of Psychology
 
 ## MEG {.flexbox .vcenter}
 
-<div class="centered">
 <img src="../figs/meg-machine.jpg"/>
 <http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg>
-</div>
 
 ## How do EEG and fMRI relate? {.flexbox .vcenter}
 
@@ -399,7 +306,7 @@ Associate Professor of Psychology
 - Stroke, head injury, tumor
 - Neuropsychology
 
-## Phineas Gage {.flexbox .vcenter}
+## {.flexbox .vcenter}
 
 <div class="centered">
 <img src="../figs/phineas-gage.png"/>
@@ -418,7 +325,7 @@ Associate Professor of Psychology
 - Magnetic (Transcranial magnetic stimulation-TMS)
 
 ## Stimulating the brain
-
+which 
 - Spatial/temporal resolution?
 - Assume stimulation mimics natural activity?
 
@@ -444,4 +351,5 @@ Associate Professor of Psychology
 ## ￼Main points
 
 - Multiple structural, functional methods
-- Different levels of spatia
+- Different levels of spatial, temporal resolution 
+- Convergence of findings
