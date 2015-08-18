@@ -46,18 +46,23 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 #### Mon, August 24
 
-Why biological psychology? Read: BW 1.</br>
-Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods></br>
-[Lecture Notes in PDF](https://raw.github.com/psu-psychology/psy-511-scan-fdns/lectures/2015-08-24/511-2015-08-24-intro.pdf).
-[Papers You Want to Understand](handouts/papers-we-want-2-understand.md)
+- Topics
+    + Why biological psychology? Read: BW 1.
+    + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods></br>
+- Materials
+    + [Lecture Notes in PDF](https://raw.github.com/psu-psychology/psy-511-scan-fdns/lectures/2015-08-24/511-2015-08-24-intro.pdf).
+    + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md)
 
 ### Week 02, August 31 - September 4
 
 #### Mon
 
-Neuroanatomy. Read BW 2:34-49.</br>
-[Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md)</br>
-**Neuroanatomy Lab**. [Handout](handouts/neuroanatomy-lab-handout.md). 
+- Topics
+    + Neuroanatomy. Read BW 2:34-49.
+    + **Neuroanatomy Lab**.  
+- Materials
+    + [Handout](handouts/neuroanatomy-lab-handout.md).
+    + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md)</br>
 
 ### Week 03, September 7 - 11
 
@@ -69,64 +74,75 @@ Neuroanatomy. Read BW 2:34-49.</br>
 
 #### Mon
 
-**Quiz 1**.</br>
-Cellular neuroanatomy. Read BW 2:23-33. [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md)</br>
-Neurophysiology. Read BW 3:57-73.
+- Topics
+    + **Quiz 1**.
+    + Cellular neuroanatomy. Read BW 2:23-33. 
+    + Neurophysiology. Read BW 3:57-73.
+- Materials
+    + [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md)
 
 ### Week 05, September 21 - 25
 
 #### Mon
 
-Neural communication. Read BW 3:55-89.</br>
-[Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).</br>
-Neurochemistry. Read 4:91-107.
+- Topics
+    + Neural communication. Read BW 3:55-89.
+    + Neurochemistry. Read 4:91-107.
+- Materials
+    + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
 
 ### Week 06, September 28 - October 2
 
 #### Mon
 
-**Quiz 2**.
-Neurochemistry. Read BW: 4:107-124.</br>
-Hormones. 5:125-154.
+- Topics
+    + **Quiz 2**.
+    + Neurochemistry. Read BW: 4:107-124.
+    + Hormones. 5:125-154.
 
 ### Week 07, October 5 - 9
 
 #### Mon
 
-Evolution and development. Read BW 6 & 7</br>
-Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+- Topics
+    + Evolution and development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Week 08, October 12 - 16
 
 #### Mon
 
-Perception and Action. Read BW 8:223-247, 11:327-347.
+- Topics
+    + Perception and Action. Read BW 8:223-247, 11:327-347.
 
 ### Week 09, October 19 - 23
 
 #### Mon
 
-**Quiz 3**.</br>
-Cognition. Read BW 17, 18, 19.
+- Topics
+    + **Quiz 3**.
+    + Cognition. Read BW 17, 18, 19.
 
 ### Week 10, October 26 - 30
 
 #### Mon
 
-Emotion. Read BW 15.
+- Topic
+    + Emotion. Read BW 15.
 
 ### Week 11, November 2 - 6
 
 #### Mon
 
-Disorder and Disease. Read BW 16.</br>
-**Take home exam distributed**.
+- Topics
+    + Disorder and Disease. Read BW 16.
+    + **Take home exam distributed**.
 
 ### Week 12, November 9 - 13
 
 #### Mon
 
-[Cool classics](http://www.sfn.org/about/history-of-neuroscience/classic-papers) and hot topics.
+- Topic
+    * [Cool classics](http://www.sfn.org/about/history-of-neuroscience/classic-papers) and hot topics.
 
 ### Week 13, November 16 - 20
 
