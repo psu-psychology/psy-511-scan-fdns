@@ -200,6 +200,7 @@ Associate Professor of Psychology
 
 <div class="centered">
 <img src="../figs/churchland-levels-of-analysis.gif"/>
+
 <http://ai.ato.ms/MITECS/Images/churchland.figure1.gif>
 </div>
 
@@ -215,11 +216,13 @@ Associate Professor of Psychology
 
 ## ￼Mapping structures
 
-### Cell, axon stains
-- Golgi stain - whole cells
+- Cell/axon stains
+- Golgi stain -- whole cells
 - Cellular distribution, concentration, microanatomy
+
 <div class="centered">
-<img src="../figs/golgi-stain.jpg" width="500px"/>
+<img src="../figs/golgi-stain.jpg" height="400px"/>
+
 <http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg>
 </div>
 
@@ -228,21 +231,26 @@ Associate Professor of Psychology
 
 <div class="centered">
 <img src="../figs/retrograde-anterograde-tracers.png"/>
+
 <http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png>
 </div>
 
 ## Mapping structures
+
 ￼- Computed axial tomography (CAT), CT
 - X-ray based
 
 <div class="centered">
-<img src="../figs/tomography.png" height="500px"/>
+<img src="../figs/tomography.png" height="400px"/>
+
 <http://img.tfd.com/mk/T/X2604-T-22.png>
 </div>
 
 ## Tomography {.flexbox .vcenter}
+
 <div class="centered">
-<img src="../figs/cat-scan-pineapple.jpg"/>
+<img src="../figs/cat-scan-pineapple.jpg" height="400px"/>
+
 <http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
 </div>
 
@@ -258,6 +266,7 @@ Associate Professor of Psychology
 
 <div class="centered">
 <img src="../figs/mri-steps.jpg"/>
+
 <http://s.hswstatic.com/gif/mri-steps.jpg>
 </div>
 
@@ -284,6 +293,7 @@ Associate Professor of Psychology
 
 <div class="centered">
 <img src="../figs/multi-unit-recording.jpg"/>
+
 <http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
 </div>
 
@@ -298,6 +308,7 @@ Associate Professor of Psychology
 
 <div class="centered">
 <img src="../figs/electrocorticography.jpg"/>
+
 <http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg>
 </div>
 
@@ -329,6 +340,14 @@ Associate Professor of Psychology
 - Hemodynamic Response Function
 - 1s delay plus 3-6 s ramp-up
 
+## Hemodynamic Response Function (HRF)
+
+<div class="centered">
+<img src="../figs/hemodynamic-response-function.png"/>
+
+<http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png>
+</div>
+
 ## Electroencephalography (EEG)
 
 - How does it work?
@@ -340,6 +359,7 @@ Associate Professor of Psychology
 
 <div class="centered">
 <img src="../figs/baby-eeg.jpg"/>
+
 <http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg>
 </div>
 
@@ -355,6 +375,7 @@ Associate Professor of Psychology
 
 <div class="centered">
 <img src="../figs/eeg-frequency.jpg"/>
+
 <http://www.peakmind.co.uk/images/frequency.jpg>
 </div>
 
