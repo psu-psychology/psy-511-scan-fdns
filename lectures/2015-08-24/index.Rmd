@@ -5,7 +5,7 @@ date: "`r Sys.time()`"
 output:
   ioslides_presentation:
     self_contained: false
-    lib_dir: ../libs
+    lib_dir: libs
     widescreen: true
     incremental: true
     transition: default
