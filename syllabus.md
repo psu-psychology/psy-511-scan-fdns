@@ -1,4 +1,5 @@
 # PSY 511 Syllabus
+
 ## Fall 2015
 
 ## Instructor
@@ -33,7 +34,7 @@ Breedlove, S. M. & Watson, N. V. (2013). *Biological Psychology: An introduction
 
 ### Web links
 
-Course home page: <http://psu-psych.github.io/psy-511>
+Course home page: <http://psu-psych.github.io/psy-511></br>
 Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm>
 
 ---
@@ -48,10 +49,10 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 - Topics
     + Why biological psychology? Read: BW 1.
-    + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods></br>
+    + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 - Materials
     + [Lecture Notes](lectures/2015-08-24/511-2015-08-24-intro.md).
-    + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md)
+    + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md).
 
 ### Week 02, August 31 - September 4
 
@@ -62,7 +63,7 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
     + **Neuroanatomy Lab**.  
 - Materials
     + [Handout](handouts/neuroanatomy-lab-handout.md).
-    + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md)</br>
+    + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
 
 ### Week 03, September 7 - 11
 
@@ -79,7 +80,7 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
     + Cellular neuroanatomy. Read BW 2:23-33. 
     + Neurophysiology. Read BW 3:57-73.
 - Materials
-    + [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md)
+    + [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md).
 
 ### Week 05, September 21 - 25
 
@@ -158,15 +159,15 @@ Planning for student-led sessions.
 
 #### Mon
 
-Student-led session A.</br>
-Student-led session B.
+- Student-led session A.
+- Student-led session B.
 
 ### Week 16, December 7 - 11
 
 #### Mon
 
-Student-led session C.</br>
-Student-led session D.
+- Student-led session C.</br>
+- Student-led session D.
 
 ### Week 17, December 14 - 18
 
