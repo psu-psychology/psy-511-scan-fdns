@@ -34,8 +34,16 @@ Breedlove, S. M. & Watson, N. V. (2013). *Biological Psychology: An introduction
 
 ### Web links
 
-Course home page: <http://psu-psych.github.io/psy-511></br>
-Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm>
+Course home page: <http://psu-psych.github.io/psy-511-scan-fdns></br>
+Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/pb9.htm></br>
+Neurosynth (fMRI meta-analysis): <http://neurosynth.org>
+
+### Journals
+
+Journal of Neuroscience
+Neuron
+Trends in Neuroscience
+Current Opinion in Neurobiology
 
 ---
 
@@ -56,7 +64,7 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 ### Week 02, August 31 - September 4
 
-#### Mon
+#### Mon, August 31
 
 - Topics
     + Neuroanatomy. Read BW 2:34-49.
@@ -67,13 +75,13 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 ### Week 03, September 7 - 11
 
-#### Mon 
+#### Mon, September 7
 
 **NO CLASS LABOR DAY**
 
 ### Week 04, September 14 - 18
 
-#### Mon
+#### Mon, September 14
 
 - Topics
     + **Quiz 1**.
@@ -84,7 +92,7 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 ### Week 05, September 21 - 25
 
-#### Mon
+#### Mon, September 21
 
 - Topics
     + Neural communication. Read BW 3:55-89.
@@ -94,7 +102,7 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 ### Week 06, September 28 - October 2
 
-#### Mon
+#### Mon, September 28
 
 - Topics
     + **Quiz 2**.
@@ -103,21 +111,21 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 ### Week 07, October 5 - 9
 
-#### Mon
+#### Mon, October 5
 
 - Topics
     + Evolution and development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Week 08, October 12 - 16
 
-#### Mon
+#### Mon, October 12
 
 - Topics
     + Perception and Action. Read BW 8:223-247, 11:327-347.
 
 ### Week 09, October 19 - 23
 
-#### Mon
+#### Mon, October 19
 
 - Topics
     + **Quiz 3**.
@@ -125,14 +133,14 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 ### Week 10, October 26 - 30
 
-#### Mon
+#### Mon, October 26
 
 - Topic
     + Emotion. Read BW 15.
 
 ### Week 11, November 2 - 6
 
-#### Mon
+#### Mon, November 2
 
 - Topics
     + Disorder and Disease. Read BW 16.
@@ -140,14 +148,14 @@ Interactive Human Brain Atlas: <http://www.med.harvard.edu/aanlib/cases/caseNA/p
 
 ### Week 12, November 9 - 13
 
-#### Mon
+#### Mon, November 9
 
 - Topic
     * [Cool classics](http://www.sfn.org/about/history-of-neuroscience/classic-papers) and hot topics.
 
 ### Week 13, November 16 - 20
 
-#### Mon
+#### Mon, November 16
 
 Planning for student-led sessions.
 
@@ -157,14 +165,14 @@ Planning for student-led sessions.
 
 ### Week 15, November 30 - December 4
 
-#### Mon
+#### Mon, November 30
 
 - Student-led session A.
 - Student-led session B.
 
 ### Week 16, December 7 - 11
 
-#### Mon
+#### Mon, December 7
 
 - Student-led session C.</br>
 - Student-led session D.
