@@ -2,15 +2,35 @@
 
 ## By student
 
+### Albohn, Daniel
+
+- Porges (2001). The polyvagal theory: phylogenetic substrates of a social nervous system. <http://dx.doi.org/10.1016/S0167-8760(01)00162-3>.
+- Kveraga et al. (2007). Top-down predictions in the cognitive brain. <http://dx.doi.org/10.1016/j.bandc.2007.06.007>.
+
+### Beatty, Annie
+
+- Abutalebi et al. (2008). Language control and lexical competition in bilinguals: an event-related FMRI study. <http://dx.doi.org/10.1093/cercor/bhm182>.
+- Kong et al. (2014). Executive and language control in the multilingual brain. <http://dx.doi.org/10.1155%2F2014%2F527951>.
+
+### Cho, Sinhae
+
+- Appelhans & Luecken (2006). Heart Rate Variability as an Index of Regulated Emotional Responding. <http://dx.doi.org/10.1037/1089-2680.10.3.229>.
+- Picard et al. (2015). Multiple Arousal Theory and Daily-Life Electrodermal Activity Asymmetry. <http://dx.doi.org/10.1177/1754073914565517>.
+
 ### Dowgwillo, Emily
 
-- Chester & DeWall (2015). Sound the alarm: The effect of narcissism on retailatory aggression is moderated by dACC reactivity to rejection, <http://dx.doi.org/10.1111/jopy.12164>
-- Schulze et al. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>
+- Chester & DeWall (2015). Sound the alarm: The effect of narcissism on retailatory aggression is moderated by dACC reactivity to rejection, <http://dx.doi.org/10.1111/jopy.12164>.
+- Schulze et al. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>.
 
 ### MacNeill, Leigha 
 
 - Marusak et al. (2013). The stimuli drive the response: An fMRI study of youth processing adult or child emotional face stimuli, Neuroimage, <http://dx.doi.org/10.1016/j.neuroimage.2013.07.002>.
 - Pollak et al. (2001). P3b reflects maltreated children's reactions to facial displays of emotion, <http://dx.doi.org/10.1111/1469-8986.3820267>.
+
+### Navarro-Torres, Christian
+
+- Green (2011). Language Control in Different Contexts: The Behavioral Ecology of Bilingual Speakers. <http://dx.doi.org/10.3389%2Ffpsyg.2011.00103>
+- Diaz et al. (2014). Age-related differences in the neural bases of phonological and semantic processes. <http://dx.doi.org/10.1162/jocn_a_00665>
 
 ### Shin, Kay
 
@@ -22,6 +42,11 @@
 - Walley (2015). Speed awareness, <http://dx.doi.org/10.1038/nrn4008>.
 - Nature (2015). Marijuana's good without the bad, <http://dx.doi.org/10.1038/523504d>.
 
+### Zhang, Haoyun
+
+- Van Den Heuvel, M. P., & Pol, H. E. H. (2010). Exploring the brain network: a review on resting-state fMRI functional connectivity. European Neuropsychopharmacology, 20(8), 519-534. <http://dx.doi.org/10.1016/j.euroneuro.2010.03.008>.
+- Raichle, M. E., & Snyder, A. Z. (2007). A default mode of brain function: a brief history of an evolving idea. Neuroimage, 37(4), 1083-1090. <A default mode of brain function: A brief history of an evolving idea. <http://dx.doi.org/10.1016/j.neuroimage.2007.02.041>.
+
 ## By system/area
 
 ### Amygdala
@@ -29,14 +54,11 @@
 - Marusak et al. (2013). The stimuli drive the response: An fMRI study of youth processing adult or child emotional face stimuli, Neuroimage, <http://dx.doi.org/10.1016/j.neuroimage.2013.07.002>.
 - Etkin & Wager (2007) Functional Neuroimaging of Anxiety: A Meta-Analysis of Emotional Processing in PTSD, Social Anxiety Disorder, and Specific Phobia, <http://dx.doi.org/10.1176/appi.ajp.2007.07030504>.
 
-### Insula
-
-- Schulze et al. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>
-- Etkin & Wager (2007) Functional Neuroimaging of Anxiety: A Meta-Analysis of Emotional Processing in PTSD, Social Anxiety Disorder, and Specific Phobia, <http://dx.doi.org/10.1176/appi.ajp.2007.07030504>.
+### Autonomic nervous system
 
 ### Dorsal Anterior Cingulate cortex (dACC)
 
-- Chester & DeWall (2015). Sound the alarm: The effect of narcissism on retailatory aggression is moderated by dACC reactivity to rejection, <http://dx.doi.org/10.1111/jopy.12164>
+- Chester & DeWall (2015). Sound the alarm: The effect of narcissism on retailatory aggression is moderated by dACC reactivity to rejection, <http://dx.doi.org/10.1111/jopy.12164>.
 
 ### Dorsolateral prefrontal cortex (Brodmann area—BA 10), 
 
@@ -49,6 +71,11 @@
 ### Hippocampus
 
 - Walley (2015). Speed awareness, <http://dx.doi.org/10.1038/nrn4008>.
+
+### Insula
+
+- Schulze et al. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>.
+- Etkin & Wager (2007) Functional Neuroimaging of Anxiety: A Meta-Analysis of Emotional Processing in PTSD, Social Anxiety Disorder, and Specific Phobia, <http://dx.doi.org/10.1176/appi.ajp.2007.07030504>.
 
 ### Middle occipital gyrus 
 
@@ -78,12 +105,17 @@
 
 - Pollak et al. (2001). P3b reflects maltreated children's reactions to facial displays of emotion, <http://dx.doi.org/10.1111/1469-8986.3820267>.
 
+### Autonomic psychophysiology
+
+- Appelhans & Luecken (2006). Heart Rate Variability as an Index of Regulated Emotional Responding. <http://dx.doi.org/10.1037/1089-2680.10.3.229>.
+- Picard et al. (2015). Multiple Arousal Theory and Daily-Life Electrodermal Activity Asymmetry. <http://dx.doi.org/10.1177/1754073914565517>.
+
 ### fMRI
 
+- Abutalebi et al. (2008). Language control and lexical competition in bilinguals: an event-related FMRI study. <http://dx.doi.org/10.1093/cercor/bhm182>.
 - Marusak et al. (2013). The stimuli drive the response: An fMRI study of youth processing adult or child emotional face stimuli, Neuroimage, <http://dx.doi.org/10.1016/j.neuroimage.2013.07.002>.
-
 - Paquette et al. (2003). "Change the mind and you change the brain”: effects of cognitive-behavioral therapy on the neural correlates of spider phobia, <http://dx.doi.org/10.1016/S1053-8119(02)00030-7>.
-### Structural MRI
+- Raichle, M. E., & Snyder, A. Z. (2007). A default mode of brain function: a brief history of an evolving idea. Neuroimage, 37(4), 1083-1090. <A default mode of brain function: A brief history of an evolving idea. <http://dx.doi.org/10.1016/j.neuroimage.2007.02.041>.- Van Den Heuvel, M. P., & Pol, H. E. H. (2010). Exploring the brain network: a review on resting-state fMRI functional connectivity. European Neuropsychopharmacology, 20(8), 519-534. <http://dx.doi.org/10.1016/j.euroneuro.2010.03.008>.
 
 ### Structural MRI
 
