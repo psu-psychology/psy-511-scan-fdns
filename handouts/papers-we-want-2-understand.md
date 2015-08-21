@@ -12,6 +12,11 @@
 - Abutalebi et al. (2008). Language control and lexical competition in bilinguals: an event-related FMRI study. <http://dx.doi.org/10.1093/cercor/bhm182>.
 - Kong et al. (2014). Executive and language control in the multilingual brain. <http://dx.doi.org/10.1155%2F2014%2F527951>.
 
+### Cadden, Meg
+
+- He et al. (2009). Impaired small-world efficiency in structural cortical networks in multiple sclerosis associated with white matter lesion load. <http://dx.doi.org/10.1093/brain/awp089>.
+- Duong et al. (). Modulation of effective connectivity inside the working memory network in patients at the earliest stage of multiple sclerosis. <http://dx.doi.org/10.1016/j.neuroimage.2004.08.038>.
+
 ### Cho, Sinhae
 
 - Appelhans & Luecken (2006). Heart Rate Variability as an Index of Regulated Emotional Responding. <http://dx.doi.org/10.1037/1089-2680.10.3.229>.
@@ -31,6 +36,11 @@
 
 - Green (2011). Language Control in Different Contexts: The Behavioral Ecology of Bilingual Speakers. <http://dx.doi.org/10.3389%2Ffpsyg.2011.00103>
 - Diaz et al. (2014). Age-related differences in the neural bases of phonological and semantic processes. <http://dx.doi.org/10.1162/jocn_a_00665>
+
+### Perzow, Sarah
+
+- Needham et al. (2012). Socioeconomic status and cell aging in children. <http://dx.doi.org/10.1016/j.socscimed.2012.02.019>.
+- Davison & McEwen (2012). Social influences on neuroplasticity: stress and interventions to promote well-being. <http://dx.doi.org/10.1038/nn.3093>.
 
 ### Shin, Kay
 
