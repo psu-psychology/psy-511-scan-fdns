@@ -27,6 +27,11 @@
 - Chester & DeWall (2015). Sound the alarm: The effect of narcissism on retailatory aggression is moderated by dACC reactivity to rejection, <http://dx.doi.org/10.1111/jopy.12164>.
 - Schulze et al. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>.
 
+## Loughlin-Presnal, John
+
+- Asok et al. (2013). Parental Responsiveness Moderates the Association Between Early-life Stress and Reduced Telomere Length. <http://dx.doi.org/10.1017%2FS0954579413000011>.
+- Swain (2011). The Human Parental Brain: In Vivo neuroimaging. Swain (2011). <http://dx.doi.org/10.1016%2Fj.pnpbp.2010.10.017>
+
 ### MacNeill, Leigha 
 
 - Marusak et al. (2013). The stimuli drive the response: An fMRI study of youth processing adult or child emotional face stimuli, Neuroimage, <http://dx.doi.org/10.1016/j.neuroimage.2013.07.002>.
