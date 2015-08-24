@@ -46,7 +46,7 @@ Shackman, J. E., Shackman, A. J., & Pollak, S. D. (2007). Physical abuse amplifi
 ### Kim, Hanjoo
 
 - Rauch, S. L., Shin, L. M., & Wright, C. I. (2003). Neuroimaging studies of amygdala function in anxiety disorders. Annals of the New York Academy of Sciences, 985(1), 389-410. <http://dx.doi.org/10.1111/j.1749-6632.2003.tb07096.x>.
-- Freitas-Ferrari, M. C., Hallak, J. E., Trzesniak, C., Santos Filho, A., Machado-de-Sousa, J. P., Chagas, M. H. N., & Crippa, J. A. S. (2010). Neuroimaging in social anxiety disorder: a systematic review of the literature. Progress in Neuro-Psychopharmacology and Biological Psychiatry, 34(4), 565-580. <http://dx.doi.org/10.1016/j.pnpbp.2010.02.028>.
+- Freitas-Ferrari, M. C., Hallak, J. E., Trzesniak, C., Santos Filho, A., Machado-de-Sousa, J. P., Chagas, M. H. N., & Crippa, J. A. S. (2010). Neuroimaging in social anxiety disorder: a systematic review of the literature. Progress in Neuro-Psychopharmacology and Biological Psychiatry, 34(4), 565-580. <http://dx.doi.org/10.1016/j.pnpbp.2010.02.028>.    
 
 ### LaFreniere, Luc
 
