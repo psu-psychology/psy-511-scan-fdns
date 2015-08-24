@@ -7,6 +7,11 @@
 - Porges (2001). The polyvagal theory: phylogenetic substrates of a social nervous system. <http://dx.doi.org/10.1016/S0167-8760(01)00162-3>.
 - Kveraga et al. (2007). Top-down predictions in the cognitive brain. <http://dx.doi.org/10.1016/j.bandc.2007.06.007>.
 
+### Ashe, Melinda
+
+- Clewett et al. (2014). Increased functional coupling between the left fronto-parietal network and anterior insula predicts steeper delay discounting in smokers. <http://dx.doi.org/10.1002/hbm.22436>.
+- Sweitzer et al. (2013). Dissociated Effects of Anticipating Smoking versus Monetary Reward in the Caudate as a Function of Smoking Abstinence. <http://dx.doi.org/10.1016/j.biopsych.2013.11.013>.
+
 ### Beatty, Annie
 
 - Abutalebi et al. (2008). Language control and lexical competition in bilinguals: an event-related FMRI study. <http://dx.doi.org/10.1093/cercor/bhm182>.
@@ -26,6 +31,11 @@
 
 - Chester & DeWall (2015). Sound the alarm: The effect of narcissism on retailatory aggression is moderated by dACC reactivity to rejection, <http://dx.doi.org/10.1111/jopy.12164>.
 - Schulze et al. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>.
+
+### Fernandez, Carla
+
+- Osaka et al. (2012). Verbal to visual code switching improves working memory in older adults: an fMRI study. <http://dx.doi.org/10.3389%2Ffnhum.2012.00024>.
+- Li et al. (2013). Two faces, two languages: An fMRI study of bilingual picture naming. <http://dx.doi.org/10.1016/j.bandl.2013.09.005>.
 
 ### Fields, Megan
 
