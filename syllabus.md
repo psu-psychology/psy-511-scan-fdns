@@ -40,10 +40,10 @@ Neurosynth (fMRI meta-analysis): <http://neurosynth.org>
 
 ### Journals
 
-Journal of Neuroscience
-Neuron
-Trends in Neuroscience
-Current Opinion in Neurobiology
+Journal of Neuroscience</br>
+Neuron</br>
+Trends in Neuroscience</br>
+*Current Opinion in Neurobiology*</br>
 
 ---
 
