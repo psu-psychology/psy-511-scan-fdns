@@ -40,8 +40,7 @@
 ### Fields, Megan
 
 - Goldsmith, H. H., Pollak, S. D., & Davidson, R. J. (2008). Developmental neuroscience perspectives on emotion regulation. Child Development Perspectives, 2(3), 132-140. <http://dx.doi.org/10.1111/j.1750-8606.2008.00055.x>.
-
-Shackman, J. E., Shackman, A. J., & Pollak, S. D. (2007). Physical abuse amplifies attention to threat and increases anxiety in children. Emotion, 7(4), 838. <http://psycnet.apa.org/doi/10.1037/1528-3542.7.4.838>.
+- Shackman, J. E., Shackman, A. J., & Pollak, S. D. (2007). Physical abuse amplifies attention to threat and increases anxiety in children. Emotion, 7(4), 838. <http://psycnet.apa.org/doi/10.1037/1528-3542.7.4.838>.
 
 ### Kim, Hanjoo
 
