@@ -72,6 +72,7 @@ Trends in Neuroscience</br>
 - Materials
     + [Handout](handouts/neuroanatomy-lab-handout.md).
     + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
+    + Lecture notes [HTML](https://cdn.rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-08-31/511-2015-08-31-anatomy.html#1). [Markdown](lectures/2015-08-31/511-2015-08-31-anatomy.Rmd).
 
 ### Week 03, September 7 - 11
 
