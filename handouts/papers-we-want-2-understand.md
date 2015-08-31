@@ -20,7 +20,7 @@
 ### Cadden, Meg
 
 - He et al. (2009). Impaired small-world efficiency in structural cortical networks in multiple sclerosis associated with white matter lesion load. <http://dx.doi.org/10.1093/brain/awp089>.
-- Duong et al. (). Modulation of effective connectivity inside the working memory network in patients at the earliest stage of multiple sclerosis. <http://dx.doi.org/10.1016/j.neuroimage.2004.08.038>.
+- Duong et al. (2004). Modulation of effective connectivity inside the working memory network in patients at the earliest stage of multiple sclerosis. <http://dx.doi.org/10.1016/j.neuroimage.2004.08.038>.
 
 ### Cho, Sinhae
 

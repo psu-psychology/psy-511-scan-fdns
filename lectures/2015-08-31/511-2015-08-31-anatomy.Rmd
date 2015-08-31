@@ -307,7 +307,7 @@ bibliography: bibliography.bib
 <http://higheredbcs.wiley.com/legacy/college/tortora/0470565101/hearthis_ill/pap13e_ch14_illustr_audio_mp3_am/simulations/figures/hypothalamus.jpg>
 </div>
 
-### Telencephalon
+## Telencephalon
 
 - Basal ganglia
 - Hippocampus, amygdala
@@ -372,6 +372,38 @@ bibliography: bibliography.bib
 ### Grey vs.white matter
 ### Lobes
 
+## Cortical Gyri -- Lateral
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png>
+</div>
+
+## Cortical Gyri -- Medial
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png" height="500px">
+</div>
+
+## Cingulate Gyrus
+
+<div class="centered">
+<img src="http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg">
+
+<http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg>
+</div>
+
+## Gray vs. White Matter
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg" height="500px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg>
+</div>
+
 ## ￼Lobes of the cerebral cortex
 
 ### Frontal
@@ -404,11 +436,11 @@ bibliography: bibliography.bib
 
 ## Landmarks of the cortex
 ### Central sulcus
+
 <div class="centered">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" height="500px">
 
-<https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png>￼￼￼
-</div>
+<https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png>￼￼￼</div>
 
 ## Representative fiber tracts in the cortex
 
@@ -454,6 +486,22 @@ bibliography: bibliography.bib
 - Anterior cingulate cortex (ACC)
 - Primary olfactory cortex
 
+## Inferior Frontal Gyrus (IFG)
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png>
+</div>
+
+## Middle Frontal Gyrus (MFG)
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png>
+</div>
+
 ## Temporal lobe 
 
 ### Where is it?
@@ -469,6 +517,22 @@ bibliography: bibliography.bib
 - Storage of memories about events, objects 
 - Amygdala, hippocampus
 
+## Inferior Temporal Gyrus (ITG)
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png>
+</div>
+
+## Entorhinal Cortex (ER)
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png>
+</div>
+
 ## Parietal lobe
 
 ### Where is it?
@@ -480,6 +544,22 @@ bibliography: bibliography.bib
 - Primary somatosensory cortex
 - Perception of spatial relations, action planning
 
+## Inferior Parietal Lobule
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png>
+</div>
+
+## Superior Parietal Lobule
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png>
+</div>
+
 ## Occipital lobe
 
 ### Where is it?
@@ -488,6 +568,59 @@ bibliography: bibliography.bib
 ### What does it do?
 - Primary visual cortex (V1)
 
+## Visual Cortex
+
+<div class="centered">
+<img src="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png"/>
+
+<http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png>
+</div>
+
+## [Insular cortex (insula)](https://en.wikipedia.org/wiki/Insular_cortex)
+
+### Where is it?
+- medial to temporal lobe
+- deep inside lateral fissure
+
+## Insula
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png" width="700px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png>
+</div>
+
+## Insula
+
+### What does it do?
+- Primary gustatory cortex
+- self-awareness, interpersonal experiences, motor control
+
+## Brodmann Areas
+### [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann)
+- Cytoarchitectonic differences in cerebral cortex
+
+<div class="centered">
+<img src="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg" height="400px"/>
+
+<http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg>
+</div>
+
+## Brodmann Areas
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png">
+
+<https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png>
+</div>
+
+## Brodmann Areas
+
+<div class="centered">
+<img src="http://www.skiltopo.com/BA/myBrodmannsAreas2-802.jpg" height="500px"/>
+
+<http://www.skiltopo.com/BA/myBrodmannsAreas2-802.jpg>
+</div>
 ## Spinal cord
 
 ### Rostral/Caudal axis
@@ -578,6 +711,6 @@ vagus (X), etc.
 - Restorative function
 - “Rest & digest”
 - Spinal cord -> ganglia near end organs -> end organ
-- NT:ACh
+    + NT:ACh
 
 ## References
