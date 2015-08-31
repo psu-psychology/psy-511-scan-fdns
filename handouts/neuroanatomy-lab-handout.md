@@ -58,7 +58,7 @@
 | [Olfactory nerve, Ist](https://en.wikipedia.org/wiki/Olfactory_nerve)       |             |          |       |
 | [Optic nerve/tract, IInd](https://en.wikipedia.org/wiki/Optic_nerve)    |             |          |       |
 | [Optic chiasm](https://en.wikipedia.org/wiki/Optic_chiasm)               |             |          |       |
-| [Fornix](https://en.wikipedia.org/wiki/Fornix_\(neuroanatomy))                     |             |          |       |
+| [Fornix](https://en.wikipedia.org/wiki/Fornix_\(neuroanatomy)                     |             |          |       |
 
 
 ## Subcortical structures
