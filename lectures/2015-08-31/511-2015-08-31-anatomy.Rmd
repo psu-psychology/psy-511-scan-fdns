@@ -131,7 +131,7 @@ bibliography: bibliography.bib
 - Brainstem, blood-brain barrier thin
 
 <div class="centered">
-<img src="http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg" height="500px">
+<img src="http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg" height="400px">
 
 <http://www.nature.com/nrendo/journal/v9/n10/images/nrendo.2013.136-f2.jpg>
 </div>
@@ -346,7 +346,7 @@ bibliography: bibliography.bib
 ## Hippocampus
 
 <div class="centered">
-<img src="http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg" height="500px">
+<img src="http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg" height="400px">
 
 <http://homepage.smc.edu/wissmann_paul/physnet/anatomynet/anatomy/amy.jpg>
 </div>
@@ -430,7 +430,7 @@ bibliography: bibliography.bib
 ### Central sulcus
 
 <div class="centered">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" height="500px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" height="400px">
 
 <https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png>￼￼￼</div>
 
@@ -686,8 +686,8 @@ vagus (X), etc.
 - Controls “vegetative functions”
     + Limited voluntary control
 - Two divisions
-		+ Sympathetic
-		+ Parasympathetic
+    + Sympathetic
+    + Parasympathetic
 		
 ## ANS
 
