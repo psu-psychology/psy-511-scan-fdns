@@ -70,7 +70,6 @@ Trends in Neuroscience</br>
     + Neuroanatomy. Read BW 2:34-49.
     + **Neuroanatomy Lab**.  
 - Materials
-    + [Handout](handouts/neuroanatomy-lab-handout.md).
     + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
     + Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-08-31/511-2015-08-31-anatomy.html#1). [Markdown](lectures/2015-08-31/511-2015-08-31-anatomy.Rmd).
 
@@ -85,10 +84,11 @@ Trends in Neuroscience</br>
 #### Mon, September 14
 
 - Topics
-    + **Quiz 1**.
+    + **Neuroanatomy Lab**.
     + Cellular neuroanatomy. Read BW 2:23-33. 
-    + Neurophysiology. Read BW 3:57-73.
 - Materials
+    + [Handout](handouts/neuroanatomy-lab-handout.md).
+    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-09-14/511-2015-09-14-cells.html). [Markdown](lectures/2015-09-14/511-2015-09-14-cells.Rmd).
     + [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md).
 
 ### Week 05, September 21 - 25
@@ -96,8 +96,9 @@ Trends in Neuroscience</br>
 #### Mon, September 21
 
 - Topics
+    + **Quiz 1**.
+    + Neurophysiology. Read BW 3:57-73.
     + Neural communication. Read BW 3:55-89.
-    + Neurochemistry. Read 4:91-107.
 - Materials
     + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
 
@@ -106,7 +107,6 @@ Trends in Neuroscience</br>
 #### Mon, September 28
 
 - Topics
-    + **Quiz 2**.
     + Neurochemistry. Read BW: 4:107-124.
     + Hormones. 5:125-154.
 
@@ -115,6 +115,7 @@ Trends in Neuroscience</br>
 #### Mon, October 5
 
 - Topics
+    + **Quiz 2**.
     + Evolution and development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Week 08, October 12 - 16
