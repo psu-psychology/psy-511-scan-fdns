@@ -1,0 +1,506 @@
+---
+title: "511-2015-09-21-neurophys"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bibliography.bib
+output:
+  ioslides_presentation:
+    css: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Just for fun
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
+
+## Today's Topics
+
+- **Quiz 1**
+- The resting potential
+- The action potential
+- Synaptic communication
+
+## Neural communication
+
+- Electrical
+    + Fast(er)
+    + Within neurons
+- Chemical
+    + Slow(er)
+    + Between neurons
+    
+## How are messages generated?
+
+- Electrical potential (== voltage)
+    + Think of potential energy
+    + Voltage ~ pressure
+    + Energy that will be released if something changes
+    
+## Potential energy
+
+<div class="centered">
+<img src="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
+
+<http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png>
+</div>
+
+## Types of neural electrical potentials
+
+- Resting potential
+- Action potential
+
+## Resting potential {.smaller}
+
+- Measurement
+    + Electrode on inside
+    + Electrode on outside (reference)
+    + Inside - Outside = potential
+    
+## Resting potential
+
+<div class="centered">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+
+<http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg>
+</div>
+
+## Resting potential
+
+- Neuron (and other cells) have *potential energy*
+    + Inside is -60-70 mV, with respect to outside
+    + About 1/20th typical AAA battery
+- Like charges repel, opposites attract, so
+    + Positively charged particles pulled in
+    + Negatively charged particles pushed out
+    
+## Where does the resting potential come from?
+
+- Ions
+- Ion channels
+- Separation between charges
+- A balance of forces
+
+## We are the champIONs, my friend
+
+- Potassium, K+
+- Sodium, Na+
+- Chloride, Cl-
+- Calcium, Ca++
+- Organic anions, A-
+
+## Party On
+
+- Annie (A-) was having a party.
+    + Used to date Nate (Na+), but now sees Karl (K+)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl and friends in or out, keep Nate out
+- Annie's friends (A-) and Karl's (K+) mostly inside
+- Nate and friends (Na+) mostly outside
+- Claudia (Cl-) tagging along
+    
+## Party On
+
+<div class="centered">
+<img src="http://chemwiki.ucdavis.edu/@api/deki/files/104/350px-Membrane_potential_ions_en.svg.png?size=bestfit&width=350&height=255&revision=1">
+
+<http://chemwiki.ucdavis.edu/@api/deki/files/104/350px-Membrane_potential_ions_en.svg.png?size=bestfit&width=350&height=255&revision=1>
+</div>
+
+## Ion channels
+
+- Openings in neural membrane
+- Selective
+- Vary in permeability
+- Types
+    + Passive/leak
+    + Voltage-gated
+    + Ligand-gated (chemically-gated)
+    + Transporters
+    
+## Ion channels
+
+<div class="centered">
+<img src="http://www.zoology.ubc.ca/~gardner/F21-08.GIF">
+
+<http://www.zoology.ubc.ca/~gardner/F21-08.GIF>
+</div>
+
+## Neuron at rest permeable to K+
+
+- Passive K+ channels open
+- K+ flows out
+- K+ outflow creates charge separation from A-
+- Charge separation creates voltage
+- Voltage prevents K+ concentration from equalizing b/w inside and out
+
+## Force of diffusion {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png>
+</div>
+
+## Force of diffusion
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg" width=700px>
+
+<https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg>
+</div>
+
+## Neuron at rest
+
+- Force of diffusion
+    + K+ moves from high concentration (inside) to low (outside)
+- Electrostatic pressure
+    + Voltage build-up stops K+ outflow
+    + Voltage called "reversal potential"
+    + K+ positive, so reversal potential negative (w/ respect to outside)
+    + Reversal potential close to resting potential
+    
+## Equilibrium potential and Nernst equation {.smaller}
+
+<div class="centered">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif">
+
+<http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif>
+</div>
+
+## Building on intuition
+
+<div class="centered">
+<img src="http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg">
+
+<http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg>
+</div>
+
+## Back to neurons
+
+- Na+ also has reversal potential
+- Membrane at rest not very permeable to Na+
+- Concentrated outside neuron
+- Some Na+ flows *in*
+- Equilibrium potential is positive (with respect to outside)
+
+## Resting potential
+
+- Net effects of ion flow across membrane
+- Goldman-Hodgkin-Katz equation
+
+<div class="centered">
+<img src="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif">
+
+<http://www.physiologyweb.com/calculators/figs/ghk_equation.gif>
+</div>
+
+## Electrical circuit model {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg">
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg>
+</div>
+
+## Resting potential
+
+<div class="centered">
+<img src="http://chemwiki.ucdavis.edu/@api/deki/files/104/350px-Membrane_potential_ions_en.svg.png?size=bestfit&width=350&height=255&revision=1">
+
+<http://chemwiki.ucdavis.edu/@api/deki/files/104/350px-Membrane_potential_ions_en.svg.png?size=bestfit&width=350&height=255&revision=1>
+</div>
+
+## Summary of forces
+
+| Ion | Concentration gradient | Electrostatic force |
+|-----|------------------------|---------------------|
+| K+  | Inside >> Outside, outward      | - (pulls K+ in)    |
+| Na+ | Outside >> Inside, inward      | - (pulls Na+ in)    |
+
+## Video summary of resting potential
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PtKAeihnbv0" frameborder="0" allowfullscreen></iframe>
+
+## Na+/K+ "pump" keeps K+ and Na+ separated
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/P-imDC1txWw" frameborder="0" allowfullscreen></iframe>
+
+## Action potential
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Action_potential.svg/300px-Action_potential.svg.png>
+</div>
+ 
+## Action potential
+
+- Rapid rise, fall of membrane potential
+- Threshold of excitation
+- Increase (rising phase/depolarization)
+- Peak
+    + at positive voltage
+- Decline (falling phase/repolarization)
+- Return to resting potential (refractory period)
+
+## Action potential components
+
+| Phase             | Neuron State |
+|-------------------|--------------|
+| Rise to threshold | + input makes membrane potential more + |
+| Rising phase      | Voltage-gated Na+ channels open, Na+ enters |
+| Peak              | Voltage-gated Na+ channels close and deactivate; voltage-gated K+ channels open |
+| Falling phase     | K+ exits |
+| Refractory period | Na+/K+ pump restores [Na+], [K+]; voltage-gated K+ channels close |
+
+## Question
+
+- During rising phase, Na+ enters because
+    + Force of diffusion pushes Na+ in
+    + Electrostatic force pushes Na+ in
+    + Electrostatic force pushes K+ out
+
+## Question
+
+- During rising phase, Na+ enters because
+    + **Force of diffusion pushes Na+ in**
+    + **Electrostatic force pushes Na+ in**
+    + Electrostatic force pushes K+ out
+   
+## Question
+
+- Why does membrane potential go from - to +?
+    + Na+ ions are +, inward flow makes interior more +
+    + K+ ions are +, outward flow makes interior more +
+
+## Question
+
+- Why does membrane potential go from - to +?
+    + **Na+ ions are +, inward flow makes interior more +**
+    + K+ ions are +, outward flow makes interior more +
+    
+## Question
+
+- During falling phase, K+ flows out of cell because
+    + Force of diffusion pushes K+ out.
+    + Force of diffusion keeps K+ in.
+    + Electrostatic force pushes K+ out.
+    + Electrostatic force keeps K+ in.
+    
+## Question
+
+- During falling phase, K+ flows out of cell because
+    + **Force of diffusion pushes K+ out.**
+    + Force of diffusion keeps K+ in.
+    + **Electrostatic force pushes K+ out.**
+    + Electrostatic force keeps K+ in.
+    
+## Question
+
+- At peak of action potential, why does electrostatic force push K+ out?
+    + Membane potential is +, K+ repelled from interior
+    + Membrane potential is -, K- attracted to interior
+    
+## Question
+
+- At peak of action potential, why does electrostatic force push K+ out?
+    + **Membane potential is +, K+ repelled from interior**
+    + Membrane potential is -, K- attracted to interior
+    
+## Refractory periods
+
+- Absolute
+    + Cannot generate action potential (AP) no matter the size of the stimulus
+    + Voltage-gated Na+ channels inactivated, reactivate in time.
+- Relative
+    + Can generate AP with larg(er) stimulus
+    + Some voltage-gated K+ channels still open
+- Refractory periods put 'spaces' between APs
+
+## Refractory periods
+
+<div class="centered">
+<img src="http://www.physiologyweb.com/lecture_notes/neuronal_action_potential/figs/neuronal_action_potential_absolute_and_relative_refractory_periods_w.jpg" height=450px>
+</div>
+
+## Information processing
+
+- AP amplitudes don't vary (much)
+    + All or none
+- AP frequency and timing vary
+    + Rate vs. timing codes
+    
+## Information processing
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/490/fnins-03-002/image_n/fnins-03-002-g001.gif" height=450px>
+
+[[@eyherabide_bursts_2009]](http://dx.doi.org/10.3389/neuro.01.002.2009)
+</div>
+
+## Generating APs
+
+- Axon hillock
+    + Portion of soma adjacent to axon
+    + Integrates/sums input to soma
+- Axon initial segment
+    + Umyelinated portion of axon adjacent to soma
+    + Voltage-gated Na+ and K+ channels exposed
+    + If sum of input to soma > threshold, voltage-gated Na+ channels open
+    
+## Axon hillock, axon initial segment
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Axon_Hillock.png" height=450px>
+
+<a href="https://commons.wikimedia.org/wiki/File:Axon_Hillock.png#/media/File:Axon_Hillock.png">Axon Hillock</a>" by <a href="//commons.wikimedia.org/w/index.php?title=User:M.aljar3i&amp;action=edit&amp;redlink=1" class="new" title="User:M.aljar3i (page does not exist)">M.aljar3i</a> - <span class="int-own-work" lang="en">Own work</span>. Licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> via <a href="https://commons.wikimedia.org/wiki/">Commons</a>
+</div>
+    
+## AP propagation
+
+- Propagation
+    + move down axon, away from soma, toward axon terminals.
+- Unmyelinated axon
+    + Each segment "excites" the next
+    
+## AP propagation is like
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/H0K2dvB-7WY" frameborder="0" allowfullscreen></iframe>
+
+## AP propagation
+
+- Myelinated axon
+    + AP "jumps" between Nodes of Ranvier, *saltatory conduction*
+    + Nodes of Ranvier == unmyelinated sections of axon
+    + voltage-gated Na+, K+ channels exposed
+    + Current flows through myelinated segments
+    
+## Question
+
+- Why does AP flow in one direction, away from soma?
+    + Soma does not have (many) voltage-gated Na+ channels.
+    + Soma is not myelinated.
+    + Refractory periods mean polarization only in one direction.
+    
+## Question
+
+- Why does AP flow in one direction, away from soma?
+    + **Soma does not have (many) voltage-gated Na+ channels.**
+    + Soma is not myelinated.
+    + **Refractory periods mean polarization only in one direction.**
+    
+## Conduction velocities
+
+<iframe width="600" height="450" src="https://en.wikipedia.org/wiki/Nerve_conduction_velocity" frameborder="0" allowfullscreen></iframe>
+
+## Hodgkin-Huxley Equations
+
+<iframe width="700" height="450" src="https://en.wikipedia.org/wiki/Hodgkin–Huxley_model" frameborder="0" allowfullscreen></iframe>
+
+## More on HH
+
+- Measuring APs in actual neurons. <https://www.youtube.com/embed/k48jXzFGMc8>
+- Interview with Sir Alan Hodgkin, <https://www.youtube.com/embed/vSIXbfunHYg>
+- Simulations
+    + <http://alexhwilliams.info/code/pyneuron_morph.html>
+    + <http://briansimulator.org/demo/>
+    + <http://www.gribblelab.org/compneuro/3_Modelling_Action_Potentials.html>
+
+## What happens when AP runs out of axon?
+
+- Rapid change in voltage triggers neurotransmitter (NT) release
+- Voltage-gated calcium Ca++ channels open
+- Ca++ causes *synaptic vesicles* to bind with presynaptic membrane, merge
+- NTs diffuse across *synaptic cleft*
+- NTs bind with *receptors* on *postsynaptic membrane*
+- NTs unbind, are inactivated
+
+## Synaptic transmission
+
+- Electrical
+- Chemical
+
+## Receptor/channel types
+
+- Leak
+    + Vary in selectivity, permeability
+- Transporters/exchangers
+    + Ionic
+        * Na+/K+
+    + Chemical
+        * e.g., Dopamine transporter (DAT)
+
+## Receptor/channel types
+
+- Ionotropic receptors (receptor + ion channel)
+    + Ligand-gated
+    + Open/close channel
+- Metabotropic receptors (receptor only)
+    + Triggers 2nd messengers
+    + G-proteins
+    + Open/close adjacent channels, change metabolism
+
+## Gap junctions
+
+- Cytosol flows through adjacent neurons
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v6/n3/images/nrn1627-f1.jpg" height=450px>
+</div>
+
+## Chemical synapse
+
+<div class="centered">
+<img src="https://classconnection.s3.amazonaws.com/94/flashcards/1500094/jpg/chemical_synapse1355159626230.jpg" height=450px>
+</div>
+
+## Receptor types
+
+<div class="centered">
+<img src="http://webvision.med.utah.edu/imageswv/GLU5.jpeg">
+</div>
+
+## Receptors generate postsynaptic potentials (PSPs)
+
+- Small voltage changes
+- Amplitude scales with # of receptors activated
+- Excitatory PSPs (EPSPs)
+    + Depolarize neuron (make more +)
+- Inhibitory (IPSPs)
+    + Hyperpolarize neuron (make more -)
+
+## NTs inactivated
+
+- Buffering
+    + e.g., glutamate into astrocytes
+- Reuptake via transporters
+    + e.g., serotonin via serotonin transporter
+- Enzymatic degradation
+    + e.g., AChE degrades ACh
+    
+## Questions to ponder
+
+- Why must NTs be inactivated?
+- What sort of PSP would the following induce:
+    + Open Na+ channel
+    + Open K+ channel
+    + Open Cl- channel, [Cl-out]>>[Cl-in]
+    
+## Types of synapses
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Blausen_0843_SynapseTypes.png" height=450px>
+</div>
+
+## References

@@ -100,6 +100,7 @@ Trends in Neuroscience</br>
     + Neurophysiology. Read BW 3:57-73.
     + Neural communication. Read BW 3:55-89.
 - Materials
+    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-09-21/511-2015-09-21-neurophys.html). [Markdown](lectures/2015-09-21/511-2015-09-21-neurophys.Rmd).
     + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
 
 ### Week 06, September 28 - October 2
