@@ -1,0 +1,411 @@
+---
+title: "511-2015-09-28-neurochem"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bibliography.bib
+output:
+  ioslides_presentation:
+    css: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Today's Topics
+
+- Neurochemistry
+- How neurons talk to one another
+- Synaptic communication
+- Neurotransmitters
+
+## In the beginning
+
+- Soma receives input from dendrites
+- Axon hillock sums/integrates
+- If sum > threshold, AP "fires"
+
+## Illustration of summation
+
+<div class="centered">
+<a title="By OpenStax College [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3A1224_Post_Synaptic_Potential_Summation.jpg"><img width="512" alt="1224 Post Synaptic Potential Summation" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/1224_Post_Synaptic_Potential_Summation.jpg/512px-1224_Post_Synaptic_Potential_Summation.jpg"/></a>
+</div>
+
+## Steps in synaptic transmission
+
+- Rapid change in voltage triggers neurotransmitter (NT) release
+- *Voltage-gated calcium Ca++ channels* open
+- Ca++ causes *synaptic vesicles* to bind with presynaptic membrane, merge, *exocytosis*
+- NTs diffuse across *synaptic cleft*
+- NTs bind with *receptors* on *postsynaptic membrane*
+- Receptors respond
+- NTs unbind, are inactivated
+
+## Synaptic transmission
+
+<div class="centered">
+<a title="By Thomas Splettstoesser (www.scistyle.com) (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ASynapseSchematic_en.svg"><img width="512" alt="SynapseSchematic en" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SynapseSchematic_en.svg/512px-SynapseSchematic_en.svg.png"/></a>
+</div>
+
+## Excocytosis
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v12/n3/images/nrn2948-f1.jpg" width=450px>
+
+<http://dx.doi.org/doi:10.1038/nrn2948>
+</div>
+
+## Why do NTs move from presynaptic terminal toward postsynaptic cell?
+
+- Electrostatic force pulls them
+- Force of diffusion
+
+## Why do NTs move from presynaptic terminal toward postsynaptic cell?
+
+- Electrostatic force pulls them
+- **Force of diffusion**
+
+## Postsynaptic receptor types
+
+- *Ionotropic* (receptor + ion channel)
+    + Ligand-gated
+    + Open/close channel
+    + Faster, but short-acting effects
+- *Metabotropic* (receptor only)
+    + Trigger 2nd messengers
+    + G-proteins
+    + Open/close adjacent channels, change metabolism
+    + Slower, but longer lasting effects
+
+## Receptor types
+
+<div class="centered">
+<img src="http://webvision.med.utah.edu/imageswv/GLU5.jpeg">
+</div>
+
+## Receptors generate postsynaptic potentials (PSPs)
+
+- Small voltage changes
+- Amplitude scales with # of receptors activated
+    + Dendrites usually lack voltage gated Na+ channels
+- Excitatory PSPs (EPSPs)
+    + Depolarize neuron (make more +)
+- Inhibitory (IPSPs)
+    + Hyperpolarize neuron (make more -)
+
+## NTs inactivated
+
+- Buffering
+    + e.g., glutamate into astrocytes [@GLIA:GLIA10]
+- Reuptake via *[transporters](https://en.wikipedia.org/wiki/Neurotransmitter_transporter)*
+    + molecules in membrane that move NTs inside
+    + e.g., serotonin via serotonin transporter (SERT)
+- Enzymatic degradation
+    + e.g., AChE degrades ACh
+    
+## Questions to ponder
+
+- Why must NTs be inactivated?
+
+## Questions to ponder
+
+- Why must NTs be inactivated?
+    + Keeps messages discrete, localized in time and space
+
+## What sort of PSP would opening a Na+ channel produce?
+
+- Excitatory PSP, Na+ flows in
+- Excitatory PSP, Na+ flows out
+- Inhibitory PSP, Na+ flows in
+- Inhibitory PSP, Na+ flows out
+
+## What sort of PSP would opening a Na+ channel produce?
+
+- **Excitatory PSP, Na+ flows in**
+- Excitatory PSP, Na+ flows out
+- Inhibitory PSP, Na+ flows in
+- Inhibitory PSP, Na+ flows out
+
+## What sort of PSP would opening a Cl- channel produce?
+
+Remember [Cl-out]>>[Cl-in]
+
+- Excitatory PSP, Cl- flows in
+- Excitatory PSP, Cl- flows out
+- Inhibitory PSP, Cl- flows in
+- Inhibitory PSP, Cl- flows out
+
+## What sort of PSP would opening a Cl- channel produce?
+
+Remember [Cl-out]>>[Cl-in]
+
+- Excitatory PSP, Cl- flows in
+- Excitatory PSP, Cl- flows out
+- **Inhibitory PSP, Cl- flows in**
+- Inhibitory PSP, Cl- flows out
+    
+## Types of synapses
+
+<div class="centered">
+<a title="By BruceBlaus. When using this image in external sources it can be cited as:  Blausen.com staff. &quot;Blausen gallery 2014&quot;. Wikiversity Journal of Medicine. DOI:10.15347/wjm/2014.010. ISSN 20018762. (Own work) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3ABlausen_0843_SynapseTypes.png"><img width="512" alt="Blausen 0843 SynapseTypes" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Blausen_0843_SynapseTypes.png/512px-Blausen_0843_SynapseTypes.png"/></a>
+</div>
+
+## Synapses on
+
+- dendrites
+    + usually excitatory 
+- cell bodies
+    + usually inhibitory 
+- axons 
+    + usually modulatory (change p(fire))
+
+## Summary of chemical transmission
+
+<div class="centered">
+<img src="https://classconnection.s3.amazonaws.com/94/flashcards/1500094/jpg/chemical_synapse1355159626230.jpg" height=450px>
+</div>
+
+## Neurotransmiters
+
+| Family      | Neurotansmitter                     |
+|-------------|-------------------------------------|
+| Amino acids | Glutamate                           |
+|             | Gamma aminobutyric acid (GABA)      |
+|             | Glycine                             |
+|             | Aspartate                           |
+
+## Glutamate
+
+- Primary excitatory NT in CNS
+- Role in learning (via NMDA)
+- Receptors on neurons and glia (astrocytes and oligodendrocytes)
+- Linked to umami (savory) taste sensation, think MSG
+- Dysregulation in schizophrenia? [@javitt2010glutamatergic]
+
+## Glutamate
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | AMPA       | Na+, K+          |
+|              | Kainate    |                  |
+|              | NMDA       | Ca+              |
+| Metabotropic | mGlu       |                  |
+
+## GABA
+
+- Primary inhibitory NT in CNS
+- Excitatory in developing CNS, [Cl-] in >> [Cl-] out
+- Binding sites for benzodiazepines (e.g., Valium), barbiturates, ethanol, etc.
+
+| Type         | Receptor   | Esp Permeable to |
+|--------------|------------|------------------|
+| Ionotropic   | GABA-A     | Cl-              |
+| Metabotropic | GABA-B     |                  |
+
+## GABA
+
+<div class="centered">
+<p><a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/GABAA-receptor-protein-example.png/1200px-GABAA-receptor-protein-example.png" alt="GABAA-receptor-protein-example.png" width=450px></a><br>"<a href="https://commons.wikimedia.org/wiki/File:GABAA-receptor-protein-example.png#/media/File:GABAA-receptor-protein-example.png">GABAA-receptor-protein-example</a>" by <a href="//en.wikipedia.org/wiki/User:Chemgirl131" class="extiw" title="wikipedia:User:Chemgirl131">Chemgirl131</a> at <a href="//en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a> - Transferred from&nbsp;<span class="plainlinks"><a class="external text" href="http://en.wikipedia.org">en.wikipedia</a></span>&nbsp;to Commons&nbsp;by&nbsp;<a href="//commons.wikimedia.org/wiki/User:Sreejithk2000" title="User:Sreejithk2000">Sreejithk2000</a>&nbsp;using <a href="//tools.wmflabs.org/commonshelper/" class="extiw" title="toollabs:commonshelper/">CommonsHelper</a>.. Licensed under Public Domain via <a href="https://commons.wikimedia.org/wiki/">Commons</a>.</p>
+</div>
+
+## Other amino acid NTs
+
+- *Aspartate*
+    + Like Glu, stimulates NMDA receptor
+- *Glycine*
+    + Spinal cord interneurons
+
+## Acetylcholine (ACh)
+
+- Primary excitatory NT of PNS output
+- Somatic nervous system (neuromuscular junction)
+- Autonomic nervous system
+    + Sympathetic branch: preganglionic neuron
+    + Parasympathetic branch: pre/postganglionic
+    
+## ACh anatomy
+
+<div class="centered">
+<img src="http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploads/2014/09/Image-1.jpg" width=450px>
+
+<http://myzone.hrvfitltd.netdna-cdn.com/wp-content/uploads/2014/09/Image-1.jpg>
+</div>
+
+## Acetylcholine
+
+| Type         | Receptor           | Esp Permeable to | Blocked by       |
+|--------------|--------------------|------------------|------------------|
+| Ionotropic   | Nicotinic (nAChR)  | Na+, K+          | e.g., Curare     |
+| Metabotropic | Muscarinic (mAChR) | K+               | e.g., Atropine   |
+
+## Curare
+
+<div class="centered">
+<img src="http://www.general-anaesthesia.com/images/indian-curare.jpg" width=450px>
+
+<http://www.general-anaesthesia.com/images/indian-curare.jpg>
+</div>
+
+## Atropine
+
+- aka, nightshade or belladonna
+
+<div class="centered">
+<img src="http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg">
+
+<http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg>
+</div>
+
+## Monamine NTs
+
+| Family      | Neurotansmitter                         |
+|-------------|-----------------------------------------|
+| Monoamines  | Dopamine (DA)                           |
+|             | Norepinephrine (NE)/Noradrenaline (NAd) |
+|             | Epinephrine (Epi)/Adrenaline (Ad)       |
+|             | Serotonin (5-HT)                        |
+|             | Melatonin                               |
+|             | Histamine                               |
+
+## Information processing
+
+- Point-to-point
+    + One sender, small number of recipients
+    + Glu, GABA
+- Broadcast
+    + One sender, widespread recipients
+    + DA, NE, 5-HT, melatonin, histamine
+- Need to know
+    + NT, where projecting, type of receptor to predict function
+
+## Dopamine
+
+- Released by
+    + Substantia nigra -> striatum, *meso-striatal projection*
+    + Ventral tegmental area (VTA) -> nucleus accumbens, ventral striatum, hippocampus, amygdala, cortex; *meso-limbo-cortical projection*
+
+## DA Disruption linked to
+
+- Parkinson's Disease (mesostriatal)
+    + DA agonists treat (agonists facilitate/increase transmission)
+- ADHD (mesolimbocortical)
+- Schizophrenia (mesolimbocortical)
+    + DA antagonists treat
+- Addiction (mesolimbocortical)
+
+## DA Inactivated by 
+
+- Dopamine transporter (DAT) and chemical breakdown
+    
+<http://www.scholarpedia.org/article/Dopamine_anatomy#Dopamine_receptors>
+    
+## Dopamine receptors
+
+| Type         | Receptor             | Comments                      |
+|--------------|----------------------|-------------------------------|
+| Metabotropic | D1-like (D1 and D5)  | more prevalent                |
+|              | D2-like (D2, D3, D4) | target of many antipsychotics |
+
+## Norepinephrine
+
+- Released by 
+    + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons
+    + postganglionic sympathetic neurons onto target tissues
+- Role in arousal, mood, eating, sexual behavior
+- Monoamine oxidase inhibitors (MAO-Is)
+    + inactivate monoamines in neurons, astrocytes
+    + MAOIs increase NE, DA
+    + Treatment for depression
+    
+## NE Anatomy
+
+<div class="centered">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+
+<https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
+</div>
+
+## NE receptors
+
+| Type         | Receptor             | Comments                           |
+|--------------|----------------------|------------------------------------|
+| Metabotropic | $\alpha (1,2)         | antagonists treat anxiety, panic   |
+|              | $\beta (1,2,3)        | 'beta blockers' in cardiac disease |
+
+## Serotonin (5-HT)
+
+- Released by *raphe nuclei* in brainstem
+- Role in mood, sleep, eating, pain, nausea, cognition, memory
+- Modulates release of other NTs
+- Most of body's 5-HT regulates digestion
+
+## 5-HT anatomy
+
+<div class="centered">
+<img src="https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg">
+
+<https://www.dartmouth.edu/~rswenson/NeuroSci/figures/Figure_9_files/image002.jpg>
+</div>
+
+## 5-HT receptors
+
+- Seven families (5-HT 1-7) with 14 types
+- All but one metabotropic
+
+## 5-HT clinical significance
+
+- Ecstasy (MDMA) disturbs serotonin
+- So does LSD
+- Fluoxetine (Prozac)
+    + *Selective Serotonin Reuptake Inhibitor (SSRI)*
+    + Treats depression, panic, eating disorders, others
+- 5-HT3 receptor antagonists are anti-mimetics used in treating nausea
+
+## Melatonin
+
+- Released by pineal gland
+
+<div class="centered">
+<img src="http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg">
+<http://www.vivo.colostate.edu/hbooks/pathphys/endocrine/otherendo/pinealgland.jpg>
+
+</div>
+
+## The other monoamines
+
+- Histamine
+    + Released by hypothalamus, project to whole brain
+    + Metabotropic receptors
+    + Role in arousal/sleep regulation
+    + In body, part of immune response
+
+## Monoamine Song
+
+http://www.youtube.com/watch?v=gsjcb7w1Y-w
+
+## Monoamine Song
+
+￼Monoamines, do-do do do-do</br>
+Monoamines, do do do-do</br>
+Monoamines, do do do do-do do do-do do do-do do do do do-do do
+
+## Monamine Song
+
+￼Monoamines, do-pa-mine is one</br>
+Monoamines, norepi, too</br>
+Monoamines, sero-tonin e-pinephrine, dop-a- mine, nor-epinephrine, melatonin, whoo!
+
+## Monamine Song
+
+Monoamines, mod-u-late neurons </br>
+Monoamines, throughout the brain</br>
+Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
+## References
