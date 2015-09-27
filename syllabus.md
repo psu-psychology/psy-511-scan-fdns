@@ -110,6 +110,8 @@ Trends in Neuroscience</br>
 - Topics
     + Neurochemistry. Read BW: 4:107-124.
     + Hormones. 5:125-154.
+- Materials
+    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-09-28/511-2015-09-28-neurochem.html). [Markdown](lectures/2015-09-28/511-2015-09-28-neurochem.Rmd).
 
 ### Week 07, October 5 - 9
 
