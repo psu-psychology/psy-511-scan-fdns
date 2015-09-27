@@ -116,7 +116,6 @@ Trends in Neuroscience</br>
 #### Mon, October 5
 
 - Topics
-    + **Quiz 2**.
     + Evolution and development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
 
 ### Week 08, October 12 - 16
@@ -124,6 +123,7 @@ Trends in Neuroscience</br>
 #### Mon, October 12
 
 - Topics
+    + **Quiz 2**
     + Perception and Action. Read BW 8:223-247, 11:327-347.
 
 ### Week 09, October 19 - 23
@@ -131,7 +131,6 @@ Trends in Neuroscience</br>
 #### Mon, October 19
 
 - Topics
-    + **Quiz 3**.
     + Cognition. Read BW 17, 18, 19.
 
 ### Week 10, October 26 - 30
@@ -139,6 +138,7 @@ Trends in Neuroscience</br>
 #### Mon, October 26
 
 - Topic
+    + **Quiz 3**
     + Emotion. Read BW 15.
 
 ### Week 11, November 2 - 6
@@ -177,7 +177,7 @@ Planning for student-led sessions.
 
 #### Mon, December 7
 
-- Student-led session C.</br>
+- Student-led session C.
 - Student-led session D.
 
 ### Week 17, December 14 - 18
