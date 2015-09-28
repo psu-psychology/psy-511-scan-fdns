@@ -378,17 +378,25 @@ Remember [Cl-out]>>[Cl-in]
 
 </div>
 
-## The other monoamines
+## Histamine
+- Released by hypothalamus, project to whole brain
+- Metabotropic receptors
+- Role in arousal/sleep regulation
+- In body, part of immune response
 
-- Histamine
-    + Released by hypothalamus, project to whole brain
-    + Metabotropic receptors
-    + Role in arousal/sleep regulation
-    + In body, part of immune response
+## Targets of psychotropic drugs
+
+<div class="centered">
+<img src="img/psychotropic-drug-targets.jpg" width=450px>
+
+<https://stahlonline.cambridge.org/essential_4th_chapter.jsf?page=chapter2_summary.htm&name=Chapter%202&title=Summary>
+</div>
 
 ## Monoamine Song
 
-http://www.youtube.com/watch?v=gsjcb7w1Y-w
+<iframe width="420" height="315" src="https://www.youtube.com/embed/gsjcb7w1Y-w" frameborder="0" allowfullscreen></iframe>
+
+<https://en.wikipedia.org/wiki/Mah_Nà_Mah_Nà>
 
 ## Monoamine Song
 
@@ -407,5 +415,18 @@ Monoamines, sero-tonin e-pinephrine, dop-a- mine, nor-epinephrine, melatonin, wh
 Monoamines, mod-u-late neurons </br>
 Monoamines, throughout the brain</br>
 Monoamines, keep people happy, brains snappy, not sleepy, not sappy, do-do do-do do-do do
+
+## Others
+
+- Gases
+    + *Nitric Oxide (NO)*, *carbon monoxide (CO)*
+- Neuropeptides
+    + *Substance P* and *endorphins* (endogenous morphine-like compounds) have role in pain
+    + *Orexin/hypocretin*, project from lateral hypothalamus across brain, regulates appetite, arousal
+    + *Cholecystokinin (CCK)* stimulates digestion
+- Purines
+    + *Adenosine* (inhibited by caffeine)
+- Others
+    + *Anandamide* (activates endogenous cannabinoid receptors)
 
 ## References
