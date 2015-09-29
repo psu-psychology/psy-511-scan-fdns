@@ -207,7 +207,7 @@ Remember [Cl-out]>>[Cl-in]
 | Type         | Receptor   | Esp Permeable to |
 |--------------|------------|------------------|
 | Ionotropic   | GABA-A     | Cl-              |
-| Metabotropic | GABA-B     |                  |
+| Metabotropic | GABA-B     | K+                 |
 
 ## GABA
 
@@ -263,7 +263,7 @@ Remember [Cl-out]>>[Cl-in]
 <http://www.aapos.org/client_data/files/2011/_138_dilatingeyedrops2.jpg>
 </div>
 
-## Monamine NTs
+## Monoamine NTs
 
 | Family      | Neurotansmitter                         |
 |-------------|-----------------------------------------|
@@ -290,6 +290,14 @@ Remember [Cl-out]>>[Cl-in]
 - Released by
     + Substantia nigra -> striatum, *meso-striatal projection*
     + Ventral tegmental area (VTA) -> nucleus accumbens, ventral striatum, hippocampus, amygdala, cortex; *meso-limbo-cortical projection*
+    
+## Dopamine Anatomy
+
+<div class="centered">
+<img src="http://thebrain.mcgill.ca/flash/a/a_03/a_03_cl/a_03_cl_que/a_03_cl_que_1a.gif" width=450px>
+
+<http://thebrain.mcgill.ca/flash/a/a_03/a_03_cl/a_03_cl_que/a_03_cl_que_1a.gif>
+</div>
 
 ## DA Disruption linked to
 
@@ -319,7 +327,7 @@ Remember [Cl-out]>>[Cl-in]
     + *[locus coeruleus](http://www.scholarpedia.org/article/Locus_coeruleus)* in pons
     + postganglionic sympathetic neurons onto target tissues
 - Role in arousal, mood, eating, sexual behavior
-- Monoamine oxidase inhibitors (MAO-Is)
+- Monoamine oxidase inhibitors (MAOIs)
     + inactivate monoamines in neurons, astrocytes
     + MAOIs increase NE, DA
     + Treatment for depression
@@ -336,8 +344,8 @@ Remember [Cl-out]>>[Cl-in]
 
 | Type         | Receptor             | Comments                           |
 |--------------|----------------------|------------------------------------|
-| Metabotropic | $\alpha (1,2)         | antagonists treat anxiety, panic   |
-|              | $\beta (1,2,3)        | 'beta blockers' in cardiac disease |
+| Metabotropic | $\alpha$ (1,2)         | antagonists treat anxiety, panic   |
+|              | $\beta$ (1,2,3)        | 'beta blockers' in cardiac disease |
 
 ## Serotonin (5-HT)
 
@@ -404,13 +412,13 @@ Remember [Cl-out]>>[Cl-in]
 Monoamines, do do do-do</br>
 Monoamines, do do do do-do do do-do do do-do do do do do-do do
 
-## Monamine Song
+## Monoamine Song
 
 ￼Monoamines, do-pa-mine is one</br>
 Monoamines, norepi, too</br>
 Monoamines, sero-tonin e-pinephrine, dop-a- mine, nor-epinephrine, melatonin, whoo!
 
-## Monamine Song
+## Monoamine Song
 
 Monoamines, mod-u-late neurons </br>
 Monoamines, throughout the brain</br>
