@@ -1,0 +1,367 @@
+---
+title: "511-2015-10-05-evodevo"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: bibliography.bib
+output:
+  ioslides_presentation:
+    css: ../css/gilmore.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Today's Topics
+
+- The evolution and development of the nervous system
+
+## Ontogenesis and phylogenesis
+
+- Ontogenesis
+    + Development within lifetimes, history of individuals
+- Phylogenesis
+    + Change across lifestimes, history of species
+
+## Ontogeny does not recapitulate phylogeny (Haeckel), but...
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Haeckel_drawings.jpg/350px-Haeckel_drawings.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Haeckel_drawings.jpg/350px-Haeckel_drawings.jpg>
+</div>
+
+## Complex multicellular life emerged "recently"
+
+<div class="centered">
+<img src="http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif" height=450px>
+
+<http://www.zo.utexas.edu/faculty/sjasper/images/26.2.gif>
+</div>
+
+## Time scales
+
+<div class="centered">
+<img src="http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif" height=450px>
+
+<http://www.indiana.edu/~geol105b/images/gaia_chapter_6/time_scale.gif>
+</div>
+
+## Evolution alters developmental programs
+
+## Nervous system architectures
+
+<div class="centered">
+<img src="http://sites.sinauer.com/animalphys3e/boxex/AnPhys3e-BoxEx-15-01-0.jpg" height=450px>
+
+<http://sites.sinauer.com/animalphys3e/boxex/AnPhys3e-BoxEx-15-01-0.jpg>
+</div>
+
+## An animal with a nerve "net"
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-UI531GMRTM" frameborder="0" allowfullscreen></iframe>
+
+## How nervous systems differ
+
+- Body symmetry
+    + radial
+    + bilateral
+- Segmentation
+- Cephalization
+- Encasement in bone (vertebrates)
+- Centralized vs. distributed function
+
+## Cephalopods have "intelligent arms"
+
+<iframe width="700" height="400" src="http://www.sciencedirect.com/science/article/pii/S0022098113000683" frameborder="0" allowfullscreen></iframe>
+
+## Biological imperatives
+
+- Ingestion
+- Defense
+- Reproduction
+
+## Information processing schematic
+
+<div class="centered">
+<img src="../figs/swanson-fig-7.5.jpg" height=450px>
+</div>
+
+## Information processing universals
+
+- Sense/detect
+    + Sensors
+- Analyze, evaluate, decide
+- Act
+    + Effectors
+    + e.g., approach/avoid, manipulate, signal
+
+## Sensors
+
+- Specialize by information source/type
+- Specialize by target location
+    + Interoceptive
+    + Exteroceptive
+    
+## Analysis, evaluation, decision
+
+- Current state
+    + World
+    + Organism
+- Current goals
+- Past state(s)
+
+## Effectors
+
+- Move body
+- Send signals
+- Change physiological state
+
+## How did the system get this way?
+
+## Insemination
+
+- 3-4 days before or up to 1-2 days after...
+    + Ovulation
+
+## Fertilization
+
+- Within ~ 24 hrs of ovulation
+
+## Implantation
+
+- ~ 6 days after fertilization
+
+## Early embryogenesis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dAOWQC-OBv0" frameborder="0" allowfullscreen></iframe>
+
+## Formation of neural tube (neurulation)
+
+- Ectoderm, mesoderm, endoderm
+- ~18-26 days
+- Failures of neural tube closure
+    + Spina bifida
+    + Anencephaly
+- Neural tube becomes
+    + Ventricles
+    + Central canal of spinal cord
+
+## Neurogenesis and gliogenesis
+
+- Stem cells along ventricles
+- Symmetric cell division
+- Asymmetric cell division
+
+## Cell migration
+
+<div class="centered">
+<img src="../figs/neural-tube.jpg" height=450px>
+</div>
+
+## Radial glia
+
+<div class="centered">
+<img src="../figs/radial-glia.jpg" height=450px>
+</div>
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/t-8bxeWqSV4" frameborder="0" allowfullscreen></iframe>
+
+## Glial migration
+
+<div class="centered">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F4.medium.gif" height=450px>
+
+<http://physrev.physiology.org/content/81/2/871>
+</div>
+
+## Axon growth cone
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Fgmt2RBow0I" frameborder="0" allowfullscreen></iframe>
+
+## Axons follow
+
+- Chemoattractants
+    + e.g., Nerve Growth Factor (NGF)
+- Chemorepellents
+- Receptors in growth cone detect chemical gradients
+
+## Differentiation
+
+- Neuron vs. glial cell
+- Cell type
+- NTs released
+- Where to connect
+
+## Synaptogenesis
+
+<div class="centered">
+<img src="../figs/synaptic-density-infant.jpg" height=450px>
+</div>
+
+## Postnatal patterns of synaptogenesis
+
+<div class="centered">
+<img src="../figs/huttenlocher.jpg" height=450px>
+</div>
+
+## Proliferation, pruning
+
+- Early proliferation
+- Later pruning
+- Rates, peaks differ by area
+
+## Apoptosis
+
+- 20-80%, varies by area
+- Spinal cord >> cortex
+
+## Synaptic rearrangement
+
+<div class="centered">
+<img src="../figs/huttenlocher.jpg" height=450px>
+</div>
+
+## Myelination
+
+<div class="centered">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F6.large.jpg" height=450px>
+
+<http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F6.large.jpg>
+</div>
+
+## Myelination
+
+- Neonatal brain largely unmyelinated
+- Gradual myelination, peaks in mid-20s
+- Spinal cord before brain
+- Sensory before motor
+
+## Myelination across human development
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F1.medium.gif" height=450px>
+
+[@Hagmann02112010]
+</div>
+
+## Myelination changes "network" properties
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F2.medium.gif" height=450px>
+
+[@Hagmann02112010]
+</div>
+
+## Synaptic rearrangment, myelination change cortical thickness
+
+- [@gogtay2004dynamic]
+- Areal differences in cortical thickness change
+
+## [@gogtay2004dynamic]
+
+<iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie1.mpg" frameborder="0" allowfullscreen></iframe>
+
+## [@gogtay2004dynamic]
+
+<iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie2.mpg" frameborder="0" allowfullscreen></iframe>
+
+## [@gogtay2004dynamic]
+
+<iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie3.mpg" frameborder="0" allowfullscreen></iframe>
+
+## [@gogtay2004dynamic]
+
+<iframe width="420" height="315" src="http://www.pnas.org/content/suppl/2004/05/13/0402680101.DC1/02680Movie4.mpg" frameborder="0" allowfullscreen></iframe>
+
+## Human brain development take homes
+
+- Prenatal
+    + Neuro- and gliogenesis
+    + Migration
+    + Synaptogenesis begins
+    + Apoptosis
+    + Myelination begins
+    
+## Human brain development take homes
+
+- Postnatal
+    + Synaptogenesis
+    + Cortical expansion, activity-dependent change
+    + Myelination
+    + Prolonged period of postnatal/pre-reproductive development [@konner_evolution_2011]
+
+## How brain development clarifies anatomical structure
+
+## 3-4 weeks
+
+<div class="centered">
+<img src="../figs/swanson-1.jpg" height=450px>
+</div>
+
+## 4 weeks
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg>
+</div>
+
+## ~4 weeks
+
+<div class="centered">
+<img src="../figs/swanson-2.jpg" height=450px>
+</div>
+
+## 6 weeks
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png>
+</div>
+
+## ~6 weeks
+
+<div class="centered">
+<img src="../figs/swanson-3.jpg" height=450px>
+</div>
+
+## Beyond
+
+<div class="centered">
+<img src="../figs/swanson-4.jpg" height=450px>
+</div>
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
+
