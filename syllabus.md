@@ -119,6 +119,8 @@ Trends in Neuroscience</br>
 
 - Topics
     + Evolution and development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+- Materials
+    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-10-05/511-2015-10-05-evodevo.html). [Markdown](lectures/2015-10-05/511-2015-10-05-evodevo.Rmd).
 
 ### Week 08, October 12 - 16
 

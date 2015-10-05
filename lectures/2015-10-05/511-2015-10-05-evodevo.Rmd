@@ -124,6 +124,44 @@ output:
 - Send signals
 - Change physiological state
 
+## Evolutionary trends in cortical size
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g001.jpg" height=450px>
+
+[@hofman_evolution_2014]
+</div>
+
+## Evolutionary trends in cortical size
+
+| Structural measure | Non-human comparison | Human |
+|--------------------|----------------------|-------|
+| Cortical gray matter %/tot brain vol | insectivores 25% | 50% |
+| Cortical gray + white | mice 40% | 80% |
+| Cerebellar mass | primates, mammals 10-15% | 10-15% |
+
+## Evolutionary trends in cortical size
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f1.jpg" width=450px>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+## Evolutionary trends in primate brain size
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/78485/fnana-08-00015-HTML/image_m/fnana-08-00015-g002.jpg" height=450px>
+
+[[@hofman_evolution_2014]](http://journal.frontiersin.org/article/10.3389/fnana.2014.00015/full)
+</div>
+
+## Human brains have
+
+- Significant "folding"
+- Dense interconnections
+- Large "association" areas
+
 ## How did the system get this way?
 
 ## Insemination
@@ -160,16 +198,24 @@ output:
 - Symmetric cell division
 - Asymmetric cell division
 
+## Radial glia
+
+<div class="centered">
+<img src="../figs/radial-glia.jpg" height=450px>
+</div>
+
 ## Cell migration
 
 <div class="centered">
 <img src="../figs/neural-tube.jpg" height=450px>
 </div>
 
-## Radial glia
+## Radial unit hypothesis
 
 <div class="centered">
-<img src="../figs/radial-glia.jpg" height=450px>
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg" height=450px>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
 </div>
 
 ## Migration
@@ -206,6 +252,22 @@ output:
 - NTs released
 - Where to connect
 
+## Differential gene expression
+
+<div class="centered">
+<img src="http://www.sciencedirect.com/science?_ob=MiamiCaptionURL&_method=retrieve&_eid=1-s2.0-S0896627309002864&_image=1-s2.0-S0896627309002864-gr1.jpg&_cid=272195&_explode=defaultEXP_LIST&_idxType=defaultREF_WORK_INDEX_TYPE&_alpha=defaultALPHA&_ba=&_rdoc=1&_fmt=FULL&_issn=08966273&_pii=S0896627309002864&md5=4370b589fefe7010728e4461df92ffef" height=450px>
+
+[[johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
+</div>
+
+## Prefrontal vs. Other Ctx
+
+<div class="centered">
+<img src="http://www.sciencedirect.com/science?_ob=MiamiCaptionURL&_method=retrieve&_eid=1-s2.0-S0896627309002864&_image=1-s2.0-S0896627309002864-gr4.jpg&_cid=272195&_explode=defaultEXP_LIST&_idxType=defaultREF_WORK_INDEX_TYPE&_alpha=defaultALPHA&_ba=&_rdoc=1&_fmt=FULL&_issn=08966273&_pii=S0896627309002864&md5=ac9ae93fa7db3f6b0e237a32f9ec3c43" height=450px>
+
+[[johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
+</div>
+
 ## Synaptogenesis
 
 <div class="centered">
@@ -228,6 +290,14 @@ output:
 
 - 20-80%, varies by area
 - Spinal cord >> cortex
+
+## Apoptosis and cortical expansion
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg" height=450px>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
 
 ## Synaptic rearrangement
 
@@ -293,8 +363,10 @@ output:
     + Neuro- and gliogenesis
     + Migration
     + Synaptogenesis begins
+    + Differentiation
     + Apoptosis
     + Myelination begins
+    + Infant gene expression ≠ Adult
     
 ## Human brain development take homes
 
@@ -303,7 +375,7 @@ output:
     + Cortical expansion, activity-dependent change
     + Myelination
     + Prolonged period of postnatal/pre-reproductive development [@konner_evolution_2011]
-
+    
 ## How brain development clarifies anatomical structure
 
 ## 3-4 weeks
@@ -365,3 +437,4 @@ output:
 | Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
 |                | --                   | Mylencephalon      | Medulla oblongata |
 
+## References {.smaller}
