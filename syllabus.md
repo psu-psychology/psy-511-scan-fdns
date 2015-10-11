@@ -129,6 +129,8 @@ Trends in Neuroscience</br>
 - Topics
     + **Quiz 2**
     + Perception and Action. Read BW 8:223-247, 11:327-347.
+- Materials
+    + Lecture Notes: [PDF](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-10-12/511-2015-10-12-perception-action-sv.pdf).
 
 ### Week 09, October 19 - 23
 
