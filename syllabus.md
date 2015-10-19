@@ -138,29 +138,31 @@ Trends in Neuroscience</br>
 
 - Topics
     + Cognition. Read BW 17, 18, 19.
+- Materials
+    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-10-19/511-2015-10-19-cognition.html). [Markdown](lectures/2015-10-19/511-2015-10-19-cognition.Rmd).
+
 
 ### Week 10, October 26 - 30
 
 #### Mon, October 26
 
-- Topic
-    + **Quiz 3**
-    + Emotion. Read BW 15.
+**NO CLASS**
 
 ### Week 11, November 2 - 6
 
 #### Mon, November 2
 
-- Topics
-    + Disorder and Disease. Read BW 16.
-    + **Take home exam distributed**.
+- Topic
+    + **Quiz 3**
+    + Emotion. Read BW 15.
 
 ### Week 12, November 9 - 13
 
 #### Mon, November 9
 
-- Topic
-    * [Cool classics](http://www.sfn.org/about/history-of-neuroscience/classic-papers) and hot topics.
+- Topics
+    + Disorder and Disease. Read BW 16.
+    + **Take home exam distributed**.
 
 ### Week 13, November 16 - 20
 
