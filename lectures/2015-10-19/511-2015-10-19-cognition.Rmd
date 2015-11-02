@@ -208,7 +208,7 @@ output:
 ## Processing networks
 
 <div class="centered">
-<img src="../figs/bressler-2010-fig-6.jpg" height=450px width=700px>
+<img src="../figs/bressler-2010-fig-6.jpg" width=800px>
 
 [[@bressler2010large]](http://dx.doi.org/10.1016/j.tics.2010.04.004)
 </div>

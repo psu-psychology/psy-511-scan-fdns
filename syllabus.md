@@ -155,6 +155,8 @@ Trends in Neuroscience</br>
 - Topic
     + **Quiz 3**
     + Emotion. Read BW 15.
+- Materials
+    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-11-02/511-2015-11-02-emotion.html). [Markdown](lectures/2015-11-02/511-2015-11-02-emotion.Rmd).
 
 ### Week 12, November 9 - 13
 
