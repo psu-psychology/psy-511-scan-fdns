@@ -164,6 +164,7 @@ Trends in Neuroscience</br>
 
 - Topics
     + Disorder and Disease. Read BW 16.
+    + [Student-led sessions outline](student-led-session-topics.md)
     + **Take home exam distributed**.
 
 ### Week 13, November 16 - 20
