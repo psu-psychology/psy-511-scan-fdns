@@ -21,7 +21,42 @@
 
 ## Student-suggested papers
 
-## Meg Cadden
+### Wes Scala
+
+- Minzenberg, M. J., Fan, J., New, A. S., Tang, C. Y., & Siever, L. J. (2007). Frontolimbic dysfunction in response to facial emotion in borderline personality disorder: An event-related fMRI study. Psychiatry Research, 155(3), 231-243. <http://dx.doi.org/10.1016/j.pscychresns.2007.03.006>.
+- Moriguchi, Y., Ohnishi, T., Lane, R. D., Maeda, M., Mori, T., Nemoto, K., Matsuda, H., & Komaki, G. (2006). Impaired self-awareness and theory of mind: An fMIRI study of mentalizing in alexithymia. NeuroImage, 32(3), 1472-1482. <http://dx.doi.org/10.1016/j.neuroimage.2006.04.186>.
+
+### Dan Albohn
+
+- Chang, J., Zhang, M., Hitchman, G., Qiu, J., & Liu, Y. (2014). When you smile, you become happy: Evidence from resting state task-based fMRI. Biological Psychology, 103, 100–106. <http://doi.org/10.1016/j.biopsycho.2014.08.003>.
+- Patriquin, M. A., Scarpa, A., Friedman, B. H., & Porges, S. W. (2013). Respiratory sinus arrhythmia: A marker for positive social functioning and receptive language skills in children with autism spectrum disorders. Developmental Psychobiology, 55(2), 101–112. <http://doi.org/10.1002/dev.21002>.
+
+### Sarah Perzow
+
+- Davidson, R. J., & McEwen, B. S. (2012). Social influences on neuroplasticity: stress and interventions to promote well-being. Nature Neuroscience, 15(5), 689–695. <http://doi.org/10.1038/nn.3093>.
+- Needham, B. L., Fernandez, J. R., Lin, J., Epel, E. S., & Blackburn, E. H. (2012). Socioeconomic status and cell aging in children. Social Science & Medicine, 74(12), 1948–1951. <http://doi.org/10.1016/j.socscimed.2012.02.019>.
+
+### John Loughlin-Presnal
+
+- Goldsmith, H. H., Pollak, S. D., & Davidson, R. J. (2008). Developmental Neuroscience Perspectives on Emotion Regulation. Child Development Perspectives, 2(3), 132–140. <http://doi.org/10.1111/j.1750-8606.2008.00055.x>.
+- Schore, A. N. (2005). Back to Basics. Pediatrics in Review, 26(6), 204–217. <http://doi.org/10.1542/pir.26-6-204>.
+
+### Megan Fields
+
+- Goldsmith, H. H., Pollak, S. D., & Davidson, R. J. (2008). Developmental Neuroscience Perspectives on Emotion Regulation. Child Development Perspectives, 2(3), 132–140. <http://doi.org/10.1111/j.1750-8606.2008.00055.x>.
+- Telzer, E. H., Qu, Y., Goldenberg, D., Fuligni, A. J., Galván, A., & Lieberman, M. D. (2014). Adolescents’ emotional competence is associated with parents’ neural sensitivity to emotions. Frontiers in Human Neuroscience, 8, 558. <http://doi.org/10.3389/fnhum.2014.00558>.
+
+### Sinhae Cho
+
+- Davidson, R. J., & McEwen, B. S. (2012). Social influences on neuroplasticity: stress and interventions to promote well-being. Nature Neuroscience, 15(5), 689–695. <http://doi.org/10.1038/nn.3093>
+- Lamm, C., & Singer, T. (2010). The role of anterior insular cortex in social emotions. Brain Structure and Function, 214(5), 579–591. <http://doi.org/10.1007/s00429-010-0251-3>.
+
+### Christian Navarro-Torres
+
+- Abutalebi, J., & Green, D. (2007). Bilingual language production: The neurocognition of language representation and control. Journal of Neurolinguistics, 20(3), 242–275. <http://doi.org/10.1016/j.jneuroling.2006.10.003>.
+- Fabbro, F., Moretti, R., & Bava, A. (2000). Language impairments in patients with cerebellar lesions. Journal of Neurolinguistics, 13(2–3), 173–188. <http://doi.org/10.1016/S0911-6044(00)00010-5>.
+
+### Meg Cadden
 
 - Lampit, A., Hallock, H., Suo, C., Naismith, S. L., & Valenzuela, M. (2015). Cognitive training-induced short-term functional and long-term structural plastic change is related to gains in global cognition in healthy older adults: a pilot study. Frontiers in Aging Neuroscience, 7, 14. <http://doi.org/10.3389/fnagi.2015.00014>
 - Pittenger, C., & Duman, R. S. (2007). Stress, Depression, and Neuroplasticity: A Convergence of Mechanisms. Neuropsychopharmacology, 33(1), 88–109. <http://doi.org/10.1038/sj.npp.1301574>
