@@ -23,8 +23,8 @@
 
 ### Wes Scala
 
-- Minzenberg, M. J., Fan, J., New, A. S., Tang, C. Y., & Siever, L. J. (2007). Frontolimbic dysfunction in response to facial emotion in borderline personality disorder: An event-related fMRI study. Psychiatry Research, 155(3), 231-243. <http://dx.doi.org/10.1016/j.pscychresns.2007.03.006>.
-- Moriguchi, Y., Ohnishi, T., Lane, R. D., Maeda, M., Mori, T., Nemoto, K., Matsuda, H., & Komaki, G. (2006). Impaired self-awareness and theory of mind: An fMIRI study of mentalizing in alexithymia. NeuroImage, 32(3), 1472-1482. <http://dx.doi.org/10.1016/j.neuroimage.2006.04.186>.
+- Minzenberg, M. J., Fan, J., New, A. S., Tang, C. Y., & Siever, L. J. (2007). Fronto-limbic dysfunction in response to facial emotion in borderline personality disorder: An event-related fMRI study. Psychiatry Research: Neuroimaging, 155(3), 231–243. <http://doi.org/10.1016/j.pscychresns.2007.03.006>.
+- Moriguchi, Y., Ohnishi, T., Lane, R. D., Maeda, M., Mori, T., Nemoto, K., … Komaki, G. (2006). Impaired self-awareness and theory of mind: An fMRI study of mentalizing in alexithymia. NeuroImage, 32(3), 1472–1482. <http://doi.org/10.1016/j.neuroimage.2006.04.186>.
 
 ### Dan Albohn
 
@@ -107,5 +107,20 @@
 ## Tentative Groups
 
 ### Memory, Aging, Executive Control
+
+- Kay, Haoyun, Meg 
+
+### Social neuroscience, development
+
+- Leigha, Dan, Megan, Sarah, John, Sinhae
+
+### Cognition, language, attention
+
+- Boki, Anne, Christian
+
+### Depression, stress, emotion
+
+- Emily, Hanjoo, Wes
+
 
 
