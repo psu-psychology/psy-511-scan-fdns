@@ -21,6 +21,23 @@
 
 ## Student-suggested papers
 
+### Troy Steiner
+
+- Habib, R., Nyberg, L., & Tulving, E. (2003). Hemispheric asymmetries of memory: the HERA model revisited. Trends in Cognitive Sciences, 7(6), 241–245. <http://doi.org/10.1016/S1364-6613(03)00110-4>
+- Kveraga, K., Boshyan, J., & Bar, M. (2007). Magnocellular Projections as the Trigger of Top-Down Facilitation in Recognition. The Journal of Neuroscience, 27(48), 13232–13240. <http://doi.org/10.1523/JNEUROSCI.3481-07.2007>
+- Marois, R., Chun, M. M., & Gore, J. C. (2000). Neural Correlates of the Attentional Blink. Neuron, 28(1), 299–308. <http://doi.org/10.1016/S0896-6273(00)00104-5>.
+
+## Melinda Ashe
+
+- Casey, B. J., Trainor, R. J., Orendi, J. L., Schubert, A. B., Nystrom, L. E., Giedd, J. N., … Rapoport, J. L. (1997). A Developmental Functional MRI Study of Prefrontal Activation during Performance of a Go-No-Go Task. Journal of Cognitive Neuroscience, 9(6), 835–847. <http://doi.org/10.1162/jocn.1997.9.6.835>.
+- Delgado, M. R. (2007). Reward-Related Responses in the Human Striatum. Annals of the New York Academy of Sciences, 1104(1), 70–88. <http://doi.org/10.1196/annals.1390.002>.
+
+## Luc LeFreniere
+
+- LaBar, K. S., & Cabeza, R. (2006). Cognitive neuroscience of emotional memory. Nature Reviews Neuroscience, 7(1), 54–64. <http://doi.org/10.1038/nrn1825>.
+Piefke, M., Weiss, P. H., Zilles, K., Markowitsch, H. J., & Fink, G. R. (2003).- Differential remoteness and emotional tone modulate the neural correlates of autobiographical memory. Brain, 126(3), 650–668. <http://doi.org/10.1093/brain/awg064>.
+- Svoboda, E., McKinnon, M. C., & Levine, B. (2006). The functional neuroanatomy of autobiographical memory: A meta-analysis. Neuropsychologia, 44(12), 2189–2208. <http://doi.org/10.1016/j.neuropsychologia.2006.05.023>.
+
 ### Wes Scala
 
 - Minzenberg, M. J., Fan, J., New, A. S., Tang, C. Y., & Siever, L. J. (2007). Fronto-limbic dysfunction in response to facial emotion in borderline personality disorder: An event-related fMRI study. Psychiatry Research: Neuroimaging, 155(3), 231–243. <http://doi.org/10.1016/j.pscychresns.2007.03.006>.
