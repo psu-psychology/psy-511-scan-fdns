@@ -398,6 +398,8 @@ output:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/L0CVoFsUhC4" frameborder="0" allowfullscreen></iframe>
 
+@ The State Theatre, M 11/16 at 7:30pm,  <http://thestatetheatre.org/monday-movie-series/>
+
 ## Interlude
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/XaI5IRuS2aE" frameborder="0" allowfullscreen></iframe>
