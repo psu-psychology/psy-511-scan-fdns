@@ -46,12 +46,16 @@ output:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/OTZvnAF7UsA" frameborder="0" allowfullscreen></iframe>
 
+## The face of depression
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/XiCrniLQGYc" frameborder="0" allowfullscreen></iframe>
+
 ## Major affective (emotional) disorders
 
 - Types
-    + Bipolar disorder
-    + Depression
     + Anxiety
+    + Depression
+    + Bipolar disorder
     
 ## Major affective (emotional) disorders
    
@@ -66,12 +70,12 @@ output:
     + Insomnia, lethargy, loss of pleasure, interest, energy
 - Agitation
 - Lasting for several weeks or more
-- Prevalence (~10% lifetime)
+- Prevalence (~16% lifetime)
 - Females 2-3x males
 
 ## Cognitive model
 
-> ...negative cognitive biases in depression are facilitated by increased influence from subcortical emotion processing regions combined with attenuated top-down cognitive control.
+> *...negative cognitive biases in depression are facilitated by increased influence from subcortical emotion processing regions combined with attenuated top-down cognitive control.*
 
 [[@disner_neural_2011]](http://dx.doi.org/10.1038/nrn3027)
 
@@ -79,12 +83,6 @@ output:
 
 <div class="centered">
 <img src="../figs/disner-etal-fig-1.jpg" height=450px>
-</div>
-
-## [[@disner_neural_2011]](http://dx.doi.org/10.1038/nrn3027)
-
-<div class="centered">
-<img src="../figs/disner-etal-fig-1.jpg">
 </div>
 
 ## [[@disner_neural_2011]](http://dx.doi.org/10.1038/nrn3027)
@@ -171,7 +169,7 @@ output:
 
 ## Pharmacological factors
 
-- Serotonin hypothese, [@coppen_biochemistry_1967].
+- Serotonin hypothesis, [@coppen_biochemistry_1967].
     + Low serotonin (5-HT) metabolite levels in CSF of suicidal depressives [[@samuelsson_csf_2006]](http://dx.doi.org/10.1111/j.1600-0447.2005.00639.x)
     
 ## [[@samuelsson_csf_2006]](http://dx.doi.org/10.1111/j.1600-0447.2005.00639.x)
@@ -180,7 +178,7 @@ output:
 <img src="../figs/samuelsson.jpg" height=450px>
 </div>
 
-## Revisiting the serotonin hypothesis
+## Revisiting the serotonin hypothesis {.smaller}
 
 - *The neurobiology of depression—revisiting the serotonin hypothesis. I. Cellular and molecular mechanisms*, <http://rstb.royalsocietypublishing.org/content/367/1601.toc>
 - *The neurobiology of depression—revisiting the serotonin hypothesis. II. Genetic, epigenetic and clinical studies*, <http://rstb.royalsocietypublishing.org/content/368/1615>
@@ -191,7 +189,7 @@ output:
     + Often effective when combined with drug treatment
 - Drugs
 - Exercise
-- Electroconvulsive Shock (ECT)
+- [Electroconvulsive Shock (ECT)](http://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies.shtml)
 
 ## "First generation" drugs
 
@@ -223,7 +221,7 @@ output:
 - Norepinephrine-Dopamine Reuptake Inhbitors (NDRIs)
     + e.g., Wellbutrin
 
-## Problems with monoamine hypothesis
+## Problems with monoamine/5-HT hypothesis
 
 - Too simplistic
 - NE, 5-HT interact
@@ -234,7 +232,7 @@ output:
 - Receptor sensitivity altered?
     + Presynaptic serotonin autoreceptors compensate
     + Postsynaptic upregulation of NE/5-HT effects
-    + Link to neurotrophin BDNF
+    + Link to neurotrophin BDNF, [[@duman_neurotrophic_2006]](http://dx.doi.org/10.1016/j.biopsych.2006.02.013)
     + BDNF boosts neurogenesis
 
 ## Exercise as a treatment
@@ -393,7 +391,10 @@ output:
 ## Interlude
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lioWzrpCtGQ" frameborder="0" allowfullscreen></iframe>
-@ The State Theatre, M 11/16 at 7:30pm,  <http://thestatetheatre.org/monday-movie-series/>
+
+## Love and Mercy
+
+### @ The State Theatre, M 11/16 at 7:30pm,  <http://thestatetheatre.org/monday-movie-series/>
 
 ## Interlude
 
