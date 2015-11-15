@@ -165,7 +165,7 @@ Trends in Neuroscience</br>
 - Topics
     + Disorder and Disease. Read BW 16.
     + [Student-led sessions outline](student-led-session-topics.md)
-    + **[Take home exam distributed](exam/511-exam.pdf)**.
+    + **[Take home exam distributed](exam/511-exam.pdf)**. *Right click on [this link](exam/511-exam-pdf) and save a copy to your local computer.*
 - Materials
     + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-11-09/511-2015-11-09-disorder.html). [Markdown](lectures/2015-11-09/511-2015-11-09-disorder.Rmd).
 
