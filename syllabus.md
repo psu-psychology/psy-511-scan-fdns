@@ -183,15 +183,15 @@ Planning for student-led sessions.
 
 #### Mon, November 30
 
-- Student-led session A.
-- Student-led session B.
+- [Student-led session A. Cognition, language, aging, attention](https://github.com/psu-psychology/psy-511-scan-fdns/blob/master/student-led-session-topics.md#a-cognition-language-aging-attention)
+- [Student-led session B. Memory, Executive Control](https://github.com/psu-psychology/psy-511-scan-fdns/blob/master/student-led-session-topics.md#b-memory-executive-control)
 
 ### Week 16, December 7 - 11
 
 #### Mon, December 7
 
-- Student-led session C.
-- Student-led session D.
+- [Student-led session C. Social neuroscience, development](https://github.com/psu-psychology/psy-511-scan-fdns/blob/master/student-led-session-topics.md#c-social-neuroscience-development)
+- [Student-led session D. Depression, Stress, & Emotion](https://github.com/psu-psychology/psy-511-scan-fdns/blob/master/student-led-session-topics.md#d-depression-stress-emotion)
 
 ### Week 17, December 14 - 18
 
