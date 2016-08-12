@@ -123,21 +123,19 @@ Piefke, M., Weiss, P. H., Zilles, K., Markowitsch, H. J., & Fink, G. R. (2003).-
 
 ## Tentative Groups
 
-### Memory, Executive Control
-
-- Kay, Meg, Luc, Carla, Troy 
-
-### Social neuroscience, development
-
-- Leigha, Dan, Megan, Sarah, John, Sinhae
-
-### Cognition, language, aging, attention
+### A. Cognition, language, aging, attention
 
 - Boki, Anne, Christian, Haoyun
 
-### Depression, stress, emotion, &?
+### B. Memory, Executive Control
+
+- Kay, Meg, Luc, Carla, Troy 
+
+### C. Social neuroscience, development
+
+- Leigha, Dan, Megan, Sarah, John, Sinhae
+
+### D. Depression, stress, emotion
 
 - Emily, Hanjoo, Wes, Melinda
-
-
 

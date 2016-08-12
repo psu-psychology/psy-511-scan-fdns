@@ -232,6 +232,7 @@ Trends in Neuroscience</br>
 
 #### Wed, November 30
 
+<<<<<<< HEAD
 - Student-led session A.
 
 #### Fri, December 2
@@ -248,7 +249,7 @@ Trends in Neuroscience</br>
 
 - Student-led session D.
 
-### Week 17, December 14 - 18
+### Week 17, December 12 - 16
 
 **NO CLASSES**
 
