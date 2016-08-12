@@ -1,6 +1,6 @@
 # PSY 511 Syllabus
 
-## Fall 2015
+## Fall 2016
 
 ## Instructor
 
@@ -15,7 +15,7 @@ Office hours by appointment: <http://doodle.com/rickgilmore>
 
 ## Meeting Location and Time
 
-M 2:30-5:30pm</br>
+WF 2:30-3:45PM</br>
 444 Moore
 
 ## Goals
@@ -49,148 +49,203 @@ Trends in Neuroscience</br>
 
 ## Schedule
 
-[PSU Academic Calendar](http://registrar.psu.edu/academic_calendar/fall15.cfm)
+[PSU Academic Calendar](http://registrar.psu.edu/academic_calendar/fall16.cfm)
 
-### Week 01, August 24 - 28
+### Week 01, August 22 - 26
 
-#### Mon, August 24
+#### Wed, August 24
 
 - Topics
     + Why biological psychology? Read: BW 1.
     + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 - Materials
-    + [Lecture Notes](lectures/2015-08-24/511-2015-08-24-intro.md).
+     + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md).
+    
+#### Fri, August 26
+
+- Topics
+    + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+- Materials
     + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md).
 
-### Week 02, August 31 - September 4
+### Week 02, August 29 - September 2
 
-#### Mon, August 31
+#### Wed, August 31
 
 - Topics
     + Neuroanatomy. Read BW 2:34-49.
-    + **Neuroanatomy Lab**.  
 - Materials
     + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
-    + Lecture notes: [HTML](https://cdn.rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-08-31/511-2015-08-31-anatomy.html#1). [Markdown](lectures/2015-08-31/511-2015-08-31-anatomy.Rmd). [PDF](https://cdn.rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-08-31/511-2015-08-31-anatomy.pdf)
 
-### Week 03, September 7 - 11
+#### Fri, September 2
 
-#### Mon, September 7
+- Topics
+    + Neuroanatomy. Read BW 2:34-49.
+- Materials
+    + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
 
-**NO CLASS LABOR DAY**
+### Week 03, September 5 - 9
 
-### Week 04, September 14 - 18
-
-#### Mon, September 14
+#### Wed, September 7
 
 - Topics
     + **Neuroanatomy Lab**.
-    + Cellular neuroanatomy. Read BW 2:23-33. 
 - Materials
     + [Handout](handouts/neuroanatomy-lab-handout.md).
-    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-09-14/511-2015-09-14-cells.html). [Markdown](lectures/2015-09-14/511-2015-09-14-cells.Rmd).
+
+#### Fri, September 9
+
+- Topics
+    + Cellular neuroanatomy. Read BW 2:23-33. 
+- Materials
     + [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md).
 
-### Week 05, September 21 - 25
+### Week 04, September 14 - 16
 
-#### Mon, September 21
+#### Wed, September 14
 
 - Topics
     + **Quiz 1**.
     + Neurophysiology. Read BW 3:57-73.
-    + Neural communication. Read BW 3:55-89.
 - Materials
-    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-09-21/511-2015-09-21-neurophys.html). [Markdown](lectures/2015-09-21/511-2015-09-21-neurophys.Rmd).
     + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
 
-### Week 06, September 28 - October 2
+#### Fri, September 16
 
-#### Mon, September 28
+- Topics
+    + Neural communication. Read BW 3:55-89.
+- Materials
+    + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
+
+### Week 05, September 19 - 23
+
+#### Wed, September 21
 
 - Topics
     + Neurochemistry. Read BW: 4:107-124.
-    + Hormones. 5:125-154.
-- Materials
-    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-09-28/511-2015-09-28-neurochem.html). [Markdown](lectures/2015-09-28/511-2015-09-28-neurochem.Rmd).
 
-### Week 07, October 5 - 9
-
-#### Mon, October 5
+#### Fri, September 23
 
 - Topics
-    + Evolution and development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
-- Materials
-    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-10-05/511-2015-10-05-evodevo.html). [Markdown](lectures/2015-10-05/511-2015-10-05-evodevo.Rmd).
+    + Hormones. 5:125-154.
 
-### Week 08, October 12 - 16
+### Week 06, September 26 - 30
 
-#### Mon, October 12
+#### Wed, September 28
+
+- Topics
+    + Evolution. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+
+#### Fri, September 30
+
+- Topics
+    + Development. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+
+### Week 07, October 3 - 7
+
+#### Wed, October 5
+
+- Topics
+    + Catch-up
+    
+#### Fri, October 7
 
 - Topics
     + **Quiz 2**
-    + Perception and Action. Read BW 8:223-247, 11:327-347.
-- Materials
-    + Lecture Notes: [PDF](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-10-12/511-2015-10-12-perception-action-sv.pdf).
+    + Perception. Read BW 8:223-247.
+ 
+### Week 08, October 10 - 14
 
-### Week 09, October 19 - 23
-
-#### Mon, October 19
-
-- Topics
-    + Cognition. Read BW 17, 18, 19.
-- Materials
-    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-10-19/511-2015-10-19-cognition.html). [Markdown](lectures/2015-10-19/511-2015-10-19-cognition.Rmd).
-
-
-### Week 10, October 26 - 30
-
-#### Mon, October 26
+#### Wed, October 12
 
 **NO CLASS**
 
-### Week 11, November 2 - 6
+#### Fri, October 14
 
-#### Mon, November 2
+**NO CLASS**
+
+### Week 09, October 17 - 21
+
+#### Wed, October 19
+
+- Topics
+    + Action.
+
+#### Fri, October 21
+
+- Topics
+    + Cognition. Read BW 17, 18, 19.
+
+### Week 10, October 24 - 26
+
+#### Wed, October 26
+
+- Topic
+    + Emotion. Read BW 15.
+
+#### Fri, October 28
 
 - Topic
     + **Quiz 3**
-    + Emotion. Read BW 15.
-- Materials
-    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-11-02/511-2015-11-02-emotion.html). [Markdown](lectures/2015-11-02/511-2015-11-02-emotion.Rmd).
 
-### Week 12, November 9 - 13
+### Week 11, October 31 - November 4
 
-#### Mon, November 9
+#### Wed, November 2
+
+- Topics
+    + Disorder and Disease. Read BW 16.
+    + [Student-led sessions outline](student-led-session-topics.md)
+
+#### Fri, November 4
 
 - Topics
     + Disorder and Disease. Read BW 16.
     + [Student-led sessions outline](student-led-session-topics.md)
     + **[Take home exam distributed](exam/511-exam.pdf)**. *Right click on [this link](exam/511-exam-pdf) and save a copy to your local computer.*
-- Materials
-    + Lecture Notes: [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/2015-11-09/511-2015-11-09-disorder.html). [Markdown](lectures/2015-11-09/511-2015-11-09-disorder.Rmd).
 
-### Week 13, November 16 - 20
+### Week 12, November 7 - 11
 
-#### Mon, November 16
+#### Wed, November 9
 
-Planning for student-led sessions.
+- Topics
+    + The future of biological approaches to behavior
+
+#### Fri, November 11
+
+- Planning for student-led sessions
+
+### Week 13, November 14 - 18
+
+#### Wed, November 16
+
+- Planning for student-led sessions.
+
+#### Fri, November 18
+
+- Planning for student-led sessions.
 
 ### Week 14, November 23 - 27 
 
 **NO CLASS -- THANKSGIVING BREAK**
 
-### Week 15, November 30 - December 4
+### Week 15, November 28 - December 2
 
-#### Mon, November 30
+#### Wed, November 30
 
 - Student-led session A.
+
+#### Fri, December 2
+
 - Student-led session B.
 
-### Week 16, December 7 - 11
+### Week 16, December 5 - 9
 
-#### Mon, December 7
+#### Wed, December 7
 
 - Student-led session C.
+
+### Fri, December 9
+
 - Student-led session D.
 
 ### Week 17, December 14 - 18
