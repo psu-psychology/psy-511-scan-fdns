@@ -60,6 +60,7 @@ Trends in Neuroscience</br>
     + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
 - Materials
      + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md).
+     + More on [MRI physics](https://www.youtube.com/watch?v=Ok9ILIYzmaY)
     
 #### Fri, August 26
 
