@@ -2,19 +2,25 @@
 title: "511-2016-08-24"
 author: "rogilmore"
 date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
 output:
   ioslides_presentation:
+    css: css/gilmore.css
     widescreen: true
     incremental: true
     transition: default
 ---
+
+## Prelude
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JB7jSFeVz1U" frameborder="0" allowfullscreen></iframe>
 
 ## PSY 511 {.flexbox .vcenter}
 
 ### Foundations of Cognitive and Affective Neuroscience
 
 <div class="centered">
-<img src="figs/fesi-source.jpg"/>
+<img src="img/fesi-source.jpg"/>
 
 #### Rick O. Gilmore, Ph.D.</br>
 Associate Professor of Psychology
@@ -23,13 +29,13 @@ Associate Professor of Psychology
 ## Why neuroscience is harder than physics {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/psych-harder-1.jpg" width=800px/>
+<img src="img/psych-harder-1.jpg" width=800px/>
 </div>
 
 ## Why neuroscience is harder than physics {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/psych-harder-2.jpg" width=800px/>
+<img src="img/psych-harder-2.jpg" width=800px/>
 </div>
 
 ## ￼What do we need to know to answer the question?
@@ -75,7 +81,7 @@ Associate Professor of Psychology
 ## Brains {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/brain-wandering.jpg" width="500px"/>
+<img src="img/brain-wandering.jpg" width="500px"/>
 
 <http://unearthedcomics.com/wp-content/uploads/2012/12/Unearthed-BrainWandering-1211-2-web.jpg>
 </div>
@@ -83,8 +89,24 @@ Associate Professor of Psychology
 ## Behavior {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/backup-brain.gif"/>
+<img src="img/backup-brain.gif"/>
 <http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif>
+</div>
+
+----
+
+<div class="centered">
+<img src="https://static01.nyt.com/images/2016/08/23/science/zika-radiology-image-3/zika-radiology-image-3-superJumbo.jpg" width=900px>
+
+<http://nyti.ms/2bfmN9F>
+</div>
+
+----
+
+<div class="centered">
+<img src="https://static01.nyt.com/images/2016/08/23/science/23TB-disco1/23TB-disco1-blog427.jpg">
+
+<http://nyti.ms/2byeiEJ>
 </div>
 
 ## ￼Goals
@@ -172,7 +194,7 @@ Associate Professor of Psychology
 ## Brain architecture for enacting biological imperatives {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/swanson-fig-7.5.jpg"/>
+<img src="img/swanson-fig-7.5.jpg"/>
 </div>
 
 ## Neuroscience methods
@@ -199,7 +221,7 @@ Associate Professor of Psychology
 ## Spatial resolution {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/churchland-levels-of-analysis.gif"/>
+<img src="img/churchland-levels-of-analysis.gif"/>
 
 <http://ai.ato.ms/MITECS/Images/churchland.figure1.gif>
 </div>
@@ -219,23 +241,68 @@ Associate Professor of Psychology
 ## ￼Mapping structures
 
 - Cell/axon stains
-- Golgi stain -- whole cells
-- Cellular distribution, concentration, microanatomy
+    + Golgi stain -- whole cells
+        - [Camillo Golgi](https://en.wikipedia.org/wiki/Camillo_Golgi)
+    + Nissl stain -- cell bodies only
+        - [Franz Nissl](https://en.wikipedia.org/wiki/Franz_Nissl)
+    + Cellular distribution, concentration, microanatomy
+
+## Golgi stain
 
 <div class="centered">
-<img src="figs/golgi-stain.jpg" height="400px"/>
-
-<http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg>
+<a href="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg">
+<img src="http://connectomethebook.com/wp-content/uploads/2011/11/Brainforest17_1119.jpg" height="400px"/>
+</a>
 </div>
 
-### Retrograde vs. anterograde tracers
+## Nissl stain
+
+<div class="centered">
+<a href="https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg">
+<img src="https://www.neuroscienceassociates.com/wp-content/uploads/thionin-rhesus.jpg">
+</a>
+</div>
+
+## Retrograde vs. anterograde [histochemical tracers](https://en.wikipedia.org/wiki/Histochemical_tracer)
+
+- *Retrograde* (from axon terminal to cell body); *anterograde* (from cell body to axon terminal)
 - What connects where
 
-<div class="centered">
-<img src="figs/retrograde-anterograde-tracers.png"/>
+## Retrograde vs. anterograde tracers
 
-<http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png>
+<div class="centered">
+<a href="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png">
+<img src="http://openi.nlm.nih.gov/imgs/512/348/3176268/3176268_1471-2105-12-351-2.png" height="500px"/>
+</a>
 </div>
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Lc64j-Rsy4" frameborder="0" allowfullscreen></iframe>
+
+## [Brainbow](http://cbs.fas.harvard.edu/science/connectome-project/brainbow)
+
+<div class="centered">
+<img src="img/lichtman-nrn2391-f1.jpg">
+
+[[@lichtman_technicolour_2008]](http://doi.org/10.1038/nrn2391)
+</div>
+
+## Brainbow
+
+<div class="centered">
+<img src="img/lichtman-nrn2391-f2.jpg" height=500px>
+
+[[@lichtman_technicolour_2008]](http://doi.org/10.1038/nrn2391)
+</div>
+
+## [Eyewire.org](http://eyewire.org)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c43jVfpzvZ0" frameborder="0" allowfullscreen></iframe>
+
+## [Clarity](http://clarityresourcecenter.com/CLARITY.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-NMfp13Uug" frameborder="0" allowfullscreen></iframe>
 
 ## Mapping structures
 
@@ -243,7 +310,7 @@ Associate Professor of Psychology
 - X-ray based
 
 <div class="centered">
-<img src="figs/tomography.png" height="400px"/>
+<img src="img/tomography.png" height="400px"/>
 
 <http://img.tfd.com/mk/T/X2604-T-22.png>
 </div>
@@ -251,9 +318,17 @@ Associate Professor of Psychology
 ## Tomography {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/cat-scan-pineapple.jpg" height="400px"/>
+<img src="img/cat-scan-pineapple.jpg" height="400px"/>
 
 <http://static.howstuffworks.com/gif/cat-scan-pineapple.jpg>
+</div>
+
+## CT scan of stroke
+
+<div class="centered">
+<a href="http://1.bp.blogspot.com/-I5AIwDp1jJM/UF9gqPEw4vI/AAAAAAAB77M/VfLRw2JDEiY/s1600/mca+inferior+division+infarct+ct+brain.JPG">
+<img src="img/mca-inferior-division-infarct-ct-brain.jpg" height=500px>
+</a>
 </div>
 
 ## Magnetic Resonance Imaging
@@ -267,7 +342,7 @@ Associate Professor of Psychology
 ## MRI {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/mri-steps.jpg"/>
+<img src="img/mri-steps.jpg"/>
 
 <http://s.hswstatic.com/gif/mri-steps.jpg>
 </div>
@@ -282,6 +357,22 @@ Associate Professor of Psychology
 - Gray vs. white - Axon fibers
 - Spectroscopy
 - Region sizes/volumes
+
+## Diffusion tensor imaging (DTI)
+
+<div class="centered">
+<img src="https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg" width=800px>
+
+<https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg>
+</div>
+
+## Voxel-based morphometry (VBM)
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg" height=500px>
+
+<http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg>
+</div>
 
 ## Functional methods
 
@@ -298,7 +389,7 @@ Associate Professor of Psychology
 ## Single/multi-unit Recording {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/multi-unit-recording.jpg"/>
+<img src="img/multi-unit-recording.jpg"/>
 
 <http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
 </div>
@@ -313,7 +404,7 @@ Associate Professor of Psychology
 ## Electrocorticography {.flexbox .vcenter}
 
 <div class="centered">
-<img src="figs/electrocorticography.jpg"/>
+<img src="img/electrocorticography.jpg"/>
 
 <http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg>
 </div>
@@ -328,6 +419,14 @@ Associate Professor of Psychology
 - Positron decay
 - Experimental condition - control
 - Average across individuals
+
+----
+
+<div class="centered">
+<a href="http://science.howstuffworks.com/nuclear-medicine1.htm">
+<img src="http://s.hswstatic.com/gif/nuclear-medicine-brain.gif">
+</a>
+</div>
 
 ## ￼More on PET
 
@@ -349,7 +448,7 @@ Associate Professor of Psychology
 ## Hemodynamic Response Function (HRF)
 
 <div class="centered">
-<img src="figs/hemodynamic-response-function.png"/>
+<img src="img/hemodynamic-response-function.png"/>
 
 <http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png>
 </div>
