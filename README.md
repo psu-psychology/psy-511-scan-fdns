@@ -58,6 +58,7 @@ Trends in Neuroscience</br>
 - Topics
     + Why biological psychology? Read: BW 1.
     + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-08-24.html). [Rmd](lectures/511-2016-08-24.Rmd).
 - Materials
      + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md).
      + More on [MRI physics](https://www.youtube.com/watch?v=Ok9ILIYzmaY)
