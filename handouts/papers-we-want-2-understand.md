@@ -14,7 +14,7 @@
 
 - Brady, K. T., & Sinha, R. (2005). Co-occurring mental and substance use disorders: the neurobiological effects of chronic stress. American Journal of Psychiatry, 162(8), 1483-1493. <http://dx.doi.org/10.1176/appi.ajp.162.8.1483>.
 
-## Rebecca Janis
+### Rebecca Janis
 
 - Sharpley, C. F. (2010) A review of the neurobiological effects of psychotherapy for depression. Psychotherapy Theory, Research, Practice, Training, 47(4), 603-615. <http://dx.doi.org/10.1037/a0021177>.
 
