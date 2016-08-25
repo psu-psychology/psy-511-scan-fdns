@@ -81,6 +81,8 @@ Trends in Neuroscience</br>
 - Materials
     + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
 
+[**Lecture by Marc Howard, "Representations of Time and Space in the Mind and Brain", 4:15p in 108 Wartik**](https://www.huck.psu.edu/content/events/2016-08-31-200000marc-howardrepresentations-time-and-space-mind-and-brain)
+
 #### Fri, September 2
 
 - Topics
