@@ -67,6 +67,8 @@ Trends in Neuroscience</br>
 
 - Topics
     + Methods in neuroscience. Read: BW 2:49-55, <https://en.wikibooks.org/wiki/Cognitive_Psychology_and_Cognitive_Neuroscience/Behavioural_and_Neuroscience_Methods>.
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-08-26.html). [Rmd](lectures/511-2016-08-26.Rmd).
+
 - Materials
     + [Papers You Want to Understand](handouts/papers-we-want-2-understand.md).
 

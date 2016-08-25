@@ -1,0 +1,306 @@
+---
+title: "511-2016-08-26"
+author: "rogilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    widescreen: true
+    incremental: true
+    transition: default
+---
+
+## Prelude
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
+</div>
+
+## Today's topics
+
+- Methods to the madness
+
+## Spatial resolution {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/churchland-levels-of-analysis.gif"/>
+</div>
+
+## Magnetic Resonance Imaging
+
+- Magnetic resonance
+- Protons have spin (magnetic dipole)
+- Align with strong magnetic field
+- When perturbed, speed of realignment varies by tissue
+- Realignment gives off radio frequency signals
+
+## MRI {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/mri-steps.jpg"/>
+
+<http://s.hswstatic.com/gif/mri-steps.jpg>
+</div>
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MiL0wCZr0Mw" frameborder="0" allowfullscreen></iframe>
+
+## Structural MRI
+
+- Tissue density/type differences
+- Gray vs. white - Axon fibers
+- Spectroscopy
+- Region sizes/volumes
+
+## Diffusion tensor imaging (DTI)
+
+<div class="centered">
+<img src="https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg" width=800px>
+
+<https://www.simonsfoundation.org/wp-content/uploads/2012/02/hitting-nerve3.jpeg>
+</div>
+
+## Voxel-based morphometry (VBM)
+
+<div class="centered">
+<img src="http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg" height=500px>
+
+<http://www.frontiersin.org/files/Articles/18691/fnhum-06-00184-HTML/image_m/fnhum-06-00184-g003.jpg>
+</div>
+
+## Functional methods
+
+- Recording from the brain 
+- Interfering with the brain 
+- Stimulating the brain
+
+## ￼Recording from the brain
+
+- Single/multi unit recording
+- Microelectrodes
+- Small numbers of nerve cells
+
+## Single/multi-unit Recording {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/multi-unit-recording.jpg"/>
+
+<http://www.nature.com/nrn/journal/v5/n11/images/nrn1535-i1.jpg>
+</div>
+
+## Single/multi-unit recording
+
+- What does neuron X respond to?
+- Great temporal (ms), spatial resolution (um)
+- Invasive
+- Rarely suitable for humans, but...
+
+## Electrocorticography {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/electrocorticography.jpg"/>
+
+<http://www.neurofisiologia.net/wp-content/uploads/2009/07/corticografia.jpg>
+</div>
+
+----
+
+<div class="centered">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HluVToAamXY" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="notes">
+Story about child who underwent ECoG surgery.
+</div>
+
+## ￼Single-cell studies ask...
+
+- How does firing frequency, timing vary with behavior?
+
+----
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IOHayh06LJ4" frameborder="0" allowfullscreen></iframe>
+
+<div class="notes">
+Short video of discovery by Hubel & Wiesel of orientation selective cells in cat V1.
+</div>
+
+## Positron Emission Tomography (PET)
+
+- Radioactive tracers (glucose, oxygen)
+- Positron decay
+- Experimental condition - control
+- Average across individuals
+
+----
+
+<div class="centered">
+<a href="http://science.howstuffworks.com/nuclear-medicine1.htm">
+<img src="http://s.hswstatic.com/gif/nuclear-medicine-brain.gif">
+</a>
+</div>
+
+## ￼More on PET
+
+- Temporal (~ s) and spatial (mm-cm) resolution worse than fMRI
+- Radioactive exposures + mildly invasive 
+- Dose < airline crew exposure in 1 yr
+
+## Functional Magnetic Resonance Imaging (fMRI)
+
+- Neural activity -> local O2 consumption increase
+- Blood Oxygen Level Dependent (BOLD) response
+- Oxygenated vs. deoxygenated hemoglobin
+- Do regional blood O2 levels (and flow) vary with behavior X?
+- Non-invasive, but expensive
+- Moderate but improving (mm) spatial, temporal (~sec) resolution
+- Hemodynamic Response Function
+- 1s delay plus 3-6 s ramp-up
+
+## Hemodynamic Response Function (HRF)
+
+<div class="centered">
+<img src="img/hemodynamic-response-function.png"/>
+
+<http://openi.nlm.nih.gov/imgs/512/236/3109590/3109590_TONIJ-5-24_F1.png>
+</div>
+
+## Electroencephalography (EEG)
+
+- How does it work?
+- Electrodes on scalp or brain surface
+- What do we measure?
+- Combined activity of huge # of neurons
+
+## Collecting EEG {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/baby-eeg.jpg"/>
+
+<http://sfari.org/images/images-2013-folder/images-sfn-2013/20131110sfneeg>
+</div>
+
+## EEG
+
+- High temporal, poor spatial resolution
+- Analyze frequency bands
+  + LOW: deep sleep
+  + MIDDLE: Quiet, alert state
+  + HIGH:“Binding” information across senses
+  
+## EEG Frequency {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/eeg-frequency.jpg"/>
+
+<http://www.peakmind.co.uk/images/frequency.jpg>
+</div>
+
+## Event-related potentials (ERPs)
+
+- EEGs time-locked to some event - Averaged over many trials
+
+## ERP {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/erp-technique.gif"/>
+<http://2.bp.blogspot.com/_2ob-1_LsjJs/TAUjw9i_dYI/AAAAAAAAAQQ/9AfiHsnD-P8/s1600/ERP_technique.gif>
+</div>
+
+## Magneto-encephalography (MEG)
+
+- Like EEG, but measuring magnetic fields
+- High temporal resolution
+- Magnetic field propagates w/o distortion
+
+## MEG {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/meg-machine.jpg"/>
+<http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg>
+</div>
+
+## How do EEG and fMRI relate? {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/logothetis-2001.jpg"/>
+</div>
+
+## Manipulating the brain
+
+- Interfering with it 
+- Stimulating it
+
+## Interfering with the brain
+
+- Nature’s“experiments” 
+- Stroke, head injury, tumor
+- Neuropsychology
+
+## Phineas Gage {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/phineas-gage.png"/>
+<http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png>
+</div>
+
+## ￼Evaluating neuropsychological methods
+
+- Logic: damage impairs performance = region critical for behavior
+- Poor spatial/temporal resolution, limited control
+
+##￼Stimulating the brain
+
+- Electrical (Direct Current Stimulation - DCS)
+- Pharmacological
+- Magnetic (Transcranial magnetic stimulation-TMS)
+
+## Stimulating the brain
+
+- Spatial/temporal resolution?
+- Assume stimulation mimics natural activity?
+
+## Deep brain stimulation as therapy
+
+- Parkinson’s Disease 
+- Depression 
+- Epilepsy
+
+## {.flexbox .vcenter}
+
+<div class="centered">
+<img src="img/deep-brain-stimulation.jpg"/>
+<http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/dbs_60715_3.jpg>
+</div>which 
+
+## *SIM*ulating the brain
+
+- Computer/mathematical models of brain function
+- Example: neural networks
+- Cheap, noninvasive, can be stimulated or “lesioned”
+
+----
+
+<div class="centered">
+<img src="https://s3.amazonaws.com/datarobotblog/images/deepLearningIntro/013.png">
+</div>
+
+<div class="notes">
+Image of a "deep learning" convolutional neural network.
+</div>
+
+## ￼Main points
+
+- Multiple structural, functional methods
+- Different levels of spatial/temporal resolution
+
+## Next time
+
+- More on neuroscience methods
+
+## References
+
