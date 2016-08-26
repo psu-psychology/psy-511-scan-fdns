@@ -73,3 +73,8 @@
 
 - Blair, C., & Raver, C. C. (2015). School readiness and self-regulation: A developmental psychobiological approach. Annual review of psychology, 66, 711. <http://doi.org/10.1146/annurev-psych-010814-015221>.
 - Schore, A. N. (1996). The experience-dependent maturation of a regulatory system in the orbital prefrontal cortex and the origin of developmental psychopathology. Development and Psychopathology, 8(01), 59-87. <http://doi.org/10.1017/S0954579400006970>.
+
+### Alex Mattern
+
+- Chester, D. S., Eisenberger, N. I., Pond, R. S., Richman, S. B., Bushman, B. J., & DeWall, C. N. (2013). The interactive effect of social pain and executive functioning on aggression: an fMRI experiment. Social Cognitive and Affective Neuroscience, 9(5), 699-704. <http://doi.org/10.1093/scan/nst038>.
+Choe, D. E., Shaw, D. S., & Forbes, E. E. (2015). Maladaptive social information processing in childhood predicts young men's atypical amygdala reactivity to threat. Journal of Child Psychology and Psychiatry, 56(5), 549-557. <http://doi.org/10.1111/jcpp.12316>.
