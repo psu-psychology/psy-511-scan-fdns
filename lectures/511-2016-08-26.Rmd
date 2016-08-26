@@ -297,10 +297,21 @@ Image of a "deep learning" convolutional neural network.
 
 - Multiple structural, functional methods
 - Different levels of spatial/temporal resolution
+- Progress requires convergence across methods
+
+## Postscript
+
+<div class="centered">
+<a href="http://doi.org/10.1038/nature.2016.20285">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UHDfvfYCY0U" frameborder="0" allowfullscreen></iframe>
+</a>
+
+[[@glasser_multi-modal_2016]](http://doi.org/10.1038/nature18933), [[@geddes_human_2016]](http://doi.org/10.1038/nature.2016.20285)
+</div>
 
 ## Next time
 
-- More on neuroscience methods
+- Neuroanatomy
 
 ## References
 
