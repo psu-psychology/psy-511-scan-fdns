@@ -24,7 +24,7 @@
 
 ## Leila Ziqi Wu
 
-- Schulze, L., Dziobek, I., Vater, A., Heekeren, H. R., Bajbouj, M., Renneberg, B., ... & Roepke, S. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. Journal of psychiatric research, 47(10), 1363-1369. 
+- Schulze, L., Dziobek, I., Vater, A., Heekeren, H. R., Bajbouj, M., Renneberg, B., ... & Roepke, S. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. Journal of psychiatric research, 47(10), 1363-1369.
 <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>
 - Payer, D. E., Park, M. T. M., Kish, S. J., Kolla, N. J., Lerch, J. P., Boileau, I., & Chakravarty, M. M. (2015). Personality disorder symptomatology is associated with anomalies in striatal and prefrontal morphology. Frontiers in human neuroscience, 9. <http://doi.org/10.3389/fnhum.2015.00472>
 
@@ -32,3 +32,9 @@
 
 - Seo, D., Patrick, C. J., & Kennealy, P. J. (2008). Role of serotonin and dopamine system interactions in the neurobiology of impulsive aggression and its comorbidity with other clinical disorders. Aggression and Violent Behavior, 13(5), 383-395. <http://dx.doi.org/10.1016/j.avb.2008.06.003>.
 - Pinto, L. A., Sullivan, E. L., Rosenbaum, A., Wyngarden, N., Umhau, J. C., Miller, M. W., & Taft, C. T. (2010). Biological correlates of intimate partner violence perpetration. Aggression and Violent Behavior, 15(5), 387-398. <http://dx.doi.org/10.1016/j.avb.2010.07.001>.
+
+### Rebecca Janis
+
+- Sharpley, C. F. (2010) A review of the neurobiological effects of psychotherapy for depression. Psychotherapy Theory, Research, Practice, Training, 47(4), 603-615. <http://dx.doi.org/10.1037/a0021177>.
+
+- Mason, L., Peters, E., & Kumari, V. (2016). Functional connectivity predictors and mechanisms of cognitive behavioural therapies: A systematic review with recommendations. Australian and New Zealand Journal of Psychiatry, 50(4), 311-321. <http://dx.doi.org/10.1177/0004867415624970>.
