@@ -68,3 +68,8 @@
 
 - Jeste, S. S., Frohlich, J., & Loo, S. K. (2015). Electrophysiological biomarkers of diagnosis and outcome in neurodevelopmental disorders. Current Opinion in Neurology, 28(2), 110-116. <http://doi.org/10.1097/wco.0000000000000181>.
 - Musser, E. D., Backs, R. W., Schmitt, C. F., Ablow, J. C., Measelle, J. R., & Nigg, J. T. (2011). Emotion Regulation via the Autonomic Nervous System in Children with Attention-Deficit/Hyperactivity Disorder (ADHD). J Abnorm Child Psychol, 39(6), 841-852. <http://doi.org/10.1007/s10802-011-9499-1>.
+
+### Brandon Bray
+
+- Blair, C., & Raver, C. C. (2015). School readiness and self-regulation: A developmental psychobiological approach. Annual review of psychology, 66, 711. <http://doi.org/10.1146/annurev-psych-010814-015221>.
+- Schore, A. N. (1996). The experience-dependent maturation of a regulatory system in the orbital prefrontal cortex and the origin of developmental psychopathology. Development and Psychopathology, 8(01), 59-87. <http://doi.org/10.1017/S0954579400006970>.
