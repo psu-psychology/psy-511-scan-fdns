@@ -7,7 +7,7 @@ output:
   ioslides_presentation:
     css: css/gilmore.css
     widescreen: true
-    incremental: true
+    incremental: false
     transition: default
 ---
 
@@ -158,10 +158,10 @@ Short video of discovery by Hubel & Wiesel of orientation selective cells in cat
 - Do regional blood O2 levels (and flow) vary with behavior X?
 - Non-invasive, but expensive
 - Moderate but improving (mm) spatial, temporal (~sec) resolution
-- Hemodynamic Response Function
-- 1s delay plus 3-6 s ramp-up
 
-## Hemodynamic Response Function (HRF)
+## Hemodynamic Response Function
+
+- 1s delay plus 3-6 s ramp-up
 
 <div class="centered">
 <img src="img/hemodynamic-response-function.png"/>
@@ -217,10 +217,13 @@ Short video of discovery by Hubel & Wiesel of orientation selective cells in cat
 - High temporal resolution
 - Magnetic field propagates w/o distortion
 
-## MEG {.flexbox .vcenter}
+## MEG
 
 <div class="centered">
-<img src="img/meg-machine.jpg"/>
+<img src="img/meg-machine.jpg" height=450px/>
+</div>
+
+<div class="notes">
 <http://www.massgeneral.org/psychiatry/assets/images/Magnetoencephalography_MEG_MGH.jpg>
 </div>
 
@@ -244,7 +247,7 @@ Short video of discovery by Hubel & Wiesel of orientation selective cells in cat
 ## Phineas Gage {.flexbox .vcenter}
 
 <div class="centered">
-<img src="img/phineas-gage.png"/>
+<img src="img/phineas-gage.png" height=500px/>
 <http://onlinestorybank.com/wp-content/uploads/2014/03/Phineas-Gage.png>
 </div>
 
@@ -253,16 +256,21 @@ Short video of discovery by Hubel & Wiesel of orientation selective cells in cat
 - Logic: damage impairs performance = region critical for behavior
 - Poor spatial/temporal resolution, limited control
 
-##￼Stimulating the brain
+## ￼Stimulating the brain
 
-- Electrical (Direct Current Stimulation - DCS)
-- Pharmacological
+- Electrical (Direct Current Stimulation - tDCS)
 - Magnetic (Transcranial magnetic stimulation-TMS)
+- Pharmacological
+- Optogenetic
 
 ## Stimulating the brain
 
 - Spatial/temporal resolution?
 - Assume stimulation mimics natural activity?
+
+## Optogenetic stimulation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I64X7vHSHOE?list=PLRstm0n591-rBbOeC0SJEy20-NwXpLo4G" frameborder="0" allowfullscreen></iframe>
 
 ## Deep brain stimulation as therapy
 
@@ -270,12 +278,13 @@ Short video of discovery by Hubel & Wiesel of orientation selective cells in cat
 - Depression 
 - Epilepsy
 
-## {.flexbox .vcenter}
+## Deep brain stimulation
 
 <div class="centered">
-<img src="img/deep-brain-stimulation.jpg"/>
-<http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/dbs_60715_3.jpg>
-</div>which 
+<a href="http://www.nimh.nih.gov/health/topics/brain-stimulation-therapies/brain-stimulation-therapies.shtml">
+<img src="http://www.nimh.nih.gov/images/health-and-outreach/mental-health-topic-brain-stimulation-therapies/vns-200_60712_4.jpg" height=500px/>
+</a>
+</div>
 
 ## *SIM*ulating the brain
 
