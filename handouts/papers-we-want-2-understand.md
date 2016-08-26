@@ -78,3 +78,8 @@
 
 - Chester, D. S., Eisenberger, N. I., Pond, R. S., Richman, S. B., Bushman, B. J., & DeWall, C. N. (2013). The interactive effect of social pain and executive functioning on aggression: an fMRI experiment. Social Cognitive and Affective Neuroscience, 9(5), 699-704. <http://doi.org/10.1093/scan/nst038>.
 Choe, D. E., Shaw, D. S., & Forbes, E. E. (2015). Maladaptive social information processing in childhood predicts young men's atypical amygdala reactivity to threat. Journal of Child Psychology and Psychiatry, 56(5), 549-557. <http://doi.org/10.1111/jcpp.12316>.
+
+### Ashley McDonald
+
+- Russo, S. J., Murrough, J. W., Han, M. H., Charney, D. S., & Nestler, E. J. (2012). Neurobiology of resilience. Nature neuroscience, 15(11), 1475-1484. <http://doi.org/10.1038/nn.3234>.
+- Sinha, R., Lacadie, C. M., Constable, R. T., & Seo, D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences, 113(31), 8837-8842. <http://doi.org/10.1073/pnas.1600965113>.
