@@ -83,3 +83,8 @@ Choe, D. E., Shaw, D. S., & Forbes, E. E. (2015). Maladaptive social information
 
 - Russo, S. J., Murrough, J. W., Han, M. H., Charney, D. S., & Nestler, E. J. (2012). Neurobiology of resilience. Nature neuroscience, 15(11), 1475-1484. <http://doi.org/10.1038/nn.3234>.
 - Sinha, R., Lacadie, C. M., Constable, R. T., & Seo, D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences, 113(31), 8837-8842. <http://doi.org/10.1073/pnas.1600965113>.
+
+### Levi Shiverdecker
+
+- Coan, J. A., & Allen, J. J. (2003). Frontal EEG asymmetry and the behavioral activation and inhibition systems. Psychophysiology, 40(1), 106-114. <http://dx.doi.org/10.1111/1469-8986.00011>.
+- Sutton, S. K., & Davidson, R. J. (1997). Prefrontal brain asymmetry: A biological substrate of the behavioral approach and inhibition systems. Psychological Science, 8(3), 204-210. <http://dx.doi.org/10.1111/j.1467-9280.1997.tb00413.x>.

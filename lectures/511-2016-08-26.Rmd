@@ -23,6 +23,10 @@ Classic "Powers of Ten" movie by Charles and Ray Eames (10 min).
 
 - Methods to the madness
 
+<div class="notes">
+Some notes.
+</div>
+
 ## Spatial resolution {.flexbox .vcenter}
 
 <div class="centered">
@@ -322,5 +326,5 @@ Image of a "deep learning" convolutional neural network.
 
 - Neuroanatomy
 
-## References
+## References {.smaller}
 
