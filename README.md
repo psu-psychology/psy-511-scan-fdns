@@ -78,6 +78,8 @@ Trends in Neuroscience</br>
 
 - Topics
     + Neuroanatomy. Read BW 2:34-49.
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-08-31.html). [Rmd](lectures/511-2016-08-31.Rmd).
+
 - Materials
     + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
 
@@ -89,6 +91,7 @@ Trends in Neuroscience</br>
     + Neuroanatomy. Read BW 2:34-49.
 - Materials
     + [Anatomy outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neuroanatomy-outline.md).
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-09-02.html). [Rmd](lectures/511-2016-09-02.Rmd).
 
 ### Week 03, September 5 - 9
 
@@ -124,6 +127,10 @@ Trends in Neuroscience</br>
     + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
 
 ### Week 05, September 19 - 23
+
+#### Mon, September 19
+
+- **Lecture by Greg Miller, “Biological Consequences of Socioeconomic Disadvantage in Early Life", 3:30-4:30 pm in 022 BBH Building.**
 
 #### Wed, September 21
 

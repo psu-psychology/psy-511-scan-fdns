@@ -24,6 +24,9 @@
     - hypothalamic pituitary gonadal (HPG) axis, hypothalamic pituitary adrenal (HPA) axis
     - testosterone, [DHEA](https://en.wikipedia.org/wiki/Dehydroepiandrosterone), cortisol.
 - Taylor, S. E., Klein, L. C., Lewis, B. P., Gruenewald, T. L., Gurung, R. A., & Updegraff, J. A. (2000). Biobehavioral responses to stress in females: tend-and-befriend, not fight-or-flight. Psychological review, 107(3), 411. <http://dx.doi.org/10.1037//0033-295x.107.3.411>.
+    - behavioral stress responses, gender differences, attachment, parenting
+    - HPA, parasympathetic nervous system, sympathetic nervous system
+    - oxytocin, estrogen, testosterone, cortisol
 
 ### Sindes Dawood
 
