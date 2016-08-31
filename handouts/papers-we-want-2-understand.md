@@ -72,7 +72,11 @@
 ### Benjamin Johnson
 
 - van Zutphen, L., Siep, N., Jacob, G. A., Goebel, R., & Arntz, A. (2015). Emotional sensitivity, emotion regulation and impulsivity in borderline personality disorder: A critical review of fMRI studies. Neuroscience & Biobehavioral Reviews, 51, 64–76. <http://doi.org/10.1016/j.neubiorev.2015.01.001>.
+    - whole brain vs. ROI fMRI
+    - anterior cingulate cortex (ACC), orbitofrontal cortex (OFC), precuneus, anterior insula
 - Ruocco, A. C., Rodrigo, A. H., McMain, S. F., Page-Gould, E., Ayaz, H., & Links, P. S. (2016). Predicting treatment outcomes from prefrontal cortex activation for self-harming patients with borderline personality disorder: A preliminary study. Frontiers in Human Neuroscience, 220. <http://doi.org/10.3389/fnhum.2016.00220>.
+    - functional near-infrared spectroscopy (fNIRS)
+    - dorsolateral PFC, right medial PFC, all the PFCs
 
 ### Shana Ramsook
 
