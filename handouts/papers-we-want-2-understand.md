@@ -90,4 +90,8 @@ Choe, D. E., Shaw, D. S., & Forbes, E. E. (2015). Maladaptive social information
 ### Levi Shiverdecker
 
 - Coan, J. A., & Allen, J. J. (2003). Frontal EEG asymmetry and the behavioral activation and inhibition systems. Psychophysiology, 40(1), 106-114. <http://dx.doi.org/10.1111/1469-8986.00011>.
+    - electroencephalograph (EEG), Behavioral Inhibition/Activation Systems
+    - Frontal EEG Alpha Asymmetry, Hemispheric Specificity
 - Sutton, S. K., & Davidson, R. J. (1997). Prefrontal brain asymmetry: A biological substrate of the behavioral approach and inhibition systems. Psychological Science, 8(3), 204-210. <http://dx.doi.org/10.1111/j.1467-9280.1997.tb00413.x>.
+    - Approach/Withdrawal, Personality, Positive/Negative Affect
+    - Prefrontal/Anterior Brain Asymmetry
