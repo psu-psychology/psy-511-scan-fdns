@@ -77,8 +77,9 @@
     - Structures: prefrontal cortex, hippocampus, amygdala, autonomic nervous system (ANS), neuroendocrine systems
     - Neurochemical systems: cortisol, serotonin, dopamine, norepinephrine
 - Mason, L., Peters, E., & Kumari, V. (2016). Functional connectivity predictors and mechanisms of cognitive behavioural therapies: A systematic review with recommendations. Australian and New Zealand Journal of Psychiatry, 50(4), 311-321. <http://dx.doi.org/10.1177/0004867415624970>.
-    - Measures: functional connectivity, fMRI
-
+    - Measures: functional connectivity, resting state connectivity, neuroimaging
+    - Structures: prefrontal cortex, prefronto-limbic circuitry, insula
+    
 ### Benjamin Johnson
 
 - van Zutphen, L., Siep, N., Jacob, G. A., Goebel, R., & Arntz, A. (2015). Emotional sensitivity, emotion regulation and impulsivity in borderline personality disorder: A critical review of fMRI studies. Neuroscience & Biobehavioral Reviews, 51, 64–76. <http://doi.org/10.1016/j.neubiorev.2015.01.001>.
