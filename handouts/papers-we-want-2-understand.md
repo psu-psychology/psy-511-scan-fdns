@@ -9,6 +9,9 @@
     - Measures: DTI, cerebral asymmetry
     - Structures: arcuate fasciculus, posterior superior temporal gyrus (STG), middle temporal gyrus (MTG).
 - St-Laurent, M., Abdi, H., Burianová, H., & Grady, C. L. (2011). Influence of aging on the neural correlates of autobiographical, episodic, and semantic memory retrieval. Journal of Cognitive Neuroscience, 23(12), 4150-4163. <http://doi.org/10.1162/jocn_a_00079>.
+    - Population/behavior:younger&older adults / Memory (autobiographical, episodic, semantic) 
+    - Measures: fmRI, 
+    - Structures:Middle temporal cortices, (L/R)IFG, angular gyrus, caudate nuclei, posterior cingulate, left medial-temporal lobe, bilateral occipital lobe, R superior parietal lobule, L fusiform, left ACC, inferior parietal lobule, precuneus,R supramarginal gyrus, cerebellum
 
 ### Emily Margaret May
 
@@ -77,17 +80,12 @@
     - Structures: prefrontal cortex, hippocampus, amygdala, autonomic nervous system (ANS), neuroendocrine systems
     - Neurochemical systems: cortisol, serotonin, dopamine, norepinephrine
 - Mason, L., Peters, E., & Kumari, V. (2016). Functional connectivity predictors and mechanisms of cognitive behavioural therapies: A systematic review with recommendations. Australian and New Zealand Journal of Psychiatry, 50(4), 311-321. <http://dx.doi.org/10.1177/0004867415624970>.
-    - Measures: functional connectivity, resting state connectivity, neuroimaging
-    - Structures: prefrontal cortex, prefronto-limbic circuitry, insula
-    
+    - Measures: functional connectivity, fMRI
+
 ### Benjamin Johnson
 
 - van Zutphen, L., Siep, N., Jacob, G. A., Goebel, R., & Arntz, A. (2015). Emotional sensitivity, emotion regulation and impulsivity in borderline personality disorder: A critical review of fMRI studies. Neuroscience & Biobehavioral Reviews, 51, 64–76. <http://doi.org/10.1016/j.neubiorev.2015.01.001>.
-    - Measures: whole brain vs. ROI fMRI
-    - Structures: anterior cingulate cortex (ACC), orbitofrontal cortex (OFC), precuneus, anterior insula
 - Ruocco, A. C., Rodrigo, A. H., McMain, S. F., Page-Gould, E., Ayaz, H., & Links, P. S. (2016). Predicting treatment outcomes from prefrontal cortex activation for self-harming patients with borderline personality disorder: A preliminary study. Frontiers in Human Neuroscience, 220. <http://doi.org/10.3389/fnhum.2016.00220>.
-    - Measures: functional near-infrared spectroscopy (fNIRS)
-    - Structures: dorsolateral PFC, right medial PFC, all the PFCs
 
 ### Shana Ramsook
 
