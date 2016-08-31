@@ -1,0 +1,442 @@
+---
+title: "511-2016-09-02"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+## Today's Topics
+
+- Cerebral cortex
+- White matter tracts
+- The peripheral nervous system
+
+## Cerebral Cortex 
+
+### Cerebral hemispheres
+### Groove (sulcus or sulci)
+### Bumps (gyrus or gyri)
+### Grey vs.white matter
+### Lobes
+
+## Cortical Gyri -- Lateral {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png" height=400px/>
+
+<https://upload.wikimedia.org/wikipedia/commons/3/35/Gray726.png>
+</div>
+
+## Cortical Gyri -- Medial {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gray727.svg/1025px-Gray727.svg.png>
+</div>
+
+## Gray vs. White Matter
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg" height="500px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/9/9a/Brainmaps-macaque-hippocampus.jpg>
+</div>
+
+## ￼Lobes of the cerebral cortex
+
+### Frontal
+### Temporal
+### Parietal
+### Occipital
+
+## Lobes {.smaller}
+
+<div class="centered">
+<img src="http://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg">
+
+<http://40.media.tumblr.com/tumblr_m1kpkr7Wsq1rn6pqko1_500.jpg>
+</div>
+
+## Landmarks of the cortex
+### Longitudinal fissure
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png" height=300px>
+
+<https://upload.wikimedia.org/wikipedia/commons/0/04/Human_brain_longitudinal_fissure.png>
+</div>
+
+## Landmarks of the cortex
+### Lateral sulcus/fissure
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png" height="400px">
+<https://upload.wikimedia.org/wikipedia/commons/4/41/Lateral_sulcus2.png>
+</div>
+
+## Landmarks of the cortex
+### Central sulcus
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png" height="400px">
+
+<https://upload.wikimedia.org/wikipedia/commons/8/88/Central_sulcus_diagram.png>￼￼￼</div>
+
+
+## Frontal lobe
+
+### Where is it?
+- Anterior to central sulcus
+- Superior to lateral fissure
+- Dorsal to temporal lobe
+
+## Lobes of the Cerebral Cortex
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png" height="500px">
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lobes_of_the_brain_NL.svg/1024px-Lobes_of_the_brain_NL.svg.png>
+</div>
+
+## Frontal lobe 
+
+### What does it do?
+- Primary motor cortex (M1) 
+    + Supplementary motor cortex
+    + Frontal eye fields (FEF)
+- Prefrontal cortex
+    + Planning, problem solving, working memory...?
+    
+## Frontal lobe 
+
+### What does it do?
+    
+- Basal forebrain
+    + Nucleus accumbens
+- Anterior cingulate cortex (ACC)
+- Primary olfactory cortex
+
+## Cingulate Gyrus {.smaller}
+
+<div class="centered">
+<img src="http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg" height=400px>
+
+<http://cis.jhu.edu/data.sets/cortical_segmentation_validation/photos/cinggyrus75.jpg>
+</div>
+
+## Inferior Frontal Gyrus (IFG) {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/b/b2/Gray726_inferior_frontal_gyrus.png>
+</div>
+
+## Middle Frontal Gyrus (MFG) {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/7/7f/Gray726_middle_frontal_gyrus.png>
+</div>
+
+## Temporal lobe 
+
+### Where is it?
+- Ventral to frontal, parietal lobes
+- Inferior to lateral fissure
+
+## Temporal lobe
+
+### What does it do?
+
+- Primary auditory cortex
+- Object, face recognition
+- Storage of memories about events, objects 
+- Amygdala, hippocampus
+
+## Inferior Temporal Gyrus (ITG) {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/1/18/Gray726_inferior_temporal_gyrus.png>
+</div>
+
+## Entorhinal Cortex (ER) {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/1/15/Medial_surface_of_cerebral_cortex_-_entorhinal_cortex.png>
+</div>
+
+## Parietal lobe
+
+### Where is it?
+- Caudal to frontal lobe
+- Dorsal to temporal lobe
+- Posterior to central sulcus
+
+### What does it do?
+- Primary somatosensory cortex
+- Perception of spatial relations, action planning
+
+## Inferior Parietal Lobule {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/e/e3/Gray726_inferior_parietal_lobule.png>
+</div>
+
+## Superior Parietal Lobule {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png" height="400px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/9/9d/Gray726_superior_parietal_lobule.png>
+</div>
+
+## Occipital lobe
+
+### Where is it?
+ - Caudal to parietal & temporal lobes
+ 
+### What does it do?
+- Primary visual cortex (V1)
+
+## Visual Cortex {.smaller}
+
+<div class="centered">
+<img src="http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png" height=400px/>
+
+<http://bethycotter.wdfiles.com/local--files/introducingtheeye/Screen%20Shot%202012-08-24%20at%2011.36.20%20PM.png>
+</div>
+
+## [Insular cortex (insula)](https://en.wikipedia.org/wiki/Insular_cortex)
+
+### Where is it?
+- medial to temporal lobe
+- deep inside lateral fissure
+
+## Insula {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png" width="700px"/>
+
+<https://upload.wikimedia.org/wikipedia/commons/b/b4/Sobo_1909_633.png>
+</div>
+
+## Insula
+
+### What does it do?
+- Primary gustatory cortex
+- self-awareness, interpersonal experiences, motor control
+
+## Brodmann Areas
+### [Korbinian Brodmann](https://en.wikipedia.org/wiki/Korbinian_Brodmann)
+- Cytoarchitectonic differences in cerebral cortex
+
+<div class="centered">
+<img src="http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg" height="400px"/>
+
+<http://www.spektrum.de/lexika/images/bio/fff1209_w.jpg>
+</div>
+
+## Brodmann Areas {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png" height=400px>
+
+<https://upload.wikimedia.org/wikipedia/commons/0/09/Brodmann-areas.png>
+</div>
+
+## Brodmann Areas
+
+<div class="centered">
+<a href="http://www.brainm.com/software/pubs/dg/BA_10-20_ROI_Talairach/Brodmann%20Atlas%20-%20Functions%20associated%20with%20area%20-%20CLICK%20ANY%20AREA%20to%20view%20functions_files/myBrodmannsAreas2-802.jpg">
+<img src="http://www.brainm.com/software/pubs/dg/BA_10-20_ROI_Talairach/Brodmann%20Atlas%20-%20Functions%20associated%20with%20area%20-%20CLICK%20ANY%20AREA%20to%20view%20functions_files/myBrodmannsAreas2-802.jpg" height="500px"/>
+</a>
+</div>
+
+## Spinal cord
+
+### Rostral/Caudal axis
+
+- Spinal column w/ vertebrae
+- Cervical (8), thoracic (12), lumbar (5), sacral (5), coccygeal (1)
+- Spinal segments & 31 nerve pairs 
+- Cauda equina
+
+## Spinal cord
+
+<div class="centered">
+<img src="http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg" height="500px">
+
+<http://www.fauxpress.com/kimball/med/sensory/spinaldivisions.jpg>
+</div>
+
+## Spinal cord
+
+### Organization of the spinal cord
+- Dorsal/Ventral
+    + Dorsal root (sensory)
+    + Ventral root (mostly motor)
+- Grey (interior) vs. white matter (exterior)
+
+## Spinal Cord
+
+<div class="centered">
+<img src="http://www.laesieworks.com/spinal/images-spinal/SpinalCord.jpg" height="500px">
+
+<http://www.laesieworks.com/spinal/images-spinal/SpinalCord.jpg>
+</div>
+
+## Organization of the PNS 
+
+### Somatic division
+### Autonomic
+
+### Cranial nerves
+### Spinal nerves
+
+## Cranial nerves
+
+- Afferents (input), efferents (output), or mixed
+- Innervate head and neck
+- Olfactory (I), ocular (II), (VIII) auditory,
+vagus (X), etc. 
+- Spinal nerves
+
+## Cranial nerves
+
+<div class="centered">
+<img src="http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg" height="500px">
+
+<http://media-1.web.britannica.com/eb-media/44/54244-004-892C5169.jpg>
+</div>
+
+## Major white matter pathways
+
+### Brainstem
+### Projection fibers
+### Association fibers
+### Commissural fibers
+
+----
+
+<div class="centered">
+<img src="img/brainstem-white-matter-schematic.jpg" height=450px/>
+
+[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 1.
+</div>
+
+## Brainstem projections
+
+- Corticospinal tract (descending/efferent)
+- Dorsal column/medial lemniscus (ascending/afferent)
+- Superior/inferior cerebellar peduncles (from/to cerebellum)
+
+----
+
+<div class="centered">
+<img src="img/projection-fiber-schematic.jpg" height=450px/>
+
+[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 8.
+</div>
+
+## Projection fiber tracts
+
+- Internal capsule
+    - Thalamic radiation
+    - Cortico-{pontine, bulbar, reticular} tracts
+
+----
+
+<div class="centered">
+<img src="img/cortical-white-matter-schematic.jpg" height=450px/>
+
+[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 11.
+</div>
+
+----
+
+<div class="centered">
+<img src="img/cortical-white-matter.jpg" height=450px/>
+
+[[@oishi2010mri]](https://books.google.com/books?hl=en&lr=&id=v8MWjTpVUAYC&oi=fnd&pg=PT1&dq=mri+atlas+of+human+white+matter&ots=mV146PeNPd&sig=2HjnDc0IxdCj-EVap1Gr77XIw7U#v=onepage&q=mri%20atlas%20of%20human%20white%20matter&f=false), Chapter 3, Figure 11.
+</div>
+
+## Cortical white matter tracts
+
+- Superior/inferior longitudinal fasciculus
+    - [Arcuate fasciculus](https://en.wikipedia.org/wiki/Arcuate_fasciculus) part of sup. long. f.
+- Superior/inferior fronto-occipital fasciculus
+- Cingulum, fornix (hyp-hip), stria terminalis (hyp-amyg)
+
+## Commissural fibers
+
+- Corpus callosum
+- Anterior commissure (AC)
+- Posterior commissure (PC)
+
+----
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Corpus_callosum.png" height=450px/>
+</div>
+
+## Anterior, Posterior Commissures
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png" height="500px">
+
+<https://https://upload.wikimedia.org/wikipedia/commons/2/22/Gray720.png>
+</div>
+
+## Autonomic nervous system
+
+- CNS & PNS components
+- Controls “vegetative functions”
+    + Limited voluntary control
+- Two divisions
+    + Sympathetic
+    + Parasympathetic
+		
+## ANS {.smaller}
+
+<div class="centered">
+<img src="https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF">
+
+<https://4.bp.blogspot.com/_FBNLGBBprSE/TB5b9zkM11I/AAAAAAAAAHA/LBCT2HkOzvI/s400/PNS.GIF>
+</div>
+
+## Sympathetic division
+
+- Prepares body for action
+- “Fight or flight”
+- Spinal cord
+    + ganglion chain along spinal column to End organs
+- NTs
+    + Preganglionic: ACh 
+    + Post: NE
+
+## ￼Parasympathetic division
+
+- “Around” sympathetic
+- Restorative function
+- “Rest & digest”
+- Spinal cord (or Vagus n.) -> ganglia near end organs -> end organ
+    + NT: ACh
+    
+## Next time
+
+- Neuroanatomy lab
+
+## References {.smaller}

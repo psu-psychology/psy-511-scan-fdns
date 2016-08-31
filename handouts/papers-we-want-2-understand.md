@@ -1,16 +1,144 @@
+# papers-we-want-2-understand.md
 
-### MacNeill, Leigha, 
+## By student
 
-- Marusak et al. (2013), The stimuli drive the response: An fMRI study of youth processing adult or child emotional face stimuli, Neuroimage, <http://dx.doi.org/10.1016/j.neuroimage.2013.07.002>
-- Pollak et al. (2001), P3b reflects maltreated children's reactions to facial displays of emotion, <http://dx.doi.org/10.1111/1469-8986.3820267>
+### Sara Winter
 
-### Shin, Kay
+- Glasser, M. F., & Rilling, J. K. (2008). DTI tractography of the human brain's language pathways. Cerebral Cortex, 18(11), 2471-2482. <http://doi.org/10.1093/cercor/bhn011>.
+    - Population/behavior: Language processing
+    - Measures: DTI, cerebral asymmetry
+    - Structures: arcuate fasciculus, posterior superior temporal gyrus (STG), middle temporal gyrus (MTG).
+- St-Laurent, M., Abdi, H., Burianová, H., & Grady, C. L. (2011). Influence of aging on the neural correlates of autobiographical, episodic, and semantic memory retrieval. Journal of Cognitive Neuroscience, 23(12), 4150-4163. <http://doi.org/10.1162/jocn_a_00079>.
 
-- Etkin & Wager (2007), Functional Neuroimaging of Anxiety: A Meta-Analysis of Emotional Processing in PTSD, Social Anxiety Disorder, and Specific Phobia, <http://dx.doi.org/10.1176/appi.ajp.2007.07030504>
-- Paquette et al. (2003), “Change the mind and you change the brain”: effects of cognitive-behavioral therapy on the neural correlates of spider phobia, <http://dx.doi.org/10.1016/S1053-8119(02)00030-7>
+### Emily Margaret May
 
-## Wang, Boki
+- Galvan, A., Hare, T. A., Parra, C. E., Penn, J., Voss, H., Glover, G., & Casey, B. J. (2006). Earlier development of the accumbens relative to orbitofrontal cortex might underlie risk-taking behavior in adolescents. The Journal of Neuroscience, 26(25), 6885-6892. <http://doi.org/10.1523/JNEUROSCI.1062-06.2006>.
+    - What phenomena? reward processing, risk taking
+    - What method? fMRI
+    - Which neuro/anatomical aspects? orbitofrontal cortex, frontostriatal circuitry, striatum, nucleus accumbens.
+    - What hormonal/chemical processes? dopamine
+    - In what population(s)? adolescents, developmental (childhood-adolescence-adulhood)
+- Brady, K. T., & Sinha, R. (2005). Co-occurring mental and substance use disorders: the neurobiological effects of chronic stress. American Journal of Psychiatry, 162(8), 1483-1493. <http://dx.doi.org/10.1176/appi.ajp.162.8.1483>.
+    - What phenomena? comorbidity, substance use, co-occurring psychiatric disorders (ADHD, schizophrenia, mood disorders, PTSD)
+    - What method? Not an empirical paper. Multiple methods implied, but not explicitly mentioned, in this review
+    - Which neuro/anatomical aspects?  Depression/substance use: anterior cingulate, amygdala; PTSD/substance use: amygdala; ADHD: prefrontal cortex; Schizophrenia: prefrontal cortex, hippocampus
+    - What hormonal/chemical processes/neurochemical systems? dopamine, GABA, hypothalamic-pituitary-adrenal (HPA) axis, corticotropin-releasing factor (CRF), cortisol, monoamine oxidase (MAO) activity 
+    - In what population(s)? clinical populations; veterans; adulthood often implied
 
-- Walley (2015), Speed awareness, <http://dx.doi.org/10.1038/nrn4008>
-- Nature (2015), Marijuana's good without the bad, <http://dx.doi.org/10.1038/523504d>
+### Celina Joos
 
+- Marceau, K., Dorn, L. D., & Susman, E. J. (2012). Stress and puberty-related hormone reactivity, negative emotionality, and parent–adolescent relationships. Psychoneuroendocrinology, 37(8), 1286-1298. <http://dx.doi.org/10.1016/j.psyneuen.2012.01.001>.
+    - Population/behavior: stress, stress-reactivity, prospective study, adolescents, negative emotionality.
+    - Structures: hypothalamic pituitary gonadal (HPG) axis, hypothalamic pituitary adrenal (HPA) axis
+    - Neurochemical systems: testosteronertha, [DHEA](https://en.wikipedia.org/wiki/Dehydroepiandrosterone), cortisol.
+- Taylor, S. E., Klein, L. C., Lewis, B. P., Gruenewald, T. L., Gurung, R. A., & Updegraff, J. A. (2000). Biobehavioral responses to stress in females: tend-and-befriend, not fight-or-flight. Psychological review, 107(3), 411. <http://dx.doi.org/10.1037//0033-295x.107.3.411>.
+    - Population/behavior: behavioral stress responses, gender differences, attachment, parenting
+    - Structures: HPA, parasympathetic nervous system, sympathetic nervous system
+    - Neurochemical systems: oxytocin, estrogen, testosterone, cortisol
+
+### Sindes Dawood
+
+- Schulze, L., Dziobek, I., Vater, A., Heekeren, H. R., Bajbouj, M., Renneberg, B., ... & Roepke, S. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. Journal of psychiatric research, 47(10), 1363-1369. ). <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>
+    - Population/behavior: narcissistic personality disorder (NPD), 
+    - Measures: structural brain imaging, global brain tissue volume, global gray matter volume, voxel-based morphometry.
+    - Structures: anterior insula, medial prefrontal cortex (mPFC).
+- Cascio, C. N., Konrath, S. H., & Falk, E. B. (2015). Narcissists’ social pain seen only in the brain. Social cognitive and affective neuroscience, 10(3), 335-341. <http://scan.oxfordjournals.org/content/10/3/335.short>.
+    - Population/behavior: narcissism, social exclusion, social pain network 
+    - Measures: fMRI, cyberball
+    - Structures: anterior insula, dorsal anterior cingulate cortex, subgenual anterior cingulate cortex
+
+### Leila Ziqi Wu
+
+- Schulze, L., Dziobek, I., Vater, A., Heekeren, H. R., Bajbouj, M., Renneberg, B., ... & Roepke, S. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. Journal of psychiatric research, 47(10), 1363-1369.
+<http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>
+    - Population/behavior: narcissistic personality disorder (NPD), 
+    - Measures: structural brain imaging, global brain tissue volume, global gray matter volume, voxel-based morphometry.
+    - Structures: anterior insula, medial prefrontal cortex (mPFC).
+- Payer, D. E., Park, M. T. M., Kish, S. J., Kolla, N. J., Lerch, J. P., Boileau, I., & Chakravarty, M. M. (2015). Personality disorder symptomatology is associated with anomalies in striatal and prefrontal morphology. Frontiers in human neuroscience, 9. <http://doi.org/10.3389/fnhum.2015.00472>
+    - Population/behavior: Personality disorder symptomatology (PD-Sx), 
+    - Measures: structural magnetic resonance images, fronto-striatal morphology, subcortical volume and shape, cortical thickness/surface area
+    - Caudate tail, ventral striatum, prefrontal cortex
+
+### Jennifer Wong
+
+- Seo, D., Patrick, C. J., & Kennealy, P. J. (2008). Role of serotonin and dopamine system interactions in the neurobiology of impulsive aggression and its comorbidity with other clinical disorders. Aggression and Violent Behavior, 13(5), 383-395. <http://dx.doi.org/10.1016/j.avb.2008.06.003>.
+    - Population/behavior: impulsive aggression.
+    - Structures: cerebrospinal fluid (CSF), prefrontal cortex
+    - Neurochemical systems: dopamine, serotonin, serotonin transporter gene, dopamine receptor sub-types 
+- Pinto, L. A., Sullivan, E. L., Rosenbaum, A., Wyngarden, N., Umhau, J. C., Miller, M. W., & Taft, C. T. (2010). Biological correlates of intimate partner violence perpetration. Aggression and Violent Behavior, 15(5), 387-398. <http://dx.doi.org/10.1016/j.avb.2010.07.001>.
+    - Population/behavior: intimate partner aggression, perceived threat, head injury
+    - Structures: frontal lobe, HPA axis
+    - Neurochemical systems: serotonin, testosterone, MAOA
+
+### Rebecca Janis
+
+- Sharpley, C. F. (2010) A review of the neurobiological effects of psychotherapy for depression. Psychotherapy Theory, Research, Practice, Training, 47(4), 603-615. <http://dx.doi.org/10.1037/a0021177>.
+    - Population/behavior: Depression
+    - Structures: prefrontal cortex, hippocampus, amygdala, autonomic nervous system (ANS), neuroendocrine systems
+    - Neurochemical systems: cortisol, serotonin, dopamine, norepinephrine
+- Mason, L., Peters, E., & Kumari, V. (2016). Functional connectivity predictors and mechanisms of cognitive behavioural therapies: A systematic review with recommendations. Australian and New Zealand Journal of Psychiatry, 50(4), 311-321. <http://dx.doi.org/10.1177/0004867415624970>.
+    - Measures: functional connectivity, resting state connectivity, neuroimaging
+    - Structures: prefrontal cortex, prefronto-limbic circuitry, insula
+    
+### Benjamin Johnson
+
+- van Zutphen, L., Siep, N., Jacob, G. A., Goebel, R., & Arntz, A. (2015). Emotional sensitivity, emotion regulation and impulsivity in borderline personality disorder: A critical review of fMRI studies. Neuroscience & Biobehavioral Reviews, 51, 64–76. <http://doi.org/10.1016/j.neubiorev.2015.01.001>.
+    - Measures: whole brain vs. ROI fMRI
+    - Structures: anterior cingulate cortex (ACC), orbitofrontal cortex (OFC), precuneus, anterior insula
+- Ruocco, A. C., Rodrigo, A. H., McMain, S. F., Page-Gould, E., Ayaz, H., & Links, P. S. (2016). Predicting treatment outcomes from prefrontal cortex activation for self-harming patients with borderline personality disorder: A preliminary study. Frontiers in Human Neuroscience, 220. <http://doi.org/10.3389/fnhum.2016.00220>.
+    - Measures: functional near-infrared spectroscopy (fNIRS)
+    - Structures: dorsolateral PFC, right medial PFC, all the PFCs
+
+### Shana Ramsook
+
+- Blair, C. (2002). School readiness: Integrating cognition and emotion in a neurobiological conceptualization of children's functioning at school entry.American psychologist, 57(2), 111.  <http://dx.doi.org/10.1037/0003-066x.57.2.111>.
+    -Population/behavior: Theoretical paper on integrating cognition & emotion; connectivist framework
+    - Structures (amygdala--central nucleus; BNST) and frontal structues (dlPFC, ACC, oPFC)pp
+    - Measure: EEG asymmetry 
+- McRae, K., Gross, J. J., Weber, J., Robertson, E. R., Sokol-Hessner, P., Ray, R. D., … Ochsner, K. N. (2012). The development of emotion regulation: an fMRI study of cognitive reappraisal in children, adolescents and young adults. Social Cognitive and Affective Neuroscience, 7, 11–22. <http://dx.doi.org/10.1093/scan/nsr093>.
+    - Population/behavior: development of reappraisal into adulthood, NOT spontaneous use of strategy in paradigm; instructed to use reappraisal
+    - Structure: left vlPFC, mPFC, PCC, ACC
+    - Measure: fMRI
+    
+### Hillary Galloway-Long
+
+- Jeste, S. S., Frohlich, J., & Loo, S. K. (2015). Electrophysiological biomarkers of diagnosis and outcome in neurodevelopmental disorders. Current Opinion in Neurology, 28(2), 110-116. <http://doi.org/10.1097/wco.0000000000000181>.
+    - Population/behavior: Neurodevelopmental disorders, ADHD, ASD
+    - EEG, theta:beta ratio, variability in clinical presentation, comorbidity
+- Musser, E. D., Backs, R. W., Schmitt, C. F., Ablow, J. C., Measelle, J. R., & Nigg, J. T. (2011). Emotion Regulation via the Autonomic Nervous System in Children with Attention-Deficit/Hyperactivity Disorder (ADHD). J Abnorm Child Psychol, 39(6), 841-852. <http://doi.org/10.1007/s10802-011-9499-1>.
+    - Population/behavior: middle childhood, ADHD, emotion regulation
+    - Measures: electrocardiogram (ECG), respiratory sinus arhythmia (RSA), pre-ejection period (PEP)
+    - Structures: Parasympathetic nervous system, sympathetic nervous system
+
+### Brandon Bray
+
+- Blair, C., & Raver, C. C. (2015). School readiness and self-regulation: A developmental psychobiological approach. Annual review of psychology, 66, 711. <http://doi.org/10.1146/annurev-psych-010814-015221>.
+- Schore, A. N. (1996). The experience-dependent maturation of a regulatory system in the orbital prefrontal cortex and the origin of developmental psychopathology. Development and Psychopathology, 8(01), 59-87. <http://doi.org/10.1017/S0954579400006970>.
+    - Population/behavior: Regulatory systems in infancy and early childhood
+    - Structures: orbital-frontal cortex, cortolimbic systems, PFC
+
+### Alex Mattern
+
+- Chester, D. S., Eisenberger, N. I., Pond, R. S., Richman, S. B., Bushman, B. J., & DeWall, C. N. (2013). The interactive effect of social pain and executive functioning on aggression: an fMRI experiment. Social Cognitive and Affective Neuroscience, 9(5), 699-704. <http://doi.org/10.1093/scan/nst038>.
+    - Population/behavior: executive functioning, social rejection, aggression
+    - Measure: fMRI
+    - Structure: dorsal anterior cingulate cortex (dACC), left anterior insula
+- Choe, D. E., Shaw, D. S., & Forbes, E. E. (2015). Maladaptive social information processing in childhood predicts young men's atypical amygdala reactivity to threat. Journal of Child Psychology and Psychiatry, 56(5), 549-557. <http://doi.org/10.1111/jcpp.12316>.
+    - Population/behavior: social information processing, social threat, aggression
+    - Measure: fMRI
+    - Structure: amygdala
+
+### Ashley McDonald
+
+- Russo, S. J., Murrough, J. W., Han, M. H., Charney, D. S., & Nestler, E. J. (2012). Neurobiology of resilience. Nature neuroscience, 15(11), 1475-1484. <http://doi.org/10.1038/nn.3234>.
+- Sinha, R., Lacadie, C. M., Constable, R. T., & Seo, D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences, 113(31), 8837-8842. <http://doi.org/10.1073/pnas.1600965113>.
+
+### Levi Shiverdecker
+
+- Coan, J. A., & Allen, J. J. (2003). Frontal EEG asymmetry and the behavioral activation and inhibition systems. Psychophysiology, 40(1), 106-114. <http://dx.doi.org/10.1111/1469-8986.00011>.
+    - Population/behavior: behavioral activation/inhibition
+    - Measures: electroencephalography (EEG), Frontal EEG Alpha Asymmetry, Hemispheric Specificity
+- Sutton, S. K., & Davidson, R. J. (1997). Prefrontal brain asymmetry: A biological substrate of the behavioral approach and inhibition systems. Psychological Science, 8(3), 204-210. <http://dx.doi.org/10.1111/j.1467-9280.1997.tb00413.x>.
+    - Population/behavior: Approach/Withdrawal, Personality, Positive/Negative Affect
+    - Structures: Prefrontal/Anterior Brain 
+    - Measures: EEG asymmetry

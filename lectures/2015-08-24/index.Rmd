@@ -80,6 +80,7 @@ Associate Professor of Psychology
 </div>
 
 ## Brains {.flexbox .vcenter}
+
 <div class="centered">
 <img src="../figs/brain-wandering.jpg" width="500px"/>
 
@@ -93,14 +94,14 @@ Associate Professor of Psychology
 <http://www.glasbergen.com/wp-content/gallery/teen/edu01.gif>
 </div>
 
-##￼Goals
+## ￼Goals
 
 - Master fundamentals of neuroscientific concepts and facts
 - Prepare to read primary source literature in behavioral, cognitive, affective, and clinical neuroscience
 
 ## Course structure
 
-<https://github.com/psu-psychology/psy-511-scan-fdns/blob/master/syllabus.md>
+<https://github.com/psu-psychology/psy-511-scan-fdns>
 
 ## What is the basic plan of the nervous system?
 

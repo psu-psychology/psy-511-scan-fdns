@@ -1,0 +1,367 @@
+---
+title: "511-2015-10-19-cognition"
+author: Rick Gilmore
+date: "`r Sys.time()`"
+bibliography: "../bib/bibliography.bib"
+output:
+  ioslides_presentation:
+    css: ../css/gilmore.css
+    incremental: false
+    widescreen: true
+  beamer_presentation:
+    pandoc_args: [
+      "--latex-engine=xelatex"
+    ]
+  slidy_presentation: default
+  pdf_document: default
+  md_document: default
+  html_document:
+    keep_md: true
+---
+
+## Today's Topics
+
+- Cognition
+
+## Hierarchy of control
+
+<div class="centered">
+<img src="../figs/swanson-2005-fig-1.jpg" height=450px>
+
+[[@swanson2005anatomy]](http://dx.doi.org10.1002/cne.20733)
+</div>
+
+## Functional segregation
+
+<div class="centered">
+<img src="../figs/swanson-2005-fig-8.jpg" height=450px>
+
+[[@swanson2005anatomy]](http://dx.doi.org10.1002/cne.20733)
+</div>
+
+## Do what, where, how?
+
+<div class="centered">
+<img src="../figs/swanson-book-eye-limb.jpg" height=450px>
+
+[[@swanson2012brain]](https://books.google.com/books?hl=en&lr=&id=tAk8Rr00kykC&oi=fnd&pg=PP2&dq=larry+swanson+book&ots=5F7nEnts45&sig=DJLKh5BF_8aVqpOdK28Qmh1wr5Q#v=onepage&q=larry%20swanson%20book&f=false)
+</div>
+
+## Facets of cognition
+
+- Perception
+- Attention
+- Imagery
+
+## Facets of cognition
+
+- Learning and conditioning
+- Memory
+    + Episodic
+    + Semantic
+    + Procedural
+- Language
+
+## Facets of cognition
+
+- Thinking
+- Problem solving
+- Decision making
+- Motivation
+
+## Cognition and the cerebral cortex
+
+<div class="centered">
+<img src="../figs/swanson-book-rat-human-cortex.jpg" height=450px>
+
+[[@swanson2012brain]](https://books.google.com/books?hl=en&lr=&id=tAk8Rr00kykC&oi=fnd&pg=PP2&dq=larry+swanson+book&ots=5F7nEnts45&sig=DJLKh5BF_8aVqpOdK28Qmh1wr5Q#v=onepage&q=larry%20swanson%20book&f=false)
+</div>
+
+## Cortical schema
+
+- Areas
+    + Unimodal sensory
+    + Polymodal association
+    + Motor
+- Connections
+    + Association
+    + Commissural
+
+## Cortical areas
+    
+<div class="centered">
+<img src="../figs/swanson-book-fig-10.5.jpg" height=450px>
+
+[[@swanson2012brain]](https://books.google.com/books?hl=en&lr=&id=tAk8Rr00kykC&oi=fnd&pg=PP2&dq=larry+swanson+book&ots=5F7nEnts45&sig=DJLKh5BF_8aVqpOdK28Qmh1wr5Q#v=onepage&q=larry%20swanson%20book&f=false)
+</div>
+
+## Cortical schema
+
+- Columnar structure
+- Cytoarchitectonic differerences (e.g. Brodmann)
+
+## Cortical columns
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cajal_cortex_drawings.png/518px-Cajal_cortex_drawings.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cajal_cortex_drawings.png/518px-Cajal_cortex_drawings.png>
+</div>
+
+## Cortical layers
+
+<div class="centered">
+<img src="../figs/layerscortex.jpg" height=450px>
+
+<http://s27.photobucket.com/user/caiomaximino/media/layerscortex.jpg.html>
+</div>
+
+## Cortical connections by layer
+
+- I:
+- II: *Efferent*: Ipsilateral association
+    + Large pyramidal cells
+- III: *Efferent*: Contralateral commissural
+- IV: *Afferent*: Thalamus
+    + Small stellate, granule
+    + Sub-layers in V1
+    
+## Cortical connections by layer
+
+- V: *Efferent*: Basal ganglia, brainstem, spinal cord: Pyramidal cells
+    + Superficial -> Striatum
+    + Deep -> Brainstem, spinal cord
+- VI: *Efferent*: Thalamus
+
+## Cortical circuit schematic
+
+<div class="centered">
+<img src="../figs/swanson-book-fig-10.12.jpg" height=450px>
+
+[[@swanson2012brain]](https://books.google.com/books?hl=en&lr=&id=tAk8Rr00kykC&oi=fnd&pg=PP2&dq=larry+swanson+book&ots=5F7nEnts45&sig=DJLKh5BF_8aVqpOdK28Qmh1wr5Q#v=onepage&q=larry%20swanson%20book&f=false)
+</div>
+
+## Behavioral control column
+
+<div class="centered">
+<img src="../figs/swanson-2005-fig-3.jpg" height=450px>
+
+[[@swanson2005anatomy]](http://dx.doi.org10.1002/cne.20733)
+</div>
+
+## Behavioral control column
+
+<div class="centered">
+<img src="../figs/swanson-2005-fig-x.jpg" height=450px>
+
+[[@swanson2005anatomy]](http://dx.doi.org10.1002/cne.20733)
+</div>
+
+## Behavioral control column
+
+<div class="centered">
+<img src="../figs/swanson-2005-fig-y.jpg" height=450px>
+
+[[@swanson2005anatomy]](http://dx.doi.org10.1002/cne.20733)
+</div>
+
+## Behavioral control column
+
+<div class="centered">
+<img src="../figs/swanson-2005-fig-z.jpg" height=450px>
+
+[[@swanson2005anatomy]](http://dx.doi.org10.1002/cne.20733)
+</div>
+
+## Behavioral control column
+
+<div class="centered">
+<img src="../figs/swanson-2005-fig-a.jpg" height=450px>
+
+[[@swanson2005anatomy]](http://dx.doi.org10.1002/cne.20733)
+</div>
+
+## Processing networks
+
+<div class="centered">
+<img src="../figs/bressler-2010-fig-a.jpg" height=450px>
+
+[[@bressler2010large]](http://dx.doi.org/10.1016/j.tics.2010.04.004)
+</div>
+
+## Processing networks
+
+<div class="centered">
+<img src="../figs/bressler-2010-fig-2.jpg" height=450px>
+
+[[@bressler2010large]](http://dx.doi.org/10.1016/j.tics.2010.04.004)
+</div>
+
+## Processing networks
+
+<div class="centered">
+<img src="../figs/bressler-2010-fig-5.jpg" height=450px>
+
+[[@bressler2010large]](http://dx.doi.org/10.1016/j.tics.2010.04.004)
+</div>
+
+## Processing networks
+
+<div class="centered">
+<img src="../figs/bressler-2010-fig-6.jpg" width=800px>
+
+[[@bressler2010large]](http://dx.doi.org/10.1016/j.tics.2010.04.004)
+</div>
+
+## Representing information in a network
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Semantic_Net.svg/2000px-Semantic_Net.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Semantic_Net.svg/2000px-Semantic_Net.svg.png>
+</div>
+
+## Memory capacity of the human brain?
+
+- 1e12 neurons
+- 1e3 synapses/neuron
+- 1e15 synapses or 1.25e14 bytes
+- 1e9 gigabyte, 1e12 terabyte, 1e15 petabyte
+
+<http://www.scientificamerican.com/article.cfm?id=what-is-the-memory-capacity>
+
+## What is learning? What is memory
+
+- Learning
+- Memory
+
+## Biological bases of L&M
+
+- Changes in patterns of neural activity
+- Changes in connectivity
+    + New synapses
+    + Altered synapses (strengthened or weakened)
+    
+## Donald Hebb's Insight
+
+*When an axon of cell A is near enough to excite cell B and repeatedly or persistently takes part in firing it, some growth process or metabolic change takes place in one or both cells such that A’s efficacy, as on of the cells firing B, is increased.* (Hebb, 1949, p. 62)
+
+*Neurons that fire together wire together.* (Lowell & Singer, 1992, p. 211).
+
+## NMDA receptor and 'Hebbian' learning
+
+- Coincidence detector
+    + Sending cell has released NT
+    + Receiving cell is/has been recently active
+- Chemically-gated
+    + Ligand- (glutamate + glycine) gated
+- Voltage-gated
+    + Mg++ ion 'plug' removed under depolarization
+
+## NMDA receptor figure
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Activated_NMDAR.svg/220px-Activated_NMDAR.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Activated_NMDAR.svg/220px-Activated_NMDAR.svg.png>
+</div>
+
+## Spike-timing-dependent plasticity
+
+<div class="centered">
+<img src="../figs/caporale-2008-fig-1.jpg" height=450px>
+
+[[@caporale2008spike]](http://dx.doi.org/10.1146/annurev.neuro.31.060407.125639)
+</div>
+   
+## Spike-timing-dependent plasticity
+
+<div class="centered">
+<img src="../figs/caporale-2008-fig-2.jpg" height=450px>
+
+[[@caporale2008spike]](http://dx.doi.org/10.1146/annurev.neuro.31.060407.125639)
+</div>
+ 
+## Dimensions of stored info
+
+- Memory of what?
+    + Facts/events/places vs. skills
+- Memory of when?
+    + Immediate vs. distant past
+- Memory for how long?
+    + Seconds vs. years
+
+## Memory systems in the brain
+
+<div class="centered">
+<img src="../figs/squire-memory-systems.gif" height=450px>
+
+[[@squire_memory_2004]](http://dx.doi.org/10.1016/j.nlm.2004.06.005)
+</div>
+
+## Hippocampus
+
+<div class="centered">
+<img src="../figs/hippocampus-seahorse.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/5/5b/Hippocampus_and_seahorse_cropped.JPG>
+</div>
+
+## Hippocampus roles
+
+- Formation, storage, consolidation of long-term episodic or declarative memories
+- Spatial navigation
+    + Place cells
+    + Grid cells
+    + Head-direction cells
+    
+## Spatial precision of place cells
+
+<div class="centered">
+<a href="http://www.sciencemag.org/content/321/5885/140/F1.large.jpg"><img src="../figs/finite-scale-spatial-rep-F1.large.jpg" height=450px></a>
+
+[[@kjelstrup_finite_2008]](http://dx.doi.org/10.1126/science.1157086)
+
+## Human analogue -- [[@maguire2000navigation]](http://dx.doi.org/10.1073/pnas.070039597)
+
+<div class="centered">
+<a href="http://www.pnas.org/content/97/8/4398/F1.large.jpg"><img src="../figs/maguire-etal-2000-F1.large.jpg" height=450px></a>
+
+[[@maguire2000navigation]](http://dx.doi.org/10.1073/pnas.070039597)
+</div>
+
+## [[@maguire2000navigation]](http://dx.doi.org/10.1073/pnas.070039597)
+
+<div class="centered">
+<a href="http://www.pnas.org/content/97/8/4398/F2.large.jpg"><img src="../figs/maguire-etal-2000-F2.large.jpg" height=450px></a>
+
+[[@maguire2000navigation]](http://dx.doi.org/10.1073/pnas.070039597)
+</div>
+
+## [[@maguire2000navigation]](http://dx.doi.org/10.1073/pnas.070039597)
+
+<div class="centered">
+<a href="http://www.pnas.org/content/97/8/4398/F3.large.jpg"><img src="../figs/maguire-etal-2000-F3.large.jpg" height=450px></a>
+
+[[@maguire2000navigation]](http://dx.doi.org/10.1073/pnas.070039597)
+</div>
+
+## Hippocampal volume in food-caching birds
+
+<div class="centered">
+<img src="../figs/sherry-food-storing-birds-1989.jpg" height=450px>
+
+[[@sherry_hippocampal_1989]](http://dx.doi.org/10.1159/000116516)
+
+## Summary
+
+- Cognition
+    + Do what, where, and how
+- The "cognitive" cortex
+- Processing networks
+    + Functional specialization
+- Learning and memory
+    + Distributed systems
+    + Associative learning, NMDA receptors, and the hippocampus
+
+## References {.smaller}
