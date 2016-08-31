@@ -48,7 +48,11 @@
 
 - Schulze, L., Dziobek, I., Vater, A., Heekeren, H. R., Bajbouj, M., Renneberg, B., ... & Roepke, S. (2013). Gray matter abnormalities in patients with narcissistic personality disorder. Journal of psychiatric research, 47(10), 1363-1369.
 <http://dx.doi.org/10.1016/j.jpsychires.2013.05.017>
+    - narcissistic personality disorder (NPD), structural brain imaging, global brain tissue volume, global gray matter volume, voxel-based morphometry.
+    - anterior insula, medial prefrontal cortex (mPFC).
 - Payer, D. E., Park, M. T. M., Kish, S. J., Kolla, N. J., Lerch, J. P., Boileau, I., & Chakravarty, M. M. (2015). Personality disorder symptomatology is associated with anomalies in striatal and prefrontal morphology. Frontiers in human neuroscience, 9. <http://doi.org/10.3389/fnhum.2015.00472>
+    - Personality disorder symptomatology (PD-Sx), structural magnetic resonance images, fronto-striatal morphology, subcortical volume and shape, cortical thickness/surface area
+    - Caudate tail, ventral striatum, prefrontal cortex
 
 ### Jennifer Wong
 
@@ -85,8 +89,8 @@
     - EEG, ADHD, ASD, biologically informed diagnosis
     - Theta:beta ratio, variability in clinical presentation, comorbidity
 - Musser, E. D., Backs, R. W., Schmitt, C. F., Ablow, J. C., Measelle, J. R., & Nigg, J. T. (2011). Emotion Regulation via the Autonomic Nervous System in Children with Attention-Deficit/Hyperactivity Disorder (ADHD). J Abnorm Child Psychol, 39(6), 841-852. <http://doi.org/10.1007/s10802-011-9499-1>.
-  - ECG, middle childhood, ADHD, emotion regulation
-  - Parasympathetic nervous system (RSA), sympathetic nervous system (PEP)
+    - ECG, middle childhood, ADHD, emotion regulation
+    - Parasympathetic nervous system (RSA), sympathetic nervous system (PEP)
 
 ### Brandon Bray
 
