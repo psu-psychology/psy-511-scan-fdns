@@ -12,10 +12,17 @@
 ### Emily Margaret May
 
 - Galvan, A., Hare, T. A., Parra, C. E., Penn, J., Voss, H., Glover, G., & Casey, B. J. (2006). Earlier development of the accumbens relative to orbitofrontal cortex might underlie risk-taking behavior in adolescents. The Journal of Neuroscience, 26(25), 6885-6892. <http://doi.org/10.1523/JNEUROSCI.1062-06.2006>.
-    - fMRI, reward processing, adolescence
-    - orbitofrontal cortex, frontostriatal circuitry, striatum, nucleus accumbens.
-    - dopamine
+    - What phenomena? reward processing, risk taking
+    - What method? fMRI
+    - Which neuro/anatomical aspects? orbitofrontal cortex, frontostriatal circuitry, striatum, nucleus accumbens.
+    - What hormonal/chemical processes? dopamine
+    - In what population(s)? adolescents, developmental (childhood-adolescence-adulhood)
 - Brady, K. T., & Sinha, R. (2005). Co-occurring mental and substance use disorders: the neurobiological effects of chronic stress. American Journal of Psychiatry, 162(8), 1483-1493. <http://dx.doi.org/10.1176/appi.ajp.162.8.1483>.
+    - What phenomena? comorbidity, substance use, co-occurring psychiatric disorders (ADHD, schizophrenia, mood disorders, PTSD)
+    - What method? Not an empirical paper. Multiple methods implied, but not explicitly mentioned, in this review
+    - Which neuro/anatomical aspects?  Depression/substance use: anterior cingulate, amygdala; PTSD/substance use: amygdala; ADHD: prefrontal cortex; Schizophrenia: prefrontal cortex, hippocampus
+    - What hormonal/chemical processes/neurochemical systems? dopamine, GABA, hypothalamic-pituitary-adrenal (HPA) axis, corticotropin-releasing factor (CRF), cortisol, monoamine oxidase (MAO) activity 
+    - In what population(s)? clinical populations; veterans; adulthood often implied
 
 ### Celina Joos
 
@@ -34,6 +41,8 @@
     - narcissistic personality disorder (NPD), structural brain imaging, global brain tissue volume, global gray matter volume, voxel-based morphometry.
     - anterior insula, medial prefrontal cortex (mPFC).
 - Cascio, C. N., Konrath, S. H., & Falk, E. B. (2015). Narcissists’ social pain seen only in the brain. Social cognitive and affective neuroscience, 10(3), 335-341. <http://scan.oxfordjournals.org/content/10/3/335.short>.
+    - narcissism, social exclusion, social pain network, fMRI, cyberball
+    - anterior insula, dorsal anterior cingulate cortex, subgenual anterior cingulate cortex
 
 ### Leila Ziqi Wu
 
@@ -48,6 +57,9 @@
     - cerebrospinal fluid (CSF), prefrontal cortex
     - dopamine, serotonin, serotonin transporter gene, dopamine receptor sub-types 
 - Pinto, L. A., Sullivan, E. L., Rosenbaum, A., Wyngarden, N., Umhau, J. C., Miller, M. W., & Taft, C. T. (2010). Biological correlates of intimate partner violence perpetration. Aggression and Violent Behavior, 15(5), 387-398. <http://dx.doi.org/10.1016/j.avb.2010.07.001>.
+    - intimate partner aggression, perceived threat, head injury
+    - frontal lobe, HPA axis
+    - serotonin, testosterone, MAOA
 
 ### Rebecca Janis
 
@@ -94,7 +106,7 @@ Choe, D. E., Shaw, D. S., & Forbes, E. E. (2015). Maladaptive social information
 ### Levi Shiverdecker
 
 - Coan, J. A., & Allen, J. J. (2003). Frontal EEG asymmetry and the behavioral activation and inhibition systems. Psychophysiology, 40(1), 106-114. <http://dx.doi.org/10.1111/1469-8986.00011>.
-    - electroencephalograph (EEG), Behavioral Inhibition/Activation Systems
+    - electroencephalography (EEG), Behavioral Inhibition/Activation Systems
     - Frontal EEG Alpha Asymmetry, Hemispheric Specificity
 - Sutton, S. K., & Davidson, R. J. (1997). Prefrontal brain asymmetry: A biological substrate of the behavioral approach and inhibition systems. Psychological Science, 8(3), 204-210. <http://dx.doi.org/10.1111/j.1467-9280.1997.tb00413.x>.
     - Approach/Withdrawal, Personality, Positive/Negative Affect
