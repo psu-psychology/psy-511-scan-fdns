@@ -68,6 +68,8 @@
     - prefrontal cortex, hippocampus, amygdala, autonomic nervous system
     - cortisol, serotonin, dopamine, norepinephrine
 - Mason, L., Peters, E., & Kumari, V. (2016). Functional connectivity predictors and mechanisms of cognitive behavioural therapies: A systematic review with recommendations. Australian and New Zealand Journal of Psychiatry, 50(4), 311-321. <http://dx.doi.org/10.1177/0004867415624970>.
+    - functional connectivity, resting state connectivity, neuroimaging
+    - prefrontal cortex, prefronto-limbic circuitry, insula
 
 ### Benjamin Johnson
 
