@@ -9,6 +9,9 @@
     - Measures: DTI, cerebral asymmetry
     - Structures: arcuate fasciculus, posterior superior temporal gyrus (STG), middle temporal gyrus (MTG).
 - St-Laurent, M., Abdi, H., Burianová, H., & Grady, C. L. (2011). Influence of aging on the neural correlates of autobiographical, episodic, and semantic memory retrieval. Journal of Cognitive Neuroscience, 23(12), 4150-4163. <http://doi.org/10.1162/jocn_a_00079>.
+    - Population/behavior:younger&older adults / Memory (autobiographical, episodic, semantic) 
++    - Measures: fmRI 
++    - Structures:Middle temporal cortices, (L/R)IFG, angular gyrus, caudate nuclei, posterior cingulate, left medial-temporal lobe, bilateral occipital lobe, R superior parietal lobule, L fusiform, left ACC, inferior parietal lobule, precuneus,R supramarginal gyrus, cerebellum
 
 ### Emily Margaret May
 
