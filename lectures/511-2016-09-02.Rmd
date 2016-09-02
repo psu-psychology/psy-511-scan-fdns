@@ -56,6 +56,14 @@ output:
 ### Parietal
 ### Occipital
 
+## Bones of the skull
+
+<div class="centered">
+<a href="https://en.wikipedia.org/wiki/Skull">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Human_skull_side_bones.svg" height=500px/>
+</a>
+</div>
+
 ## Lobes {.smaller}
 
 <div class="centered">

@@ -118,6 +118,7 @@ Trends in Neuroscience</br>
     + Neurophysiology. Read BW 3:57-73.
 - Materials
     + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
+- [**Jessica Filosa, "Vasculo-neuronal Coupling in the Brain", 4-5p, 108 Wartik**](https://www.huck.psu.edu/content/events/2016-09-14-200000jessica-filosavasculo-neuronal-coupling-resting-brain)
 
 #### Fri, September 16
 
@@ -160,6 +161,7 @@ Trends in Neuroscience</br>
 
 - Topics
     + Catch-up
+- **Tal Yarkoni, 4-5p, 108 Wartik**
     
 #### Fri, October 7
 
@@ -246,6 +248,7 @@ Trends in Neuroscience</br>
 #### Wed, November 30
 
 - Student-led session A.
+- [**Craig Powell, "Genetic Models of Autism: Molecules to Potential Therapies", 4-5p, 108 Wartik**](https://www.huck.psu.edu/content/events/2016-11-30-210000craig-powellgenetic-models-autism-molecules-potential-therapeutics)e
 
 #### Fri, December 2
 
