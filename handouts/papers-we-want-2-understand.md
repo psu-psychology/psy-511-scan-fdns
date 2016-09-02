@@ -133,8 +133,13 @@
 
 ### Ashley McDonald
 
-- Russo, S. J., Murrough, J. W., Han, M. H., Charney, D. S., & Nestler, E. J. (2012). Neurobiology of resilience. Nature neuroscience, 15(11), 1475-1484. <http://doi.org/10.1038/nn.3234>.
-- Sinha, R., Lacadie, C. M., Constable, R. T., & Seo, D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences, 113(31), 8837-8842. <http://doi.org/10.1073/pnas.1600965113>.
+- Seeman, T., Epel, E., Gruenewald, T., Karlamangla, A., & McEwen, B. S. (2010). Socio‐economic differentials in peripheral biology: Cumulative allostatic load. Annals of the New York Academy of Sciences, 1186(1), 223-239.
+    - Population/behavior: stress, stress-reactivity,
+    - Structures: Hypothalamic-pituitary-adrenal (HPA) axis, Sympathetic nervous system (SNS),
+    - Neurochemical systems: DHEA, cortisol, Norepinephrine, epinephrine, C-reactive protein, IL-6, glucose
+- Sinha, R., Lacadie, C. M., Constable, R. T., & Seo, D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences, 113(31), 8837-8842.http://doi.org/10.1073/pnas.1600965113.
+    - Structures: amygdala, striatum, hypothalamus, midbrain, right insula, and right dorsolateral prefrontal cortex (DLPFC), ventrolateral prefrontal cortex (VLPFC), dorsal anterior cingulate cortex (dACC), left DLPFC, hippocampus, and left insula, ventromedial prefrontal cortex (VmPFC)
+    - Measures: fMRI
 
 ### Levi Shiverdecker
 
