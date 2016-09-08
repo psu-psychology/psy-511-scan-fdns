@@ -108,6 +108,7 @@ Trends in Neuroscience</br>
     + Cellular neuroanatomy. Read BW 2:23-33. 
 - Materials
     + [Cellular outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/cellular-outline.md).
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-09-09.html). [Rmd](lectures/511-2016-09-09.Rmd).
 
 ### Week 04, September 14 - 16
 

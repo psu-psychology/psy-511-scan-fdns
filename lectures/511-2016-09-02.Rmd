@@ -268,7 +268,7 @@ output:
 ## Brodmann Areas
 
 <div class="centered">
-<img src="http://www.brain-maps.com/gehirn/brodmann_areale.jpg" height=500px>
+<img src="http://www.brain-maps.com/gehirn/brodmann_areale.jpg" width=800px>
 </div>
 
 ## Spinal cord
