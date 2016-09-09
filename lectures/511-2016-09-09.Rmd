@@ -68,13 +68,17 @@ output:
 ## Astrocytes {.bigger}
 
 - "Star-shaped"
-- Most numerous cell type
+- Most numerous cell type in CNS
 - Physical and metabolic support
 	+ Blood/brain barrier
 	+ Ion (Ca++/K+) buffering
 	+ Neurotransmitter (e.g., glutamate) buffering
-	+ Shape early brain development
 	+ Regulate local blood flow
+	
+## Astrocytes
+
+- Shape brain development, [synaptic plasticity](https://en.wikipedia.org/wiki/Synaptic_plasticity)
+- Disruption linked to cognitive impairment, disease [[@chung_glia_2015]](http://doi.org/10.1038/nn.4142)
 	
 ## Astrocytes
 
@@ -204,9 +208,9 @@ output:
 
 - Synapse (~5-10K per neuron) 
 - Pre and postsynaptic membranes
-– Synaptic cleft
+- Synaptic cleft
 - Synaptic vesicles
-    + Neurotransmitters
+    + Store/release neurotransmitters
 - Autoreceptors & transporters
 
 ## Synaptic bouton (terminal button) {.smaller}
@@ -252,7 +256,7 @@ output:
 
 ## Next time
 
-- Quiz 1
+- **Quiz 1**
 - Neurophysiology
 
-## References
+## References {.smaller}
