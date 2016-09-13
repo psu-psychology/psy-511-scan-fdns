@@ -119,6 +119,8 @@ Trends in Neuroscience</br>
     + Neurophysiology. Read BW 3:57-73.
 - Materials
     + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-09-14.html). [Rmd](lectures/511-2016-09-14.Rmd).
+
 - [**Jessica Filosa, "Vasculo-neuronal Coupling in the Brain", 4-5p, 108 Wartik**](https://www.huck.psu.edu/content/events/2016-09-14-200000jessica-filosavasculo-neuronal-coupling-resting-brain)
 
 #### Fri, September 16

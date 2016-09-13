@@ -1,0 +1,231 @@
+---
+title: "511-2015-09-14"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+## Today's Topics
+
+- **Quiz 1**
+- The resting potential
+- The action potential
+
+## Neural communication
+
+- Electrical
+    + Fast(er)
+    + Within neurons
+- Chemical
+    + Slow(er)
+    + Between neurons
+    
+## How are messages generated?
+
+- Electrical potential (== voltage)
+    + Think of potential energy
+    + Voltage ~ pressure
+    + Energy that will be released if something changes
+    
+## Potential energy {.smaller}
+
+<div class="centered">
+<img src="http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png">
+
+<http://physics20project.weebly.com/uploads/1/6/4/8/16484122/1358825569.png>
+</div>
+
+## Types of neural electrical potentials
+
+- Resting potential
+- Action potential
+
+## Resting potential
+
+- Measurement
+    + Electrode on inside
+    + Electrode on outside (reference)
+    + Inside - Outside = potential
+    
+## Resting potential {.smaller}
+
+<div class="centered">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg">
+
+<http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/measuring_the_membrane_potential_w.jpg>
+</div>
+
+## Resting potential
+
+- Neuron (and other cells) have *potential energy*
+    + Inside is -60-70 mV, with respect to outside
+    + About 1/20th typical AAA battery
+- Like charges repel, opposites attract, so
+    + Positively charged particles pulled in
+    + Negatively charged particles pushed out
+    
+## Where does the resting potential come from?
+
+- Ions
+- Ion channels
+- Separation between charges
+- A balance of forces
+
+## We are the champIONs, my friend
+
+- Potassium, K+
+- Sodium, Na+
+- Chloride, Cl-
+- Calcium, Ca++
+- Organic anions, A-
+
+## Party On
+
+- Annie (A-) was having a party.
+    + Used to date Nate (Na+), but now sees Karl (K+)
+- Hired bouncers called
+    + "The Channels"
+    + Let Karl and friends in or out, keep Nate out
+- Annie's friends (A-) and Karl's (K+) mostly inside
+- Nate and friends (Na+) mostly outside
+- Claudia (Cl-) tagging along
+    
+## Party On
+
+<div class="centered">
+<img src="http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png" height=450px>
+</div>
+
+## Ion channels
+
+- Macromolecules that form openings in membrane
+- Different types of subunits
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v2/n4/images/nrn0401_240a_f1.gif">
+</div>
+
+
+## Ion channels
+
+- Selective
+- Vary in permeability
+- Types
+    + Passive/leak
+    + Voltage-gated
+    + Ligand-gated (chemically-gated)
+    + Transporters
+    
+## Ion channels {.smaller}
+
+<div class="centered">
+<img src="http://www.zoology.ubc.ca/~gardner/F21-08.GIF" width=900px>
+
+<http://www.zoology.ubc.ca/~gardner/F21-08.GIF>
+</div>
+
+## Neuron at rest permeable to K+
+
+- Passive K+ channels open
+- K+ flows out
+- K+ outflow creates charge separation from A-
+- Charge separation creates voltage
+- Voltage prevents K+ concentration from equalizing b/w inside and out
+
+## Force of diffusion {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Diffusion.en.svg/1000px-Diffusion.en.svg.png>
+</div>
+
+## Force of diffusion
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg" width=700px>
+
+<https://upload.wikimedia.org/wikipedia/commons/1/12/Bubble_bath.jpg>
+</div>
+
+## Neuron at rest
+
+- Force of diffusion
+    + K+ moves from high concentration (inside) to low (outside)
+- Electrostatic pressure
+    + Voltage build-up stops K+ outflow
+    + Voltage called "reversal potential"
+    + K+ positive, so reversal potential negative (w/ respect to outside)
+    + Reversal potential close to resting potential
+    
+## Equilibrium potential and Nernst equation {.smaller}
+
+<div class="centered">
+<img src="http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif" width=650px>
+
+<http://www.physiologyweb.com/lecture_notes/resting_membrane_potential/figs/nernst_equation_v_k.gif>
+</div>
+
+## Building on intuition
+
+<div class="centered">
+<img src="http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg">
+
+<http://www.daily-player.com/images/articles/finger-in-the-dyke.jpg>
+</div>
+
+## Back to neurons
+
+- Na+ also has reversal potential
+- Membrane at rest not very permeable to Na+
+- Concentrated outside neuron
+- Some Na+ flows *in*
+- Equilibrium potential is positive (with respect to outside)
+
+## Resting potential {.smaller}
+
+- Net effects of ion flow across membrane
+- Goldman-Hodgkin-Katz equation
+
+<div class="centered">
+<img src="http://www.physiologyweb.com/calculators/figs/ghk_equation.gif" width=800px>
+
+<http://www.physiologyweb.com/calculators/figs/ghk_equation.gif>
+</div>
+
+## Electrical circuit model {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg">
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/MembraneCircuit.jpg/500px-MembraneCircuit.jpg>
+</div>
+
+## Resting potential
+
+<div class="centered">
+<img src="http://3.bp.blogspot.com/_HtLvymcBlKo/TJJ9YcQNAtI/AAAAAAAAAB8/E2bzWvAzBew/s1600/10.png" height=450px>
+</div>
+
+## Summary of forces
+
+| Ion | Concentration gradient | Electrostatic force |
+|-----|------------------------|---------------------|
+| K+  | Inside >> Outside, outward      | - (pulls K+ in)    |
+| Na+ | Outside >> Inside, inward      | - (pulls Na+ in)    |
+
+## Video summary of resting potential
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PtKAeihnbv0" frameborder="0" allowfullscreen></iframe>
+
+## Next time...
+
+- Neural communication
+
+## References
