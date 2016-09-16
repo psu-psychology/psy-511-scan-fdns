@@ -48,9 +48,24 @@ output:
 | K+  | Inside >> Outside, outward      | - (pulls K+ in)    |
 | Na+ | Outside >> Inside, inward      | - (pulls Na+ in)    |
 
+## What's a [Na+/K+ pump](https://en.wikipedia.org/wiki/Na%2B/K%2B-ATPase)?
+
+- Enzyme (*Na+/K+ ATP-ase*) embedded in neuron membrane
+- Pumps Na+ and K+ *against* concentration gradients
+- Na+ out; K+ in
+- Uses [ATP](https://en.wikipedia.org/wiki/Adenosine_triphosphate) or chemical energy
+
 ## Na+/K+ "pump" keeps K+ and Na+ separated
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MRKgbwl8vCY" frameborder="0" allowfullscreen></iframe>
+
+----
+
+<div class="centered">
+<a href="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg">
+<img src="http://media-2.web.britannica.com/eb-media/75/103875-004-5F8D1D0E.jpg" height=500px>
+</a>
+</div>
 
 ## Action potential {.smaller}
 
