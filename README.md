@@ -128,6 +128,7 @@ Trends in Neuroscience</br>
 - Topics
     + Neural communication. Read BW 3:55-89.
 - Materials
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-09-16.html). [Rmd](lectures/511-2016-09-16.Rmd).
     + [Neurotransmission-outline](https://github.com/psu-psychology/psych-260/blob/master/outlines/neurotransmission-outline.md).
 
 ### Week 05, September 19 - 23
@@ -135,6 +136,10 @@ Trends in Neuroscience</br>
 #### Mon, September 19
 
 - **Lecture by Greg Miller, “Biological Consequences of Socioeconomic Disadvantage in Early Life", 3:30-4:30 pm in 022 BBH Building.**
+
+#### Tue, September 20
+
+- **Lecture by Stephen Simpson, "Putting the balance back in diet: the nutritional geometry of ageing, obesity and metabolic health", 4:00 pm Berg Auditorium (100 Life Sciences Building)**
 
 #### Wed, September 21
 
