@@ -230,7 +230,7 @@ Remember [Cl-out]>>[Cl-in]
 
 ## Acetylcholine (ACh)
 
-- Primary excitatory NT of PNS output
+- Primary excitatory NT of CNS output
 - Somatic nervous system (neuromuscular junction)
 - Autonomic nervous system
     + Sympathetic branch: preganglionic neuron
