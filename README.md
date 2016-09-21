@@ -145,6 +145,8 @@ Trends in Neuroscience</br>
 
 - Topics
     + Neurochemistry. Read BW: 4:107-124.
+- Materials
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-09-21.html). [Rmd](lectures/511-2016-09-21.Rmd).
 
 #### Fri, September 23
 
