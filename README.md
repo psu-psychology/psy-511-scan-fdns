@@ -152,6 +152,8 @@ Trends in Neuroscience</br>
 
 - Topics
     + Hormones. 5:125-154.
+- Materials
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-09-23.html). [Rmd](lectures/511-2016-09-23.Rmd).
 
 ### Week 06, September 26 - 30
 
