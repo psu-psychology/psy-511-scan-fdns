@@ -161,6 +161,8 @@ Trends in Neuroscience</br>
 
 - Topics
     + Evolution. Read BW 6 & 7. Optional [Hofman 2014](http://www.frontiersin.org/Journal/Abstract.aspx?s=742&name=neuroanatomy&ART_DOI=10.3389/fnana.2014.00015).
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-09-28.html). [Rmd](lectures/511-2016-09-28.Rmd).
+
 
 #### Fri, September 30
 
