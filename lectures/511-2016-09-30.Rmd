@@ -1,0 +1,316 @@
+---
+title: "511-2016-09-30-development"
+author: "Rick Gilmore"
+date: "`r Sys.time()`"
+bibliography: bib/bibliography.bib
+output:
+  ioslides_presentation:
+    css: css/gilmore.css
+    widescreen: true
+    incremental: false
+    transition: default
+---
+
+## Today's Topics
+
+- Development of the nervous system
+
+## Human brains have
+
+- Significant "folding"
+- Dense interconnections
+- Large "association" areas
+
+## How did the system get this way?
+
+## Insemination
+
+- 3-4 days before or up to 1-2 days after...
+    + Ovulation
+
+## Fertilization
+
+- Within ~ 24 hrs of ovulation
+
+## Implantation
+
+- ~ 6 days after fertilization
+
+## Early embryogenesis
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dAOWQC-OBv0" frameborder="0" allowfullscreen></iframe>
+
+## Formation of neural tube (neurulation)
+
+- Ectoderm, mesoderm, endoderm
+- ~18-26 days
+- Failures of neural tube closure
+    + Spina bifida
+    + Anencephaly
+- Neural tube becomes
+    + Ventricles
+    + Central canal of spinal cord
+
+## Neurogenesis and gliogenesis
+
+- Stem cells along ventricles
+- Symmetric cell division
+- Asymmetric cell division
+
+## Radial glia
+
+<div class="centered">
+<img src="img/radial-glia.jpg" height=450px>
+</div>
+
+## Cell migration
+
+<div class="centered">
+<img src="img/neural-tube.jpg" height=450px>
+</div>
+
+## Radial unit hypothesis {.smaller}
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f2.jpg" height=450px>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/ZRF-gKZHINk" frameborder="0" allowfullscreen></iframe>
+
+## Migration
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/t-8bxeWqSV4" frameborder="0" allowfullscreen></iframe>
+
+## Glial migration {.smaller}
+
+<div class="centered">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F4.medium.gif" height=450px>
+
+<http://physrev.physiology.org/content/81/2/871>
+</div>
+
+## Axon growth cone
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Fgmt2RBow0I" frameborder="0" allowfullscreen></iframe>
+
+## Axons follow
+
+- Chemoattractants
+    + e.g., Nerve Growth Factor (NGF)
+- Chemorepellents
+- Receptors in growth cone detect chemical gradients
+
+## Differentiation
+
+- Neuron vs. glial cell
+- Cell type
+- NTs released
+- Where to connect
+
+## Differential gene expression in PFC vs. other {.smaller}
+
+<div class="centered">
+<img src="img/johnson-gene-expression-fig-6.jpeg" height=450px>
+
+[[johnson2009functional]](http://dx.doi.org/10.1016/j.neuron.2009.03.027)
+</div>
+
+## Synaptogenesis
+
+<div class="centered">
+<img src="img/synaptic-density-infant.jpg" height=450px>
+</div>
+
+## Postnatal patterns of synaptogenesis
+
+<div class="centered">
+<img src="img/huttenlocher.jpg" height=450px>
+</div>
+
+## Proliferation, pruning
+
+- Early proliferation
+- Later pruning
+- Rates, peaks differ by area
+
+## Apoptosis
+
+- Programmed cell death
+- 20-80%, varies by area
+- Spinal cord >> cortex
+- Quantity of nerve growth factors (NGF) influences
+
+## Apoptosis and cortical expansion
+
+<div class="centered">
+<img src="http://www.nature.com/nrn/journal/v10/n10/images/nrn2719-f3.jpg" height=450px>
+
+[[@rakic2009evolution]](http://dx.doi.org/10.1038/nrn2719)
+</div>
+
+## Synaptic rearrangement
+
+<div class="centered">
+<img src="img/huttenlocher.jpg" height=450px>
+</div>
+
+## Synaptic rearrangement
+
+- Progressive phase: growth rate >> loss rate
+- Regressive phase: growth rate << loss rate
+
+## Myelination
+
+<div class="centered">
+<img src="http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F6.large.jpg" height=450px>
+
+<http://d6igaq6njxgjh.cloudfront.net/content/physrev/81/2/871/F6.large.jpg>
+</div>
+
+## Myelination
+
+- Neonatal brain largely unmyelinated
+- Gradual myelination, peaks in mid-20s
+- Non-uniform pattern
+    - Spinal cord before brain
+    - Sensory before motor
+
+## Myelination across human development
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F1.medium.gif" height=450px>
+
+[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)
+</div>
+
+## Networks in the brain
+
+<div class="centered">
+<img src="https://pressroom.usc.edu/files/2014/02/brain-networks.jpg" height=450px>
+
+[[@10.3389/fnhum.2014.00051]](http://doi.org/10.3389/fnhum.2014.00051)
+
+## Myelination changes "network" properties
+
+<div class="centered">
+<img src="http://www.pnas.org/content/107/44/19067/F2.medium.gif" height=450px>
+
+[[@Hagmann02112010]](http://doi.org/10.1073/pnas.1009073107)
+</div>
+
+## Synaptic rearrangment, myelination change cortical thickness
+
+- [[@gogtay2004dynamic]](gogtay2004dynamic)
+- Areal differences in cortical thickness change
+
+## [[@gogtay2004dynamic]](gogtay2004dynamic)
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie1.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie2.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie3.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+<video width="320" height="240" controls>
+  <source src="mov/02680Movie4.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+## Human brain development take homes
+
+- Prenatal
+    + Neuro- and gliogenesis
+    + Migration
+    + Synaptogenesis begins
+    + Differentiation
+    + Apoptosis
+    + Myelination begins
+    + Infant gene expression ≠ Adult
+    
+## Human brain development take homes
+
+- Postnatal
+    + Synaptogenesis
+    + Cortical expansion, activity-dependent change
+    + Myelination
+    + Prolonged period of postnatal/pre-reproductive development [[@konner_evolution_2011]](http://www.hup.harvard.edu/catalog.php?isbn=9780674062016)
+    
+## How brain development clarifies anatomical structure
+
+## 3-4 weeks
+
+<div class="centered">
+<img src="img/swanson-1.jpg" height=450px>
+</div>
+
+## 4 weeks {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/4/4c/4_week_embryo_brain.jpg>
+</div>
+
+## ~4 weeks
+
+<div class="centered">
+<img src="img/swanson-2.jpg" height=450px>
+</div>
+
+## 6 weeks {.smaller}
+
+<div class="centered">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png" height=450px>
+
+<https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/6_week_human_embryo_nervous_system.svg/500px-6_week_human_embryo_nervous_system.svg.png>
+</div>
+
+## ~6 weeks
+
+<div class="centered">
+<img src="img/swanson-3.jpg" height=450px>
+</div>
+
+## Beyond
+
+<div class="centered">
+<img src="img/swanson-4.jpg" height=450px>
+</div>
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure       |
+|----------------|----------------------|--------------------|-----------------|
+| Forebrain      | Lateral              | Telencephalon      | Cerebral cortex |
+|                |                      |                    | Basal ganglia   |
+|                |                      |                    | Hippocampus, amygdala |
+|                | Third                | Diencephalon       | Thalamus        |
+|                |                      |                    | Hypothalamus    |
+| Midbrain       | Cerebral Aqueduct    | Mesencephalon      | Tectum, tegmentum |
+
+
+## Organization of the brain
+
+| Major division | Ventricular Landmark | Embryonic Division | Structure         |
+|----------------|----------------------|--------------------|-------------------|
+| Hindbrain      | 4th                  | Metencephalon      | Cerebellum, pons  |
+|                | --                   | Mylencephalon      | Medulla oblongata |
+
+## Next time...
+
+- Perception
+
+## References {.smaller}
