@@ -174,15 +174,16 @@ Trends in Neuroscience</br>
 #### Wed, October 5
 
 - Topics
-    + Catch-up
+    + Perception. Read BW 8:223-247.
+    + Lecture notes. [PDF](511-2016-10-05-perception.pdf)
 - **Tal Yarkoni, 4-5p, 108 Wartik**
     
 #### Fri, October 7
 
 - Topics
-    + **Quiz 2**
-    + Perception. Read BW 8:223-247.
- 
+    + Action
+    + Take home **Quiz 2** (due Monday, 10/10)
+
 ### Week 08, October 10 - 14
 
 #### Wed, October 12
@@ -198,12 +199,11 @@ Trends in Neuroscience</br>
 #### Wed, October 19
 
 - Topics
-    + Action.
+    + Cognition. Read BW 17, 18, 19.
 
 #### Fri, October 21
 
-- Topics
-    + Cognition. Read BW 17, 18, 19.
+**NO CLASS**
 
 ### Week 10, October 24 - 26
 
@@ -215,7 +215,8 @@ Trends in Neuroscience</br>
 #### Fri, October 28
 
 - Topic
-    + **Quiz 3**
+    + Catch-up/things we missed along the way
+    + ~~**Quiz 3**~~
 
 ### Week 11, October 31 - November 4
 
@@ -223,14 +224,12 @@ Trends in Neuroscience</br>
 
 - Topics
     + Disorder and Disease. Read BW 16.
-    + [Student-led sessions outline](student-led-session-topics.md)
 
 #### Fri, November 4
 
 - Topics
     + Disorder and Disease. Read BW 16.
-    + [Student-led sessions outline](student-led-session-topics.md)
-    + **[Take home exam distributed](exam/511-exam.pdf)**. *Right click on [this link](exam/511-exam-pdf) and save a copy to your local computer.*
+    + **Take home exam distributed**.
 
 ### Week 12, November 7 - 11
 
