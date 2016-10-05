@@ -175,7 +175,7 @@ Trends in Neuroscience</br>
 
 - Topics
     + Perception. Read BW 8:223-247.
-    + Lecture notes. [PDF](511-2016-10-05-perception.pdf)
+    + Lecture notes. [PDF](lectures/511-2016-10-05-perception.pdf)
 - **Tal Yarkoni, 4-5p, 108 Wartik**
     
 #### Fri, October 7
