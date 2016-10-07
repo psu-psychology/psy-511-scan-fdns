@@ -182,7 +182,8 @@ Trends in Neuroscience</br>
 
 - Topics
     + Action
-    + Take home **Quiz 2** (due Monday, 10/10)
+    + Lecture notes. [PDF](lectures/511-2016-10-07-action.pdf)
+    + Take home [**Quiz 2**](quiz/quiz-02/511-quiz-2.pdf) (due Monday, 10/10, 5p).
 
 ### Week 08, October 10 - 14
 
