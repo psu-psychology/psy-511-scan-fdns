@@ -201,6 +201,7 @@ Trends in Neuroscience</br>
 
 - Topics
     + Cognition. Read BW 17, 18, 19.
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-10-19.html). [Rmd](lectures/511-2016-10-19.Rmd).
 
 #### Fri, October 21
 
