@@ -213,6 +213,7 @@ Trends in Neuroscience</br>
 
 - Topic
     + Emotion. Read BW 15.
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-10-26.html). [Rmd](lectures/511-2016-10-26.Rmd).
 
 #### Fri, October 28
 
