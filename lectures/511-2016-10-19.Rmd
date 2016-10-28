@@ -293,9 +293,10 @@ output:
     + Sending cell has released NT
     + Receiving cell is/has been recently active
 - Chemically-gated
-    + Ligand- (glutamate + glycine) gated
+    + Ligand- (glutamate/aspartate + glycine) gated
 - Voltage-gated
-    + Mg++ ion 'plug' removed under depolarization
+    + Zn++ or Mg++ ion 'plug' removed under depolarization
+    + Na+ & Ca++ influx; K+ outflux
 
 ## NMDA receptor figure
 
@@ -304,6 +305,12 @@ output:
 
 <https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Activated_NMDAR.svg/220px-Activated_NMDAR.svg.png>
 </div>
+
+## NMDA clinical significance
+
+- Memantine blocks (Alzheimer's Disease)
+- Implicated in effects of PCP (~schizophrenia: Glu hypothesis)
+- Alcohol, ketamine, nitrous oxide (NO)
 
 ## Spike-timing-dependent plasticity
 
