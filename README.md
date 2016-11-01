@@ -227,6 +227,7 @@ Trends in Neuroscience</br>
 
 - Topics
     + Disorder and Disease. Read BW 16.
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-11-02.html). [Rmd](lectures/511-2016-11-02.Rmd).
 
 #### Fri, November 4
 

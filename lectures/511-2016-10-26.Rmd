@@ -419,7 +419,7 @@ Adapted from [[@davis1992role]](http://dx.doi.org/10.1016/0165-6147(92)90014-W)
 
 ## Glucocorticoid cascade hypothesis
 
-- Cort receptors in Hip
+- Cort receptors in hippocampus, hypothalamus, amygdala
 - Hip regulates HPA axis via hyp
 - Prolonged cortisol exposure reduces hip response
 - Reduced volume, connectivity in hip
