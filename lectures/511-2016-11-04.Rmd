@@ -103,6 +103,13 @@ Woody Guthrie died from Huntington's Disease.
 <img src="img/schizophrenia-risk.jpg" height=450px>
 </div>
 
+## Genome-wide association studies (GWAS)
+
+- [Psychiatric Genetics Consortium (PGC)](https://www.med.unc.edu/pgc) study
+- 37K schizophrenia cases, 113K controls
+- 108 loci, DRD2 receptor and Glu neurotransmission
+- [[@schizophrenia_working_group_of_the_psychiatric_genomics_consortium_biological_2014]](http://doi.org/10.1038/nature13595)
+
 ## Ventricles larger, esp in males
 
 <div class="centered">
@@ -134,7 +141,7 @@ Woody Guthrie died from Huntington's Disease.
 
 ## Evidence for DA hypothesis
 
-- DA (D2 receptor) antagonists (e.g. chlorpromazine)
+- DA (D2 receptor -- DRD2) antagonists (e.g. chlorpromazine)
     + improve positive symptoms
 - DA agonists
     + amphetamine, cocaine, L-DOPA
@@ -150,23 +157,23 @@ Woody Guthrie died from Huntington's Disease.
     + Underactivation of NMDA receptors?
     + NMDA receptor role in learning, plasticity
 
-## Schizophrenia summed up
-
-- Wide-ranging disturbance of mood, thought, action, perception
-- Broad changes in brain structure, function, chemistry
-- Genetic risk + environmental factors
-
 ## Questioning "chemical imbalance"
 
 *In short, we cannot afford to view our patients’ afflictions in the balkanized terms of “mental” vs. “physical”, “mind” vs. “body”, “psyche” vs. “soma”. Neither can we afford the luxury of supposing that only one type of treatment—medication or psychotherapy—will be effective for the illnesses we treat. On the contrary, the best available evidence suggests that each modality, or their synergistic combination, may be effective—depending on the specific illness.*
 
 [[@pies2011psychiatry]](http://www.psychiatrictimes.com/blogs/couch-crisis/psychiatry-new-brain-mind-and-legend-chemical-imbalance)
 
+## Schizophrenia summed up
+
+- Wide-ranging disturbance of mood, thought, action, perception
+- Broad changes in brain structure, function, chemistry
+- Genetic risk + environmental factors
+- ***"In psychiatry, conventional drug discovery is at an impasse1. In 2015, three (cariprazine, aripiprazole lauroxil, and brexpiprazole) out of 45 new drugs approved by FDA were related to psychiatry."*** [[@breen_translating_2016]](http://doi.org/10.1038/nn.4411)
+
 ## Neurodegenerative disorders
 
 - Parkinson's
 - Huntington's
-
 
 ## Parkinson's
 
