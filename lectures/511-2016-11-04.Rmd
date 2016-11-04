@@ -215,7 +215,14 @@ Maurice White, Musician
     + "Chorea" from Greek for "dance"
     + “Dance-like” pattern of involuntary movements
 - Cognitive decline
-- Genetic + environmental influences
+- Child onset >> severity than adult
+
+## Huntington's
+
+- Genetic factors
+    + HTT gene
+    + autosomal dominant (need from 1 parent only)
+    + CAG trinucleotide repeats, more -> greater risk
 - Disturbance in striatum
 - No effective treatment
 

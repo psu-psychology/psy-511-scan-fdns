@@ -233,7 +233,7 @@ Trends in Neuroscience</br>
 
 - Topics
     + Disorder and Disease. Read BW 16.
-    + **Take home exam distributed**.
+    + [**Take home exam distributed**](exam/511-exam.pdf).
     + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-11-04.html). [Rmd](lectures/511-2016-11-04.Rmd).
 
 ### Week 12, November 7 - 11
