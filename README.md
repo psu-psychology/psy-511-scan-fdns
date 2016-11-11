@@ -246,6 +246,7 @@ Trends in Neuroscience</br>
 #### Fri, November 11
 
 - Planning for student-led sessions
+    + Lecture notes. [HTML](https://rawgit.com/psu-psychology/psy-511-scan-fdns/master/lectures/511-2016-11-11.html). [Rmd](lectures/511-2016-11-11.Rmd).
 
 ### Week 13, November 14 - 18
 

@@ -1,0 +1,56 @@
+---
+title: "511-2016-11-11"
+author: "Rick O. Gilmore"
+date: "November 11, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Impulsivity
+
+- Addiction
+- Aggression
+- Suicidality, self-harm
+- Interpersonal conflict
+    
+van Zutphen, L., Siep, N., Jacob, G. A., Goebel, R., & Arntz, A. (2015). Emotional sensitivity, emotion regulation and impulsivity in borderline personality disorder: A critical review of fMRI studies. Neuroscience & Biobehavioral Reviews, 51, 64–76. http://doi.org/10.1016/j.neubiorev.2015.01.001.
+
+Ruocco, A. C., Rodrigo, A. H., McMain, S. F., Page-Gould, E., Ayaz, H., & Links, P. S. (2016). Predicting treatment outcomes from prefrontal cortex activation for self-harming patients with borderline personality disorder: A preliminary study. Frontiers in Human Neuroscience, 220. http://doi.org/10.3389/fnhum.2016.00220.
+
+- Members
+    + Sindes, Alex, Ben1, Rebecca, Jen
+
+## Cognitive control
+
+- In therapy
+- Language
+- Attention
+
+Musser, E. D., Backs, R. W., Schmitt, C. F., Ablow, J. C., Measelle, J. R., & Nigg, J. T. (2011). Emotion Regulation via the Autonomic Nervous System in Children with Attention-Deficit/Hyperactivity Disorder (ADHD). J Abnorm Child Psychol, 39(6), 841-852. http://doi.org/10.1007/s10802-011-9499-1.
+
+McRae, K., Gross, J. J., Weber, J., Robertson, E. R., Sokol-Hessner, P., Ray, R. D., … Ochsner, K. N. (2012). The development of emotion regulation: an fMRI study of cognitive reappraisal in children, adolescents and young adults. Social Cognitive and Affective Neuroscience, 7, 11–22. http://dx.doi.org/10.1093/scan/nsr093.
+
+Schore, A. N. (1996). The experience-dependent maturation of a regulatory system in the orbital prefrontal cortex and the origin of developmental psychopathology. Development and Psychopathology, 8(01), 59-87. http://doi.org/10.1017/S0954579400006970.
+
+Blair, C., & Raver, C. C. (2015). School readiness and self-regulation: A developmental psychobiological approach. Annual review of psychology, 66, 711. http://doi.org/10.1146/annurev-psych-010814-015221.
+
+- Sara1, Levi1, Brandon, Shana1
+
+## Stress
+
+Marceau, K., Dorn, L. D., & Susman, E. J. (2012). Stress and puberty-related hormone reactivity, negative emotionality, and parent–adolescent relationships. Psychoneuroendocrinology, 37(8), 1286-1298. http://dx.doi.org/10.1016/j.psyneuen.2012.01.001.
+
+Taylor, S. E., Klein, L. C., Lewis, B. P., Gruenewald, T. L., Gurung, R. A., & Updegraff, J. A. (2000). Biobehavioral responses to stress in females: tend-and-befriend, not fight-or-flight. Psychological review, 107(3), 411. http://dx.doi.org/10.1037//0033-295x.107.3.411.
+
+Seeman, T., Epel, E., Gruenewald, T., Karlamangla, A., & McEwen, B. S. (2010). Socio‐economic differentials in peripheral biology: Cumulative allostatic load. Annals of the New York Academy of Sciences, 1186(1), 223-239.
+
+Sinha, R., Lacadie, C. M., Constable, R. T., & Seo, D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences, 113(31), 8837-8842.http://doi.org/10.1073/pnas.1600965113.
+
+- Ashley, Celina, Emily, Hillary, Shana2
+
+## Sleep
+
+- Levi2, Ben2, Sara2
