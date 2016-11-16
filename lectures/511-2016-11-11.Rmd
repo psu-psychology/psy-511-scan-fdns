@@ -20,8 +20,7 @@ van Zutphen, L., Siep, N., Jacob, G. A., Goebel, R., & Arntz, A. (2015). Emotion
 
 Ruocco, A. C., Rodrigo, A. H., McMain, S. F., Page-Gould, E., Ayaz, H., & Links, P. S. (2016). Predicting treatment outcomes from prefrontal cortex activation for self-harming patients with borderline personality disorder: A preliminary study. Frontiers in Human Neuroscience, 220. http://doi.org/10.3389/fnhum.2016.00220.
 
-- Members
-    + Sindes, Alex, Ben1, Rebecca, Jen
+- Sindes, Alex, Ben1, Rebecca, Jen, Leila
 
 ## Cognitive control
 
@@ -37,7 +36,7 @@ Schore, A. N. (1996). The experience-dependent maturation of a regulatory system
 
 Blair, C., & Raver, C. C. (2015). School readiness and self-regulation: A developmental psychobiological approach. Annual review of psychology, 66, 711. http://doi.org/10.1146/annurev-psych-010814-015221.
 
-- Sara1, Levi1, Brandon, Shana1
+- Sara, Levi, Brandon, Shana
 
 ## Stress
 
@@ -49,8 +48,4 @@ Seeman, T., Epel, E., Gruenewald, T., Karlamangla, A., & McEwen, B. S. (2010). S
 
 Sinha, R., Lacadie, C. M., Constable, R. T., & Seo, D. (2016). Dynamic neural activity during stress signals resilient coping. Proceedings of the National Academy of Sciences, 113(31), 8837-8842.http://doi.org/10.1073/pnas.1600965113.
 
-- Ashley, Celina, Emily, Hillary, Shana2
-
-## Sleep
-
-- Levi2, Ben2, Sara2, Emily2, Leila
+- Ashley, Celina, Emily, Hillary, Shana
