@@ -20,7 +20,7 @@ van Zutphen, L., Siep, N., Jacob, G. A., Goebel, R., & Arntz, A. (2015). Emotion
 
 Ruocco, A. C., Rodrigo, A. H., McMain, S. F., Page-Gould, E., Ayaz, H., & Links, P. S. (2016). Predicting treatment outcomes from prefrontal cortex activation for self-harming patients with borderline personality disorder: A preliminary study. Frontiers in Human Neuroscience, 220. http://doi.org/10.3389/fnhum.2016.00220.
 
-- Sindes, Alex, Ben1, Rebecca, Jen, Leila
+- Sindes, Alex, Ben, Rebecca, Jen, Leila
 
 ## Cognitive control
 

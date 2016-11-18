@@ -266,22 +266,22 @@ Trends in Neuroscience</br>
 
 #### Wed, November 30
 
-- Student-led session A.
+- Planning for student-led sessions.
 - [**Craig Powell, "Genetic Models of Autism: Molecules to Potential Therapies", 4-5p, 108 Wartik**](https://www.huck.psu.edu/content/events/2016-11-30-210000craig-powellgenetic-models-autism-molecules-potential-therapeutics)e
 
 #### Fri, December 2
 
-- Student-led session B.
+- Stress (Ashley, Celina, Emily, Hillary)
 
 ### Week 16, December 5 - 9
 
 #### Wed, December 7
 
-- Student-led session C.
+- Impulsivity (Sindes, Alex, Ben, Rebecca, Jen, Leila)
 
 ### Fri, December 9
 
-- Student-led session D.
+- Cognitive control (Sara, Levi, Brandon, Shana).
 
 ### Week 17, December 12 - 16
 
