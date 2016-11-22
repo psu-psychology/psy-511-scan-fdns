@@ -282,6 +282,9 @@ Trends in Neuroscience</br>
 ### Fri, December 9
 
 - Cognitive control (Sara, Levi, Brandon, Shana).
+- Readings
+    + Botvinick, M. M., & Cohen, J. D. (2014). The Computational and Neural Basis of Cognitive Control: Charted Territory and New Frontiers. Cognitive Science, 38(6), 1249–1285. https://doi.org/10.1111/cogs.12126
+    + Miller, E. K. (2000). The prefontral cortex and cognitive control. Nature Reviews Neuroscience, 1(1), 59–65. https://doi.org/10.1038/35036228
 
 ### Week 17, December 12 - 16
 
