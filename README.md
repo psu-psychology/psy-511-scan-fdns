@@ -273,8 +273,8 @@ Trends in Neuroscience</br>
 
 - Stress (Ashley, Celina, Emily, Hillary)
 - Readings
-    + Lupien, S. J., McEwen, B. S., Gunnar, M. R., & Heim, C. (2009). Effects of stress throughout the lifespan on the brain, behaviour and cognition. Nature Reviews Neuroscience, 10(6), 434-445. http://doi.org/10.1038/nrn2639.
-    + Russo, S. J., Murrough, J. W., Han, M. H., Charney, D. S., & Nestler, E. J. (2012). Neurobiology of resilience. Nature neuroscience, 15(11), 1475-1484. http://doi.org/10.1038/nn.3234.
+    + Lupien, S. J., McEwen, B. S., Gunnar, M. R., & Heim, C. (2009). Effects of stress throughout the lifespan on the brain, behaviour and cognition. *Nature Reviews Neuroscience*, *10*(6), 434-445. http://doi.org/10.1038/nrn2639.
+    + Russo, S. J., Murrough, J. W., Han, M. H., Charney, D. S., & Nestler, E. J. (2012). Neurobiology of resilience. *Nature Neuroscience*, *15*(11), 1475-1484. http://doi.org/10.1038/nn.3234.
 
 ### Week 16, December 5 - 9
 
@@ -286,8 +286,8 @@ Trends in Neuroscience</br>
 
 - Cognitive control (Sara, Levi, Brandon, Shana).
 - Readings
-    + Botvinick, M. M., & Cohen, J. D. (2014). The Computational and Neural Basis of Cognitive Control: Charted Territory and New Frontiers. Cognitive Science, 38(6), 1249–1285. https://doi.org/10.1111/cogs.12126
-    + Miller, E. K. (2000). The prefontral cortex and cognitive control. Nature Reviews Neuroscience, 1(1), 59–65. https://doi.org/10.1038/35036228
+    + Botvinick, M. M., & Cohen, J. D. (2014). The computational and neural basis of cognitive control: Charted territory and new frontiers. *Cognitive Science*, *38*(6), 1249–1285. https://doi.org/10.1111/cogs.12126
+    + Miller, E. K. (2000). The prefontral cortex and cognitive control. *Nature Reviews Neuroscience*, *1*(1), 59–65. https://doi.org/10.1038/35036228
 
 ### Week 17, December 12 - 16
 
