@@ -267,11 +267,14 @@ Trends in Neuroscience</br>
 #### Wed, November 30
 
 - Planning for student-led sessions.
-- [**Craig Powell, "Genetic Models of Autism: Molecules to Potential Therapies", 4-5p, 108 Wartik**](https://www.huck.psu.edu/content/events/2016-11-30-210000craig-powellgenetic-models-autism-molecules-potential-therapeutics)e
+- [**Craig Powell, "Genetic Models of Autism: Molecules to Potential Therapies", 4-5p, 108 Wartik**](https://www.huck.psu.edu/content/events/2016-11-30-210000craig-powellgenetic-models-autism-molecules-potential-therapeutics)
 
 #### Fri, December 2
 
 - Stress (Ashley, Celina, Emily, Hillary)
+- Readings
+    + Lupien, S. J., McEwen, B. S., Gunnar, M. R., & Heim, C. (2009). Effects of stress throughout the lifespan on the brain, behaviour and cognition. Nature Reviews Neuroscience, 10(6), 434-445. http://doi.org/10.1038/nrn2639.
+    + Russo, S. J., Murrough, J. W., Han, M. H., Charney, D. S., & Nestler, E. J. (2012). Neurobiology of resilience. Nature neuroscience, 15(11), 1475-1484. http://doi.org/10.1038/nn.3234.
 
 ### Week 16, December 5 - 9
 
