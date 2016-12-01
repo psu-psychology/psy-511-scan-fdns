@@ -281,6 +281,9 @@ Trends in Neuroscience</br>
 #### Wed, December 7
 
 - Impulsivity (Sindes, Alex, Ben, Rebecca, Jen, Leila)
+- Readings
+    + Mitchell, M. R., & Potenza, M. N. (2014). Recent insights into the neurobiology of impulsivity. Current addiction reports, 1(4), 309-319. http://doi.org/10.1007/s40429-014-0037-4
+    + Wang, Q., Chen, C., Cai, Y., Li, S., Zhao, X., Zheng, L., ... & Xue, G. (2016). Dissociated neural substrates underlying impulsive choice and impulsive action. NeuroImage, 134, 540-549. http://doi.org/10.1016/j.neuroimage.2016.04.010
 
 ### Fri, December 9
 
